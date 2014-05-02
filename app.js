@@ -70,14 +70,15 @@ function findLongLat() {
 		var url = resturl.replace(/ADDRESS/, addr);
 		if (school.lat) {
 			console.log(i);
-			grab(++i);
+			grab(--i);
 		}
  		 else {
- 			console.log(url); 
+ 			console.log(url);
+ 			var hash = escape("#");
+ 			url = url.replace(/#/g,hash);
 			request(url, function(error, response, body) {
 				nobody = false;
 				if (!error && response.statusCode == 200) {
-					console.log("grabbing.")
 					try {
 						var obj = JSON.parse(body);
 						school.lat = obj.results[0].geometry.location.lat;
@@ -88,22 +89,21 @@ function findLongLat() {
 					}
 				} else
 					nobody = true;
-				console.log("nobody",nobody);
-				if (i == len - 1 || nobody) {
+				if (!i || nobody) {
 					str = beautify(JSON.stringify(schools), {
 						indent_size : 2
 					});
 					fs.writeFileSync(
 							"USPostsecondarySchoolsWithCoordinates.json", str);
-					console.log("JSON file created.");
+					console.log("JSON file created.", nobody);
 				} else {
 					sleep.usleep(500000);
-					grab(++i);
+					grab(--i);
 				}
 			});
  		 }
 	}
-	grab(0);
+	grab(len-1);
 }
 //fixCurrentData();
 findLongLat();
