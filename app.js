@@ -54,67 +54,92 @@ function fixCurrentData() {
 	console.log("JSON file created.");
 }
 
-function findLongLat() {
-	var resturl = "http://maps.google.com/maps/api/geocode/json?address=ADDRESS&sensor=false";
+function removeUselessFields() {
 	var str = fs.readFileSync("USPostsecondarySchools.json", {
 		encoding : "utf-8"
 	});
 	var schools = JSON.parse(str);
-	var len = schools.length;
+	var noLatSchools = [];
+
+	for ( var i = 0; i < schools.length; i++) {
+		var school = schools[i];
+		if (!school.lat) {
+			noLatSchools.push(school);
+			schools.splice(i,1);
+			i--;
+		}
+		else {
+			delete school.addr;
+			delete school.zip;
+			delete school.state;
+			delete school.city;
+		}
+	}
+
+	str = beautify(JSON.stringify(schools), {
+		indent_size : 2
+	});
+	fs.writeFileSync("USPostsecondarySchoolsWithoutAddress.json", str);
 	
+	str = beautify(JSON.stringify(noLatSchools), {
+		indent_size : 2
+	});
+	fs.writeFileSync("USPostsecondarySchoolsToBeChecked.json", str);
+	console.log("JSON file created.");
+}
+
+function findLongLat() {
+	var resturl = "http://maps.google.com/maps/api/geocode/json?address=ADDRESS&sensor=false";
+	var str = fs.readFileSync("USPostsecondarySchoolsToBeChecked.json", {
+		encoding : "utf-8"
+	});
+	var schools = JSON.parse(str);
+	var len = schools.length;
+
 	function grab(i) {
-		
+
 		function save() {
 			str = beautify(JSON.stringify(schools), {
 				indent_size : 2
 			});
-			fs.writeFileSync(
-					"USPostsecondarySchoolsWithCoordinates.json", str);
-			console.log("JSON file created.", nobody);
+			fs.writeFileSync("USPostsecondarySchoolsWithCoordinates.json", str);
+			console.log("JSON file created.");
 		}
-		if (i >= len || i < 0)
-			return save();
-		
+
 		var school = schools[i];
 		console.log(JSON.stringify(school));
 		var addr = (school.addr + "," + school.city + "," + school.zip + "," + school.state)
 				.replace(/\s+/g, "+");
 		var url = resturl.replace(/ADDRESS/, addr);
-		
-		
-		if (school.lat) {
-			console.log(i);
-			grab(--i);
-		}
- 		 else {
- 			console.log(url);
- 			var hash = escape("#");
- 			url = url.replace(/#/g,hash);
-			request(url, function(error, response, body) {
-				nobody = false;
-				if (!error && response.statusCode == 200) {
-					try {
-						var obj = JSON.parse(body);
-						school.lat = obj.results[0].geometry.location.lat;
-						school.lng = obj.results[0].geometry.location.lng;
-						console.log(school.lat, school.lng);
-					} catch (e) {
-						nobody = true;
-					}
-				} else
+
+		console.log(url);
+		var hash = escape("#");
+		url = url.replace(/#/g, hash);
+		request(url, function(error, response, body) {
+			nobody = false;
+			if (!error && response.statusCode == 200) {
+				try {
+					var obj = JSON.parse(body);
+					school.lat = obj.results[0].geometry.location.lat;
+					school.lng = obj.results[0].geometry.location.lng;
+					console.log(school.lat, school.lng);
+				} catch (e) {
 					nobody = true;
-				if (!i || nobody) {
-					save();
-				} else {
-					sleep.usleep(500000);
-					grab(--i);
 				}
-			});
- 		 }
+			} else
+				nobody = true;
+			if (nobody || i == len - 1) {
+				save();
+			} else {
+				sleep.usleep(500000);
+				grab(++i);
+			}
+		});
+
 	}
-	grab(len-1);
+	grab(0);
 }
-//fixCurrentData();
+// fixCurrentData();
 findLongLat();
 
 function createJson() {
