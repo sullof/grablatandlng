@@ -90,23 +90,28 @@ function removeUselessFields() {
 
 function findLongLat() {
 	var resturl = "http://maps.google.com/maps/api/geocode/json?address=ADDRESS&sensor=false";
-	var str = fs.readFileSync("USPostsecondarySchoolsToBeChecked.json", {
+	var str = fs.readFileSync("USPostsecondarySchools.json", {
 		encoding : "utf-8"
 	});
 	var schools = JSON.parse(str);
-	var len = schools.length;
 
+	function save() {
+		str = beautify(JSON.stringify(schools), {
+			indent_size : 2
+		});
+		fs.writeFileSync("USPostsecondarySchoolsWithCoordinates.json", str);
+		console.log("JSON file created.");
+	}
+	
 	function grab(i) {
 
-		function save() {
-			str = beautify(JSON.stringify(schools), {
-				indent_size : 2
-			});
-			fs.writeFileSync("USPostsecondarySchoolsWithCoordinates.json", str);
-			console.log("JSON file created.");
-		}
+		if (i == schools.length)
+			return save();
 
 		var school = schools[i];
+		if (school.lat) {
+			return grab(++i);
+		}
 		console.log(JSON.stringify(school));
 		var addr = (school.addr + "," + school.city + "," + school.zip + "," + school.state)
 				.replace(/\s+/g, "+");
@@ -116,7 +121,7 @@ function findLongLat() {
 		var hash = escape("#");
 		url = url.replace(/#/g, hash);
 		request(url, function(error, response, body) {
-			nobody = false;
+			noBody = false;
 			if (!error && response.statusCode == 200) {
 				try {
 					var obj = JSON.parse(body);
@@ -124,11 +129,11 @@ function findLongLat() {
 					school.lng = obj.results[0].geometry.location.lng;
 					console.log(school.lat, school.lng);
 				} catch (e) {
-					nobody = true;
+					noBody = true;
 				}
 			} else
-				nobody = true;
-			if (nobody || i == len - 1) {
+				noBody = true;
+			if (noBody) {
 				save();
 			} else {
 				sleep.usleep(500000);
