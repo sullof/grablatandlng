@@ -63,11 +63,25 @@ function findLongLat() {
 	var len = schools.length;
 	
 	function grab(i) {
+		
+		function save() {
+			str = beautify(JSON.stringify(schools), {
+				indent_size : 2
+			});
+			fs.writeFileSync(
+					"USPostsecondarySchoolsWithCoordinates.json", str);
+			console.log("JSON file created.", nobody);
+		}
+		if (i >= len || i < 0)
+			return save();
+		
 		var school = schools[i];
 		console.log(JSON.stringify(school));
 		var addr = (school.addr + "," + school.city + "," + school.zip + "," + school.state)
 				.replace(/\s+/g, "+");
 		var url = resturl.replace(/ADDRESS/, addr);
+		
+		
 		if (school.lat) {
 			console.log(i);
 			grab(--i);
@@ -90,12 +104,7 @@ function findLongLat() {
 				} else
 					nobody = true;
 				if (!i || nobody) {
-					str = beautify(JSON.stringify(schools), {
-						indent_size : 2
-					});
-					fs.writeFileSync(
-							"USPostsecondarySchoolsWithCoordinates.json", str);
-					console.log("JSON file created.", nobody);
+					save();
 				} else {
 					sleep.usleep(500000);
 					grab(--i);
