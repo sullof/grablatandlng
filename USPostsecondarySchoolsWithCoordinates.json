@@ -4,217 +4,279 @@
   "city": "Little Rock",
   "state": "AR",
   "zip": "72211",
-  "dom": "arkansas.dalecarnegie.com"
+  "dom": "arkansas.dalecarnegie.com",
+  "lat": 34.746048,
+  "lng": -92.396715
 }, {
   "name": "Arizona Training Group, LLC Dale Carnegie Training of Arizona",
   "addr": "4500 S. Lakeshore Drive, #300",
   "city": "Tempe",
   "state": "AZ",
   "zip": "85282",
-  "dom": "phoenix.dalecarnegie.com"
+  "dom": "phoenix.dalecarnegie.com",
+  "lat": 33.3815581,
+  "lng": -111.9263103
 }, {
   "name": "Long Technical College - East Valley",
   "addr": "4646 E. Van Buren Street  Suite #350",
   "city": "Phoenix",
   "state": "AZ",
   "zip": "85008-1716",
-  "dom": "lontechnicalcollege.com"
+  "dom": "lontechnicalcollege.com",
+  "lat": 33.4517966,
+  "lng": -111.9847567
 }, {
   "name": "Phoenix Therapeutic Massage College",
   "addr": "8010 East McDowell Road #214",
   "city": "Scottsdale",
   "state": "AZ",
   "zip": "85257",
-  "dom": "ptmcaz.edu"
+  "dom": "ptmcaz.edu",
+  "lat": 33.466729,
+  "lng": -111.907469
 }, {
   "name": "Tohono O'Odham Community College",
   "addr": "Mile Post #125.5, Highway 86 North, P.O. Box 3129",
   "city": "Sells",
   "state": "AZ",
   "zip": "85634",
-  "dom": "tocc.cc.az.us"
+  "dom": "tocc.cc.az.us",
+  "lat": 31.9120215,
+  "lng": -111.881234
 }, {
   "name": "Capstone College",
   "addr": "1200 North Fair Oaks Avenue, #32",
   "city": "Pasadena",
   "state": "CA",
   "zip": "91103",
-  "dom": "adelantecareerinstitute.com"
+  "dom": "adelantecareerinstitute.com",
+  "lat": 34.1658456,
+  "lng": -118.1494966
 }, {
   "name": "Central California School of Continuing Education - San Luis",
   "addr": "San Luis Obispo Campus 3195 McMillan #F",
   "city": "San Luis Obispo",
   "state": "CA",
   "zip": "93401",
-  "dom": "ccsce.org"
+  "dom": "ccsce.org",
+  "lat": 35.2827524,
+  "lng": -120.6596156
 }, {
   "name": "Central Coast College",
   "addr": "480 S Main Street",
   "city": "Salinas",
   "state": "CA",
   "zip": "93901",
-  "dom": "centralcoastcollege.edu"
+  "dom": "centralcoastcollege.edu",
+  "lat": 36.6695842,
+  "lng": -121.6556852
 }, {
   "name": "Chase College",
   "addr": "3580 Wilshire Blvd #400",
   "city": "Los Angeles",
   "state": "CA",
   "zip": "90010",
-  "dom": "chase.edu"
+  "dom": "chase.edu",
+  "lat": 34.0614461,
+  "lng": -118.3028634
 }, {
   "name": "Church Divinity School of the Pacific",
   "addr": "2451 Ridge Road",
   "city": "Berkeley",
   "state": "CA",
   "zip": "94709-1211",
-  "dom": "cdsp.edu"
+  "dom": "cdsp.edu",
+  "lat": 37.8762337,
+  "lng": -122.261079
 }, {
   "name": "EC San Diego",
   "addr": "1012 Prospect Street, #200",
   "city": "La Jolla",
   "state": "CA",
   "zip": "92037",
-  "dom": "icae-lajolla.com"
+  "dom": "icae-lajolla.com",
+  "lat": 32.8476975,
+  "lng": -117.2747681
 }, {
   "name": "EPIC Bible College",
   "addr": "4330 Auburn Boulevard",
   "city": "Sacramento",
   "state": "CA",
   "zip": "95841",
-  "dom": "epic.edu"
+  "dom": "epic.edu",
+  "lat": 38.6451012,
+  "lng": -121.362445
 }, {
   "name": "Emperor's College of Traditional Oriental Medicine",
   "addr": "1807-B Wilshire Blvd, Ste #200",
   "city": "Santa Monica",
   "state": "CA",
   "zip": "90403",
-  "dom": "emperors.edu"
+  "dom": "emperors.edu",
+  "lat": 34.0307517,
+  "lng": -118.4852547
 }, {
   "name": "Empire College",
   "addr": "3035 Cleveland Ave",
   "city": "Santa Rosa",
   "state": "CA",
   "zip": "95403-2126",
-  "dom": "empcol.edu"
+  "dom": "empcol.edu",
+  "lat": 38.4680617,
+  "lng": -122.7292415
 }, {
   "name": "Infotech Career College",
   "addr": "8527 Alondra Blvd., #173",
   "city": "Paramount",
   "state": "CA",
   "zip": "90723",
-  "dom": "infotechinst.com"
+  "dom": "infotechinst.com",
+  "lat": 33.8900501,
+  "lng": -118.1501927
 }, {
   "name": "Inglewood Community Adult School",
   "addr": "106 E. Manchester Boulevard, Suite 350",
   "city": "Inglewood",
   "state": "CA",
   "zip": "90301",
-  "dom": "inglewood.k12.ca"
+  "dom": "inglewood.k12.ca",
+  "lat": 33.961477,
+  "lng": -118.354327
 }, {
   "name": "Intercoast Colleges",
   "addr": "3745 W. Chapman Avenue  #100",
   "city": "Orange",
   "state": "CA",
   "zip": "92868",
-  "dom": "intercoastcolleges.com"
+  "dom": "intercoastcolleges.com",
+  "lat": 33.7894278,
+  "lng": -117.8935165
 }, {
   "name": "Interior Designers Institute",
   "addr": "1061 Camelback Rd",
   "city": "Newport Beach",
   "state": "CA",
   "zip": "92660",
-  "dom": "idi.edu"
+  "dom": "idi.edu",
+  "lat": 33.641187,
+  "lng": -117.866392
 }, {
   "name": "International Center for American English",
   "addr": "1012 Prospect Street, #200",
   "city": "La Jolla",
   "state": "CA",
   "zip": "",
-  "dom": "icae-lj.com"
+  "dom": "icae-lj.com",
+  "lat": 32.8476975,
+  "lng": -117.2747681
 }, {
   "name": "International Professional School of Bodywork",
   "addr": "9025 Balboa Avenue, Suite 130",
   "city": "San Diego",
   "state": "CA",
   "zip": "62123",
-  "dom": "ipsb.edu"
+  "dom": "ipsb.edu",
+  "lat": 32.821226,
+  "lng": -117.134037
 }, {
   "name": "LA College International",
   "addr": "3200 Wilshire Blvd. #400",
   "city": "Los Angeles",
   "state": "CA",
   "zip": "90010-1308",
-  "dom": "lac.edu"
+  "dom": "lac.edu",
+  "lat": 34.0614162,
+  "lng": -118.2920236
 }, {
   "name": "La Sierra University",
   "addr": "4500 Riverwalk Parkway",
   "city": "Riverside",
   "state": "CA",
   "zip": "92515-8247",
-  "dom": "lasierra.edu"
+  "dom": "lasierra.edu",
+  "lat": 33.9115594,
+  "lng": -117.500056
 }, {
   "name": "PCI College",
   "addr": "17215 Studebaker Rd #310",
   "city": "Cerritos",
   "state": "CA",
   "zip": "90703",
-  "dom": "pci-ed.com"
+  "dom": "pci-ed.com",
+  "lat": 33.8745229,
+  "lng": -118.1002027
 }, {
   "name": "San Diego County ROP",
   "addr": "6401 Linda Vista Road, Room #408",
   "city": "San Diego",
   "state": "CA",
   "zip": "92111",
-  "dom": "sdcoe.k12.ca.us"
+  "dom": "sdcoe.k12.ca.us",
+  "lat": 32.769409,
+  "lng": -117.179608
 }, {
   "name": "The University of West Los Angeles",
   "addr": "9920 S. La Cienega Blvd. #404",
   "city": "Inglewood",
   "state": "CA",
   "zip": "90301",
-  "dom": "uwla.edu"
+  "dom": "uwla.edu",
+  "lat": 33.9459223,
+  "lng": -118.3697815
 }, {
   "name": "Thomas J. Kiblen & Associates Dale Carnegie Training",
   "addr": "2525 Cherry Avenue Suite #105",
   "city": "Long Beach",
   "state": "CA",
   "zip": "",
-  "dom": "longbeach.dalecarnegie.com"
+  "dom": "longbeach.dalecarnegie.com",
+  "lat": 33.7914186,
+  "lng": -118.1676435
 }, {
   "name": "University of the Rockies",
   "addr": "555 E Pikes Peak Ave #108",
   "city": "Colorado Springs",
   "state": "CO",
   "zip": "80903-3612",
-  "dom": "rockies.edu"
+  "dom": "rockies.edu",
+  "lat": 38.8329804,
+  "lng": -104.8142615
 }, {
   "name": "Florida College of Natural Health",
   "addr": "2600 Lake Lucien Drive   Suite#140",
   "city": "Maitland",
   "state": "FL",
   "zip": "32751",
-  "dom": "WWW.FCNH.COM"
+  "dom": "WWW.FCNH.COM",
+  "lat": 28.630026,
+  "lng": -81.39668999999999
 }, {
   "name": "Babel University Professional School of Translation",
   "addr": "1833 Kalakaua Avenue #208",
   "city": "Honolulu",
   "state": "HI",
   "zip": "96815",
-  "dom": "babel.edu"
+  "dom": "babel.edu",
+  "lat": 21.288183,
+  "lng": -157.834902
 }, {
   "name": "I'Mproving, LLC - Dale Carnegie Training",
   "addr": "2101 Nuuana Avenue, #704",
   "city": "Honolulu",
   "state": "HI",
   "zip": "96817",
-  "dom": "hawaii.dalecarnegie.com"
+  "dom": "hawaii.dalecarnegie.com",
+  "lat": 21.322586,
+  "lng": -157.8496025
 }, {
   "name": "BCRI Career Training",
   "addr": "1951 S. Saturn Way #120",
   "city": "Boise",
   "state": "ID",
   "zip": "83709",
-  "dom": "cri.org"
+  "dom": "cri.org",
+  "lat": 43.5859809,
+  "lng": -116.2796097
 }, {
   "name": "Saint Mary's College",
   "addr": "132 Le Mans Hall Indiana Rt. 933",
