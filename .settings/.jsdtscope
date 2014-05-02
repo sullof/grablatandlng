@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="node_modules/randomstring/|node_modules/wrench/lib/|node_modules/wrench/tests/readdir/foo/bar/|node_modules/wrench/tests/shown/foo/bar/|node_modules/randomstring/lib/|node_modules/wrench/tests/|lib/" kind="src" path=""/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry excluding="lib/" kind="src" path="node_modules/randomstring"/>
+	<classpathentry kind="src" path="node_modules/randomstring/lib"/>
+	<classpathentry kind="src" path="node_modules/wrench/lib"/>
+	<classpathentry excluding="readdir/foo/bar/|shown/foo/bar/" kind="src" path="node_modules/wrench/tests"/>
+	<classpathentry kind="src" path="node_modules/wrench/tests/readdir/foo/bar"/>
+	<classpathentry kind="src" path="node_modules/wrench/tests/shown/foo/bar"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
