@@ -73,6 +73,7 @@ function findLongLat() {
 			grab(++i);
 		}
  		 else {
+ 			console.log(url); 
 			request(url, function(error, response, body) {
 				nobody = false;
 				if (!error && response.statusCode == 200) {
