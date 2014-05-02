@@ -61,24 +61,18 @@ function findLongLat() {
 	});
 	var schools = JSON.parse(str);
 	var len = schools.length;
-	// var index = 0;
-	// for (var i=0;i<len;i++) {
-	// if (!schools[i].lat) {
-	// index = i;
-	// break;
-	// }
-	// }
-	// console.log(len, "index",index);
+	
 	function grab(i) {
 		var school = schools[i];
+		console.log(JSON.stringify(school));
 		var addr = (school.addr + "," + school.city + "," + school.zip + "," + school.state)
 				.replace(/\s+/g, "+");
 		var url = resturl.replace(/ADDRESS/, addr);
-		console.log(url);
 		if (school.lat) {
+			console.log(i);
 			grab(++i);
 		}
- 		 else
+ 		 else {
 			request(url, function(error, response, body) {
 				nobody = false;
 				if (!error && response.statusCode == 200) {
@@ -93,6 +87,7 @@ function findLongLat() {
 					}
 				} else
 					nobody = true;
+				console.log("nobody",nobody);
 				if (i == len - 1 || nobody) {
 					str = beautify(JSON.stringify(schools), {
 						indent_size : 2
@@ -101,10 +96,11 @@ function findLongLat() {
 							"USPostsecondarySchoolsWithCoordinates.json", str);
 					console.log("JSON file created.");
 				} else {
-					sleep.usleep(200000);
+					sleep.usleep(500000);
 					grab(++i);
 				}
 			});
+ 		 }
 	}
 	grab(0);
 }
