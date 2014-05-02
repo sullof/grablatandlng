@@ -80,6 +80,7 @@ function findLongLat() {
 		}
  		 else
 			request(url, function(error, response, body) {
+				nobody = false;
 				if (!error && response.statusCode == 200) {
 					console.log("grabbing.")
 					try {
@@ -88,10 +89,11 @@ function findLongLat() {
 						school.lng = obj.results[0].geometry.location.lng;
 						console.log(school.lat, school.lng);
 					} catch (e) {
+						nobody = true;
 					}
 				} else
-					console.log("request error");
-				if (i == len - 1 || !body) {
+					nobody = true;
+				if (i == len - 1 || nobody) {
 					str = beautify(JSON.stringify(schools), {
 						indent_size : 2
 					});
