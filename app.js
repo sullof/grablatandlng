@@ -106,8 +106,8 @@ function findLongLat() {
 	}
 	grab(0);
 }
-fixCurrentData();
-// findLongLat();
+//fixCurrentData();
+findLongLat();
 
 function createJson() {
 
