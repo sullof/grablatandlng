@@ -1,0 +1,2160 @@
+atsu.edu|A.T. Still University of Health Sciences|AZ / MO
+acu.edu|Abilene Christian University|TX
+abac.edu|Abraham Baldwin Agricultural College|GA
+academyart.edu|Academy of Art University|CA
+adams.edu|Adams State College|CO
+adelphi.edu|Adelphi University|NY
+alfredadler.edu|Adler Graduate School|MN
+adler.edu|Adler School of Professional Psychology|IL
+adrian.edu|Adrian College|MI
+adu.edu|Adventist University of Health Sciences|FL
+agnesscott.edu|Agnes Scott College|GA
+aib.edu|AIB College of Business|IA
+afit.edu|Air Force Institute of Technology|OH
+maxwell.af.mil/units/au|Air University|AL
+aamu.edu|Alabama A&M University|AL
+alasu.edu|Alabama State University|AL
+akbible.edu|Alaska Bible College|AK
+alaskapacific.edu|Alaska Pacific University|AK
+acphs.edu|Albany College of Pharmacy & Health Sciences|NY
+amc.edu|Albany Medical College|NY
+asurams.edu|Albany State University|GA
+albertus.edu|Albertus Magnus College|CT
+albion.edu|Albion College|MI
+albright.edu|Albright College|PA
+alcorn.edu|Alcorn State University|MS
+ab.edu|Alderson-Broaddus College|WV
+alfred.edu|Alfred University|NY
+alc.edu|Alice Lloyd College|KY
+allegheny.edu|Allegheny College|PA
+allencollege.edu|Allen College|IA
+allenuniversity.edu|Allen University|SC
+alliant.edu|Alliant International University|CA
+alma.edu|Alma College|MI
+alvernia.edu|Alvernia University|PA
+alverno.edu|Alverno College|WI
+ambassador.edu|Ambassador University|TX) <I>(closed spring 1997)</I></LI>
+amberton.edu|Amberton University|TX
+aaart.edu|American Academy of Art|IL
+theamericancollege.edu|American College|PA
+acaom.edu|American College of Acupuncture & Oriental Medicine|TX
+ace.edu|American College of Education|IL
+act-sf.org|American Conservatory Theater|CA
+afi.com|American Film Institute|CA
+aicag.edu|American Indian College of the Assemblies of God|AZ
+aiuniv.edu|American InterContinental University|IL
+aic.edu|American International College|MA
+aju.edu|American Jewish University|CA
+amu.apus.edu|American Military University|WV
+apu.apus.edu|American Public University|WV
+american.edu|American University|DC
+aupr.edu|American University of Puerto Rico|PR
+amherst.edu|Amherst College|MA
+amridgeuniversity.edu|Amridge University|AL
+andersonuniversity.edu|Anderson University|SC
+anderson.edu|Anderson University|IN
+ants.edu|Andover Newton Theological School|MA
+andrews.edu|Andrews University|MI
+angelo.edu|Angelo State University|TX
+annamaria.edu|Anna Maria College|MA
+antiochcollege.org|Antioch College|OH
+midwest.antioch.edu|Antioch University-Midwest|OH
+antiochne.edu|Antioch University-New England|NH
+antiochla.edu|Antioch University-Los Angeles|CA
+antiochsb.edu|Antioch University-Santa Barbara|CA
+antiochseattle.edu|Antioch University-Seattle|WA
+aoma.edu|AOMA Graduate School of Integrative Medicine|TX
+abc.edu|Appalachian Bible College|WV
+appstate.edu|Appalachian State University|NC
+aquinas.edu|Aquinas College|MI
+aquinascollege.edu|Aquinas College|TN
+ai.edu|Aquinas Institute of Theology|MO
+arcadia.edu|Arcadia University|PA
+argosy.edu|Argosy University|IL
+arizonachristian.edu|Arizona Christian University|AZ
+asu.edu|Arizona State University|AZ
+campus.asu.edu/downtown|Arizona State University-Downtown Phoenix Campus|AZ
+campus.asu.edu/polytechnic|Arizona State-Polytechnic Campus|AZ
+campus.asu.edu/west|Arizona State University-West Campus|AZ
+arkansasbaptist.edu|Arkansas Baptist College|AR
+astate.edu|Arkansas State University|AR
+atu.edu|Arkansas Tech University|AR
+arlingtonbaptistcollege.edu|Arlington Baptist College|TX
+armstrong.edu|Armstrong Atlantic State University|GA
+artacademy.edu|Art Academy of Cincinnati|OH
+artcenter.edu|Art Center College of Design|CA
+artinstitutes.edu/atlanta|Art Institute of Atlanta|GA
+artinstitutes.edu/denver|Art Institute of Colorado|CO
+artinstitutes.edu/dallas|Art Institute of Dallas|TX
+artinstitutes.edu/houston|Art Institute of Houston|TX
+artinstitutes.edu/pittsburgh|Art Institute of Pittsburgh|PA
+artinstitutes.edu/portland|Art Institute of Portland|OR
+artinstitutes.edu/seattle|Art Institute of Seattle|WA
+asburyseminary.edu|Asbury Theological Seminary|KY
+asbury.edu|Asbury University|KY
+ashford.edu|Ashford University|IA
+ashland.edu|Ashland University|OH
+ambs.edu|Associated Mennonite Biblical Seminary|IN
+assumption.edu|Assumption College|MA
+athenaeum.edu|Athenaeum of Ohio|OH
+athens.edu|Athens State University|AL
+auburn.edu|Auburn University|AL
+aum.edu|Auburn University at Montgomery|AL
+augsburg.edu|Augsburg College|MN
+augustana.edu|Augustana College|IL
+augie.edu|Augustana College|SD
+aurora.edu|Aurora University|IL
+austincollege.edu|Austin College|TX
+austingrad.edu|Austin Graduate School of Theology|TX
+apsu.edu|Austin Peay State University|TN
+austinseminary.edu|Austin Presbyterian Theological Seminary|TX
+avemaria.edu|Ave Maria University|FL
+averett.edu|Averett University|VA
+avila.edu|Avila University|MO
+apu.edu|Azusa Pacific University|CA
+daemen.edu|Daemen College|NY
+dsu.edu|Dakota State University|SD
+dwu.edu|Dakota Wesleyan University|SD
+dbu.edu|Dallas Baptist University|TX
+dallas.edu|Dallas Christian College|TX
+dts.edu|Dallas Theological Seminary|TX
+daltonstate.edu|Dalton State College|GA
+dwc.edu|Daniel Webster College|NH
+dartmouth.edu|Dartmouth College|NH
+davenport.edu|Davenport University|MI
+davidson.edu|Davidson College|NC
+davisny.edu|Davis College|NY
+dewv.edu|Davis & Elkins College|WV
+daytonastate.edu|Daytona State College|FL
+dean.edu|Dean College|MA
+defiance.edu|Defiance College|OH
+desu.edu|Delaware State University|DE
+delval.edu|Delaware Valley College|PA
+deltastate.edu|Delta State University|MS
+denison.edu|Denison University|OH
+denverseminary.edu|Denver Seminary|CO
+depaul.edu|DePaul University|IL
+depauw.edu|DePauw University|IN
+dmu.edu|Des Moines University-Osteopathic Medical Center|IA
+desales.edu|DeSales University|PA
+devry.edu|DeVry University|IL
+add.devry.edu|DeVry University-Addison|IL
+devry.edu/locations/campuses/loc_arlingtoncampus.jsp" TARGET="_blank" CLASS="institution">DeVry University-Arlington|VA
+chi.devry.edu|DeVry University-Chicago|IL
+atl.devry.edu|DeVry University-Georgia|GA
+dal.devry.edu|DeVry University-Irving|TX
+kc.devry.edu|DeVry University-Kansas City|MO
+lb.devry.edu|DeVry University-Long Beach|CA
+orl.devry.edu|DeVry University-Orlando|FL
+phx.devry.edu|DeVry University-Phoenix|AZ
+pom.devry.edu|DeVry University-Pomona|CA
+dickinson.edu|Dickinson College|PA
+dickinsonstate.edu|Dickinson State University|ND
+dillard.edu|Dillard University|LA
+dwci.edu|Divine Word College|IA
+dixie.edu|Dixie State College|UT
+doane.edu|Doane College|NE
+dc.edu|Dominican College|NY
+dhs.edu|Dominican House of Studies|DC
+dspt.edu|Dominican School of Philosophy & Theology|CA
+dom.edu|Dominican University|IL
+dominican.edu|Dominican University of California|CA
+donnelly.edu|Donnelly College|KS
+dordt.edu|Dordt College|IA
+dowling.edu|Dowling College|NY
+drake.edu|Drake University|IA
+drew.edu|Drew University|NJ
+drexel.edu|Drexel University|PA
+drury.edu|Drury University|MO
+duke.edu|Duke University|NC
+dunwoody.edu|Dunwoody College of Technology|MN
+duq.edu|Duquesne University|PA
+dyc.edu|D Youville College|NY
+earlham.edu|Earlham College|IN
+ecu.edu|East Carolina University|NC
+ecok.edu|East Central University|OK
+esu.edu|East Stroudsburg State University of Pennsylvania|PA
+etsu.edu|East Tennessee State University|TN
+etbu.edu|East Texas Baptist University|TX
+eastwest.edu|East-West University|IL
+easternct.edu|Eastern Connecticut State University|CT
+easternflorida.edu|Eastern Florida State College|FL
+eiu.edu|Eastern Illinois University|IL
+eku.edu|Eastern Kentucky University|KY
+emu.edu|Eastern Mennonite University|VA
+emich.edu|Eastern Michigan University|MI
+enc.edu|Eastern Nazarene College|MA
+enmu.edu|Eastern New Mexico University|NM
+eou.edu|Eastern Oregon University|OR
+eastern.edu|Eastern University|PA
+evms.edu|Eastern Virginia Medical School|VA
+ewu.edu|Eastern Washington University|WA
+eckerd.edu|Eckerd College|FL
+ecpi.edu|ECPI University|VA
+eden.edu|Eden Theological Seminary|MO
+edgewood.edu|Edgewood College|WI
+edinboro.edu|Edinboro University of Pennsylvania|PA
+edison.edu|Edison State College|FL
+edpuniversity.edu|EDP College|PR
+ewc.edu|Edward Waters College|FL
+ecsu.edu|Elizabeth City State University|NC
+etown.edu|Elizabethtown College|PA
+ellis.edu|Ellis University|IL
+public.elmhurst.edu|Elmhurst College|IL
+elmira.edu|Elmira College|NY
+elms.edu|Elms College|MA
+elon.edu|Elon University|NC
+erau.edu|Embry-Riddle Aeronautical University|AZ / FL
+emerson.edu|Emerson College|MA
+ecs.edu|Emmanuel Christian Seminary|TN
+ec.edu|Emmanuel College|GA
+emmanuel.edu|Emmanuel College|MA
+emmaus.edu|Emmaus Bible College|IA
+emporia.edu|Emporia State University|KS
+ehc.edu|Emory & Henry College|VA
+emory.edu|Emory University|GA
+endicott.edu|Endicott College|MA
+erikson.edu|Erikson Institute|IL
+erskine.edu|Erskine College|SC
+eap.edu|Escuela de Artes Pl ásticas de Puerto Rico|PR
+eureka.edu|Eureka College|IL
+evangel.edu|Evangel University|MO
+evangelical.edu|Evangelical Theological Seminary|PA
+evergladesuniversity.edu|Everglades University|FL
+evergreen.edu|Evergreen State College|WA
+excelsior.edu|Excelsior College|NY
+fairfield.edu|Fairfield University|CT
+fdu.edu|Fairleigh Dickinson University|NJ
+fairmontstate.edu|Fairmont State University|WV
+faith.edu|Faith Baptist Bible College & Theological Seminary|IA
+fidm.edu|Fashion Institute of Design & Merchandising|CA
+faulkner.edu|Faulkner University|AL
+uncfsu.edu|Fayetteville State University|NC
+felician.edu|Felician College|NJ
+ferris.edu" TARGET="_blank" CLASS="institution">Ferris State University|MI
+ferrum.edu|Ferrum College|VA
+fielding.edu|Fielding Graduate University|CA
+finlandia.edu|Finlandia University|MI
+fisher.edu|Fisher College|MA
+fisk.edu|Fisk University|TN
+fitchburgstate.edu|Fitchburg State University|MA
+ftc.edu|Five Towns College|NY
+flagler.edu|Flagler College|FL
+famu.edu|Florida Agricultural & Mechanical University|FL
+fau.edu|Florida Atlantic University|FL
+floridacollege.edu|Florida College|FL
+fgcu.edu|Florida Gulf Coast University|FL
+fit.edu|Florida Institute of Technology|FL
+fiu.edu|Florida International University|FL
+fmuniv.edu|Florida Memorial University|FL
+fnu.edu|Florida National University|FL
+flsouthern.edu|Florida Southern College|FL
+fscj.edu|Florida State College at Jacksonville|FL
+fsu.edu|Florida State University|FL
+fontbonne.edu|Fontbonne University|MO
+fordham.edu|Fordham University|NY
+forest.edu|Forest Institute of Professional Psychology|MO
+fhsu.edu|Fort Hays State University|KS
+fortlewis.edu|Fort Lewis College|CO
+fvsu.edu|Fort Valley State University|GA
+framingham.edu|Framingham State University|MA
+fmarion.edu|Francis Marion University|SC
+fst.edu|Franciscan School of Theology|CA
+franciscan.edu|Franciscan University of Steubenville|OH
+taliesin.edu|Frank Lloyd Wright School of Architecture|AZ
+fandm.edu|Franklin & Marshall College|PA
+franklincollege.edu|Franklin College|IN
+franklinpierce.edu|Franklin Pierce University|NH
+franklin.edu|Franklin University|OH
+olin.edu|Franklin W. Olin College of Engineering|MA
+fhu.edu|Freed-Hardeman University|TN
+fresno.edu|Fresno Pacific University|CA
+friends.edu|Friends University|KS
+frontier.edu|Frontier Nursing University|KY
+frostburg.edu|Frostburg State University|MD
+fuller.edu|Fuller Theological Seminary|CA
+furman.edu|Furman University|SC
+future.edu|Future Generations Graduate School|WV
+gallaudet.edu|Gallaudet University|DC
+gannon.edu|Gannon University|PA
+gardner-webb.edu|Gardner-Webb University|NC
+garrett.edu|Garrett-Evangelical Theological Seminary|IL
+geneva.edu/page/index.html" TARGET="_blank" CLASS="institution">Geneva College|PA
+georgefox.edu|George Fox University|OR
+gmu.edu|George Mason University|VA
+gwu.edu|George Washington University|DC
+virginia.gwu.edu|George Washington University-Virginia Science & Technology Campus|VA
+georgetowncollege.edu|Georgetown College|KY
+georgetown.edu|Georgetown University|DC
+gcsu.edu|Georgia College & State University|GA
+ggc.edu|Georgia Gwinnett College|GA
+gatech.edu|Georgia Institute of Technology|GA
+gru.edu|Georgia Regents University|GA
+georgiasouthern.edu|Georgia Southern University|GA
+gsw.edu|Georgia Southwestern State University|GA
+gsu.edu|Georgia State University|GA
+georgian.edu|Georgian Court University|NJ
+gettysburg.edu|Gettysburg College|PA
+glenville.edu|Glenville State College|WV
+globaluniversity.edu|Global University|MO
+gbs.edu|God's Bible School & College|OH
+goddard.edu|Goddard College|VT
+ggbts.edu|Golden Gate Baptist Theological Seminary|CA
+ggu.edu|Golden Gate University|CA
+gbc.edu|Goldey-Beacom College|DE
+barnesjewishcollege.edu|Goldfarb School of Nursing at Barnes-Jewish College|MO
+gonzaga.edu|Gonzaga University|WA
+goodwin.edu|Goodwin College|CT
+gordonstate.edu|Gordon State College|GA
+gordon.edu|Gordon College|MA
+gordonconwell.edu|Gordon-Conwell Theological Seminary|MA
+goshen.edu|Goshen College|IN
+goucher.edu|Goucher College|MD
+govst.edu|Governors State University|IL
+gbcol.edu|Grace Bible College|MI
+grace.edu|Grace College & Seminary|IN
+graceuniversity.edu|Grace University|NE
+graceland.edu|Graceland University|IA
+gial.edu|Graduate Institute of Applied Linguistics|TX
+gtu.edu|Graduate Theological Union|CA
+gram.edu|Grambling State University|LA
+gcu.edu|Grand Canyon University|AZ
+gvsu.edu|Grand Valley State University|MI
+grandview.edu|Grand View University|IA
+granite.edu|Granite State College|NH
+gratz.edu|Gratz College|PA
+gbcnv.edu|Great Basin College|NV
+glcc.edu|Great Lakes Christian College|MI
+greenmtn.edu|Green Mountain College|VT
+greensboro.edu|Greensboro College|NC
+greenville.edu|Greenville College|IL
+grinnell.edu|Grinnell College|IA
+gcc.edu|Grove City College|PA
+guilford.edu|Guilford College|NC
+gulfcoast.edu|Gulf Coast State College|FL
+gustavus.edu|Gustavus Adolphus College|MN
+gmercyu.edu|Gwynedd Mercy University|PA
+icahn.mssm.edu|Icahn School of Medicine at Mount Sinai|NY
+isu.edu|Idaho State University|ID
+iliff.edu|Iliff School of Theology|CO
+ic.edu|Illinois College|IL
+ico.edu|Illinois College of Optometry|IL
+artinstitutes.edu/chicago|Illinois Institute of Art|IL
+artinstitutes.edu/schaumburg|Illinois Institute of Art-Schaumburg|IL
+iit.edu|Illinois Institute of Technology|IL
+illinoisstate.edu|Illinois State University|IL
+iwu.edu|Illinois Wesleyan University|IL
+immaculata.edu|Immaculata University|PA
+irsc.edu|Indian River State College|FL
+indianatech.edu|Indiana Institute of Technology|IN
+indstate.edu|Indiana State University|IN
+iub.edu|Indiana University-Bloomington|IN
+iue.edu|Indiana University-East|IN
+iuk.edu|Indiana University-Kokomo|IN
+iun.edu|Indiana University-Northwest|IN
+iusb.edu|Indiana University-South Bend|IN
+ius.edu|Indiana University-Southeast|IN
+indiana.edu|Indiana University System|IN
+iupuc.edu|Indiana University/Purdue University at Columbus|IN
+ipfw.edu|Indiana University/Purdue University at Fort Wayne|IN
+iupui.edu|Indiana University/Purdue University at Indianapolis|IN
+iup.edu|Indiana University of Pennsylvania|PA
+indwes.edu|Indiana Wesleyan University|IN
+icsw.edu|Institute for Clinical Social Work|IL
+ipsciences.edu|Institute for the Psychological Sciences|VA
+iaia.edu|Institute of American Indian Arts|NM
+iwp.edu|Institute of World Politics|DC
+itc.edu|Interdenominational Theological Center|GA
+iona.edu|Iona College|NY
+iastate.edu|Iowa State University|IA
+iwc.edu|Iowa Wesleyan College|IA
+cityofhope.org/grad-school" TARGET="_blank" CLASS="institution">Irell & Manella Graduate School of Biological Sciences|CA
+ithaca.edu|Ithaca College|NY
+jsums.edu|Jackson State University|MS
+ju.edu|Jacksonville University|FL
+jsu.edu|Jacksonville State University|AL
+jmu.edu|James Madison University|VA
+jarvis.edu|Jarvis Christian College|TX
+jchs.edu|Jefferson College of Health Sciences|VA
+jtsa.edu|The Jewish Theological Seminary of America|NY
+jbu.edu|John Brown University|AR
+jcu.edu|John Carroll University|OH
+jfku.edu|John F. Kennedy University|CA
+jmls.edu|John Marshall Law School|IL
+jhu.edu|Johns Hopkins University|MD
+johnsonu.edu|Johnson University|TN
+fcc.edu|Johnson University Florida|FL
+jcsu.edu|Johnson C. Smith University|NC
+jsc.edu|Johnson State College|VT
+jwu.edu|Johnson & Wales University|RI
+jiu.edu|Jones International University|CO
+judson.edu|Judson College|AL
+judsonu.edu|Judson University|IL
+juilliard.edu|The Juilliard School|NY
+juniata.edu|Juniata College|PA
+laroche.edu|La Roche College|PA
+lasalle.edu|La Salle University|PA
+lasierra.edu|La Sierra University|CA
+laboure.edu|Labouré College|MA
+lafayette.edu|Lafayette College|PA
+lagrange.edu|LaGrange College|GA
+lcad.edu|Laguna College of Art & Design|CA
+lec.edu|Lake Erie College|OH
+lecom.edu|Lake Erie College of Osteopathic Medicine|PA
+lakeforest.edu|Lake Forest College|IL
+lakeforestmba.edu|Lake Forest Graduate School of Management|IL
+lssu.edu|Lake Superior State University|MI
+lssc.edu|Lake-Sumter State College|FL
+lakeland.edu|Lakeland College|WI
+lakeviewcol.edu|Lakeview College of Nursing|IL
+lamar.edu|Lamar University|TX
+lbc.edu|Lancaster Bible College|PA
+lancasterseminary.edu|Lancaster Theological Seminary|PA
+lander.edu|Lander University|SC
+landmark.edu|Landmark College|VT
+lanecollege.edu|Lane College|TN
+lunet.edu|Langston University|OK
+lasell.edu|Lasell College|MA
+ltu.edu|Lawrence Technological University|MI
+lawrence.edu|Lawrence University|WI
+lemoyne.edu|Le Moyne College|NY
+lvc.edu|Lebanon Valley College|PA
+leeuniversity.edu|Lee University|TN
+lmc.edu|Lees-McRae College|NC
+lehigh.edu|Lehigh University|PA
+loc.edu|LeMoyne-Owen College|TN
+lr.edu|Lenoir-Rhyne University|NC
+lesley.edu|Lesley University|MA
+letu.edu|LeTourneau University|TX
+lclark.edu|Lewis & Clark College|OR
+lcsc.edu|Lewis-Clark State College|ID
+lewisu.edu|Lewis University|IL
+lexingtoncollege.edu|Lexington College|IL
+liberty.edu|Liberty University|VA
+lifepacific.edu|Life Pacific College|CA
+life.edu|Life University|GA
+limcollege.edu|LIM College|NY
+limestone.edu|Limestone College|SC
+lincolnchristian.edu|Lincoln Christian University|IL
+lincolncollege.edu|Lincoln College|IL
+lincolncollegene.edu|Lincoln College of New England|CT
+lmunet.edu|Lincoln Memorial University|TN
+lincolnu.edu|Lincoln University|MO
+lincoln.edu|Lincoln University|PA
+lindenwood.edu|Lindenwood University|MO
+lindsey.edu|Lindsey Wilson College|KY
+linfield.edu|Linfield College|OR
+lipscomb.edu|Lipscomb University|TN
+livingstone.edu|Livingstone College|NC
+lhup.edu|Lock Haven University of Pennsylvania|PA
+logan.edu|Logan University|MO
+llu.edu|Loma Linda University|CA
+liu.edu|Long Island University|NY
+www2.brooklyn.liu.edu/pharmacy|Long Island University-Arnold & Marie Schwartz College of Pharmacy & Health Sciences|</LI>
+liu.edu/brentwood|Long Island University-Brentwood Campus|</LI>
+liu.edu/brooklyn.aspx" TARGET="_blank" CLASS="institution">Long Island University-Brooklyn Campus|</LI>
+liu.edu/cwpost.aspx" TARGET="_blank" CLASS="institution">Long Island University-C.W. Post Campus|</LI>
+www2.southampton.liu.edu/riverhead|Long Island University at Riverhead|</LI>
+www2.liu.edu/cwis/rckld|Long Island University-Rockland Graduate Campus|</LI>
+liu.edu/cwis/west|Long Island University-Westchester Graduate Campus|</LI>
+longwood.edu|Longwood University|VA
+longy.edu|Longy School of Music|MA
+loras.edu|Loras College|IA
+lacollege.edu|Louisiana College|LA
+lsu.edu|Louisiana State University|LA
+lsua.edu|Louisiana State University-Alexandria|LA
+law.lsu.edu|Louisiana State University-Law Center|</LI>
+lsuhsc.edu|Louisiana State University Health Sciences Center-New Orleans|LA
+lsuhscshreveport.edu|Louisiana State University Health Sciences Center-Shreveport|</LI>
+lsus.edu|Louisiana State University-Shreveport|LA
+lsusystem.edu|Louisiana State University System|LA
+latech.edu|Louisiana Tech University|LA
+lpts.edu|Louisville Presbyterian Theological Seminary|KY
+lourdes.edu|Lourdes University|OH
+loyola.edu|Loyola University Maryland|MD
+lmu.edu|Loyola Marymount University|CA
+luc.edu|Loyola University Chicago|IL
+loyno.edu|Loyola University New Orleans|LA
+lcu.edu|Lubbock Christian University|TX
+luther.edu|Luther College|IA
+luthersem.edu|Luther Seminary|MN
+lstc.edu|Lutheran School of Theology at Chicago|IL
+ltsg.edu|Lutheran Theological Seminary at Gettysburg|PA
+ltsp.edu|Lutheran Theological Seminary at Philadelphia|PA
+lycoming.edu|Lycoming College|PA
+lymeacademy.edu|Lyme Academy College of Fine Arts|CT
+lynchburg.edu|Lynchburg College|VA
+lyndonstate.edu|Lyndon State College|VT
+lynn.edu|Lynn University|FL
+lyon.edu|Lyon College|AR
+naropa.edu|Naropa University|CO
+national.edu|National American University|SD
+ncnm.edu|National College of Natural Medicine|OR
+ndu.edu|National Defense University|DC
+ngs.edu|National Graduate School of Quality Management|MA
+nhu.edu|National Hispanic University|CA
+ni-u.edu|National Intelligence University|DC
+nlc.edu|National Labor College|MD
+nl.edu|National-Louis University|IL
+nu.edu|National University|CA
+nuhs.edu|National University of Health Sciences|IL
+navajotech.edu|Navajo Technical College|NM
+nps.navy.mil|Naval Postgraduate School|CA
+nbc.edu|Nazarene Bible College|CO
+naz.edu|Nazareth College|NY
+nechristian.edu|Nebraska Christian College|NE
+methodistcollege.edu|Nebraska Methodist College|NE
+nebrwesleyan.edu|Nebraska Wesleyan University|NE
+neumann.edu|Neumann University|PA
+ncf.edu|New College of Florida|FL
+nec.edu|New England College|NH
+necb.edu|New England College of Business & Finance|MA
+neco.edu|New England College of Optometry|MA
+necmusic.edu|New England Conservatory of Music|MA
+artinstitutes.edu/boston|New England Institute of Art|MA
+neit.edu|New England Institute of Technology|RI
+newhope.edu|New Hope Christian College|OR
+njcu.edu|New Jersey City University|NJ
+njit.edu|New Jersey Institute of Technology|NJ
+nmhu.edu|New Mexico Highlands University|NM
+nmt.edu|New Mexico Institute of Mining & Technology|NM
+nmsu.edu|New Mexico State University|NM
+nobts.edu|New Orleans Baptist Theological Seminary|LA
+newschool.edu|The New School|NY
+nycc.edu|New York Chiropractic College|NY
+nyit.edu|New York Institute of Technology|NY
+nymc.edu|New York Medical College|NY
+nyu.edu|New York University|NY
+newberry.edu|Newberry College|SC
+newbury.edu|Newbury College|MA
+newmanu.edu|Newman University|KS
+niagara.edu|Niagara University|NY
+nichols.edu|Nichols College|MA
+nicholls.edu|Nicholls State University|LA
+nsu.edu|Norfolk State University|VA
+ncat.edu|North Carolina A&T State University|NC
+nccu.edu|North Carolina Central University|NC
+ncwc.edu|North Carolina Wesleyan College|NC
+northcentral.edu|North Central University|MN
+northcentralcollege.edu|North Central College|IL
+ncsu.edu|North Carolina State University|NC
+ndsu.edu|North Dakota State University|ND
+ngu.edu|North Greenville University|SC
+northpark.edu|North Park University|IL
+ncu.edu|Northcentral University|AZ
+neomed.edu|Northeast Ohio Medical University|OH
+neiu.edu|Northeastern Illinois University|IL
+nes.edu|Northeastern Seminary at Roberts Wesleyan College|NY
+nsuok.edu|Northeastern State University|OK
+nsuok.edu/BrokenArrow.aspx" TARGET="_blank" CLASS="institution">Northeastern State University-Broken Arrow|OK
+nsuok.edu/Muskogee.aspx" TARGET="_blank" CLASS="institution">Northeastern State University-Muskogee|OK
+northeastern.edu|Northeastern University|MA
+nau.edu|Northern Arizona University|AZ
+seminary.edu|Northern Baptist Theological Seminary|IL
+niu.edu|Northern Illinois University|IL
+nku.edu|Northern Kentucky University|KY
+nmu.edu|Northern Michigan University|MI
+nnmc.edu|Northern New Mexico College|NM
+northern.edu|Northern State University|SD
+northland.edu|Northland College|WI
+nwcu.edu|Northwest Christian University|OR
+nwfsc.edu|Northwest Florida State College|FL
+nwic.edu|Northwest Indian College|WA
+nwmissouri.edu|Northwest Missouri State University|MO
+nnu.edu|Northwest Nazarene University|ID
+northwestu.edu|Northwest University|WA
+nwciowa.edu|Northwestern College|IA
+nwhealth.edu|Northwestern Health Sciences University|MN
+nwosu.edu|Northwestern Oklahoma State University|OK
+nsula.edu|Northwestern State University of Louisiana|LA
+northwestern.edu|Northwestern University|IL
+northwood.edu|Northwood University|FL / MI / TX
+norwich.edu|Norwich University|VT
+notredamecollege.edu|Notre Dame College|OH
+ndnu.edu|Notre Dame de Namur University|CA
+nds.edu|Notre Dame Seminary|LA
+nova.edu|Nova Southeastern University|FL
+nyack.edu|Nyack College|NY
+oakhills.edu|Oak Hills Christian College|MN
+oak.edu|Oakland City University|IN
+oakland.edu|Oakland University|MI
+oakwood.edu|Oakwood University|AL
+oberlin.edu|Oberlin College|OH
+ost.edu|Oblate School of Theology|TX
+oxy.edu|Occidental College|CA
+olc.edu|Oglala Lakota College|SD
+oglethorpe.edu|Oglethorpe University|GA
+ohiochristian.edu|Ohio Christian University|OH
+ohiodominican.edu|Ohio Dominican University|OH
+onu.edu|Ohio Northern University|OH
+osu.edu|Ohio State University|OH
+lima.osu.edu|Ohio State University-Lima|OH
+mansfield.osu.edu|Ohio State University-Mansfield|OH
+osumarion.osu.edu|Ohio State University-Marion|OH
+newark.osu.edu|Ohio State University-Newark|OH
+ohio.edu|Ohio University|OH
+ohio.edu/eastern|Ohio University-Eastern Campus|</LI>
+ohio.edu/lancaster|Ohio University-Lancaster|</LI>
+ohio.edu/zanesville|Ohio University-Zanesville|OH
+ovu.edu|Ohio Valley University|WV
+owu.edu|Ohio Wesleyan University|OH
+okbu.edu|Oklahoma Baptist University|OK
+oc.edu|Oklahoma Christian University|OK
+okcu.edu|Oklahoma City University|OK
+opsu.edu|Oklahoma Panhandle State University|OK
+okstate.edu|Oklahoma State University|OK
+healthsciences.okstate.edu|Oklahoma State University-Center for Health Sciences|OK
+osuit.edu|Oklahoma State University-Institute of Technology|OK
+osuokc.edu|Oklahoma State University-Oklahoma City|OK
+osu-tulsa.okstate.edu|Oklahoma State University-Tulsa|OK
+okwu.edu|Oklahoma Wesleyan University|OK
+odu.edu|Old Dominion University|VA
+olivetcollege.edu|Olivet College|MI
+olivet.edu|Olivet Nazarene University|IL
+olivetuniversity.edu|Olivet University|CA
+olympic.edu|Olympic College|WA
+oru.edu|Oral Roberts University|OK
+ocac.edu|Oregon College of Art & Craft|OR
+ohsu.edu|Oregon Health & Science University|OR
+oit.edu|Oregon Institute of Technology|OR
+oregonstate.edu|Oregon State University|OR
+otis.edu|Otis College of Art & Design|CA
+ottawa.edu|Ottawa University|KS
+otterbein.edu|Otterbein University|OH
+obu.edu|Ouachita Baptist University|AR
+olhcc.edu|Our Lady of Holy Cross College|LA
+ololcollege.edu|Our Lady of the Lake College|LA
+ollusa.edu|Our Lady of the Lake University|TX
+occ.edu|Ozark Christian College|MO
+queens.edu|Queens University of Charlotte|NC
+quincy.edu|Quincy University|IL
+quinnipiac.edu|Quinnipiac University|CT
+radford.edu|Radford University|VA
+ramapo.edu|Ramapo College of New Jersey|NJ
+randolphcollege.edu|Randolph College|VA
+rmc.edu|Randolph-Macon College|VA
+ranken.edu|Ranken Technical College|MO
+rasmussen.edu|Rasmussen College|FL / IL / MN / ND / WI
+rrc.edu|Reconstructionist Rabbinical College|PA
+reed.edu|Reed College|OR
+rts.edu|Reformed Theological Seminary|MS
+regent.edu|Regent University|VA
+regiscollege.edu|Regis College|MA
+regis.edu|Regis University|CO
+reinhardt.edu|Reinhardt University|GA
+rpi.edu|Rensselaer Polytechnic Institute|NY
+researchcollege.edu|Research College of Nursing|MO
+resu.edu|Resurrection University|IL
+ric.edu|Rhode Island College|RI
+risd.edu|Rhode Island School of Design|RI
+rhodes.edu|Rhodes College|TN
+riceinfo.rice.edu|Rice University|TX
+stockton.edu|Richard Stockton College of New Jersey|NJ
+richmont.edu|Richmont Graduate University|TN
+rider.edu|Rider University|NJ
+ringling.edu|Ringling College of Art & Design|FL
+ripon.edu|Ripon College|WI
+rivier.edu|Rivier University|NH
+roanoke.edu|Roanoke College|VA
+robert-morris.edu|Robert Morris University|PA
+robertmorris.edu|Robert Morris University-Illinois|IL
+roberts.edu|Roberts Wesleyan College|NY
+rc.edu|Rochester College|MI
+rit.edu|Rochester Institute of Technology|NY
+rockford.edu|Rockford University|IL
+rockhurst.edu|Rockhurst University|MO
+rocky.edu|Rocky Mountain College|MT
+rmcad.edu|Rocky Mountain College of Art & Design|CO
+rwu.edu|Roger Williams University|RI
+rsu.edu|Rogers State University|OK
+rollins.edu|Rollins College|FL
+roosevelt.edu|Roosevelt University|IL
+rosalindfranklin.edu|Rosalind Franklin University of Medicine & Science|IL
+rose-hulman.edu|Rose-Hulman Institute of Technology|IN
+roseman.edu|Roseman University of Health Sciences|AZ
+rosemont.edu|Rosemont College|PA
+rowan.edu|Rowan University|NJ
+rushu.rush.edu|Rush University|IL
+rustcollege.edu|Rust College|MS
+camden.rutgers.edu|Rutgers University-Camden|NJ
+nb.rutgers.edu|Rutgers University-New Brunswick|NJ
+newark.rutgers.edu|Rutgers University-Newark|NJ
+tabor.edu|Tabor College|KS
+talladega.edu|Talladega College|AL
+tarleton.edu|Tarleton State University|TX
+taylor.edu|Taylor University|IN
+tcmi.org|TCM International Institute|IN
+tc.columbia.edu|Teachers College, Columbia University|NY
+temple.edu|Temple University|PA
+tnstate.edu|Tennessee State University|TN
+tntech.edu|Tennessee Technological University|TN
+twcnet.edu|Tennessee Wesleyan College|TN
+tamiu.edu|Texas A&M International University|TX
+tamu.edu|Texas A&M University|TX
+tamuct.edu|Texas A&M University-Central Texas|TX
+tamuc.edu|Texas A&M University-Commerce|TX
+tamucc.edu|Texas A&M University-Corpus Christi|TX
+tamug.edu|Texas A&M University-Galveston|TX
+tamhsc.edu|Texas A&M University Health Science Center|TX
+tamuk.edu|Texas A&M University-Kingsville|TX
+tamusa.tamus.edu|Texas A&M University-San Antonio|TX) <I>(operates as branch of Texas A&M University-Kingsville)</I></LI>
+tamut.edu|Texas A&M University-Texarkana|TX
+txchiro.edu|Texas Chiropractic College|TX
+tcu.edu|Texas Christian University|TX
+texascollege.edu|Texas College|TX
+tlu.edu|Texas Lutheran University|TX
+tsu.edu|Texas Southern University|TX
+txstate.edu|Texas State University-San Marcos|TX
+ttu.edu|Texas Tech University|TX
+ttuhsc.edu|Texas Tech University Health Sciences Center|TX
+txwes.edu|Texas Wesleyan University|TX
+twu.edu|Texas Woman's University|TX
+thiel.edu|Thiel College|PA
+thomasaquinas.edu|Thomas Aquinas College|CA
+thomasu.edu|Thomas University|GA
+thomas.edu|Thomas College|ME
+tesc.edu|Thomas Edison State College|NJ
+jefferson.edu|Thomas Jefferson University|PA
+cooley.edu|Thomas M. Cooley Law School|MI
+thomasmore.edu|Thomas More College|KY
+thomasmorecollege.edu|The Thomas More College of Liberal Arts|NH
+thunderbird.edu|Thunderbird School of Global Management|AZ
+tiffin.edu|Tiffin University|OH
+tfc.edu|Toccoa Falls College|GA
+tougaloo.edu|Tougaloo College|MS
+touro.edu|Touro College|NY
+touro.edu/losangeles|Touro College Los Angeles|CA
+tu.edu|Touro University California|CA
+tun.touro.edu|Touro University Nevada|NV
+tuw.edu|Touro University Worldwide|CA
+towson.edu|Towson University|MD
+ttic.edu|Toyota Technological Institute at Chicago|IL
+transy.edu|Transylvania University|KY
+trevecca.edu|Trevecca Nazarene University|TN
+trident.edu|Trident University International|CA
+trine.edu|Trine University|IN
+trinitybiblecollege.edu|Trinity Bible College|ND
+trnty.edu|Trinity Christian College|IL
+trincoll.edu|Trinity College|CT
+trinitycollegeqc.edu|Trinity College of Nursing & Health Sciences|IL
+tlsohio.edu|Trinity Lutheran Seminary|OH
+trinitydc.edu|Trinity University|DC
+trinitycollege.edu|Trinity College of Florida|FL
+tiu.edu|Trinity International University|IL
+tlc.edu|Trinity Lutheran College|WA
+trinity.edu|Trinity University|TX
+troy.edu|Troy University|AL
+truett.edu|Truett-McConnell College|GA
+truman.edu|Truman State University|MO
+tufts.edu|Tufts University|MA
+tulane.edu|Tulane University|LA
+tm.edu|Turtle Mountain Community College|ND
+tusculum.edu|Tusculum College|TN
+tuskegee.edu|Tuskegee University|AL
+uts.edu|Unification Theological Seminary|NY
+usuhs.mil|Uniformed Services University of the Health Sciences|MD
+unionky.edu|Union College|KY
+ucollege.edu|Union College|NE
+union.edu|Union College|NY
+uniongraduatecollege.edu|Union Graduate College|NY
+myunion.edu|Union Institute & University|OH
+upsem.edu|Union Presbyterian Seminary|VA
+utsnyc.edu|Union Theological Seminary|NY
+uu.edu|Union University|TN
+usafa.edu|United States Air Force Academy|CO
+usacac.army.mil/cac2/cgsc|United States Army Command & General Staff College|KS
+carlisle.army.mil|United States Army War College|PA
+uscga.edu|United States Coast Guard Academy|CT
+usmma.edu|United States Merchant Marine Academy|NY
+usma.edu|United States Military Academy|NY
+usna.edu|United States Naval Academy|MD
+usnwc.edu|United States Naval War College|RI
+ussa.edu|United States Sports Academy|AL
+usuniversity.edu|United States University|CA
+united.edu|United Theological Seminary|OH
+unitedseminary.edu|United Theological Seminary of the Twin Cities|MN
+unity.edu|Unity College|ME
+uaa.edu|Universidad Adventista de las Antillas|PR
+ucb.edu.pr|Universidad Central de Bayam&oacute;n|PR
+uccaribe.edu|Universidad Central del Caribe|PR
+sagrado.edu|Universidad del Sagrado Coraz&oacute;n|PR
+inter.edu|Universidad Interamericana de Puerto Rico|PR
+pupr.edu|Universidad Politecnica de Puerto Rico|PR
+usmd.edu|University System of Maryland|MD
+uiu.edu|Upper Iowa University|IA
+urbana.edu|Urbana University|OH
+ursinus.edu|Ursinus College|PA
+ursuline.edu|Ursuline College|OH
+usu.edu|Utah State University|UT
+uvu.edu|Utah Valley University|UT
+utica.edu|Utica College|NY
+uat.edu|University of Advancing Technology|AZ
+uakron.edu|University of Akron|OH
+ua.edu|University of Alabama|AL
+uab.edu|University of Alabama-Birmingham|AL
+uah.edu|University of Alabama-Huntsville|AL
+alaska.edu|University of Alaska System|AK
+uaa.alaska.edu|Anchorage|</LI>
+uaf.edu|Fairbanks|</LI>
+uas.alaska.edu|Southeast|Juneau
+arizona.edu|University of Arizona|AZ
+uark.edu|University of Arkansas|AR
+uafs.edu|University of Arkansas-Fort Smith|AR
+ualr.edu|University of Arkansas-Little Rock|AR
+uams.edu|University of Arkansas for Medical Sciences|AR
+uamont.edu|University of Arkansas-Monticello|AR
+uapb.edu|University of Arkansas-Pine Bluff|AR
+uasys.edu|University of Arkansas System|AR)
+ubalt.edu|University of Baltimore|MD
+bridgeport.edu|University of Bridgeport|CT
+berkeley.edu|University of California-Berkeley|CA
+ucdavis.edu|University of California-Davis|CA
+uchastings.edu|University of California Hastings College of the Law|CA
+uci.edu|University of California-Irvine|CA
+ucla.edu|University of California-Los Angeles|CA
+ucmerced.edu|University of California-Merced|CA
+ucr.edu|University of California-Riverside|CA
+ucsd.edu|University of California-San Diego|CA
+ucsf.edu|University of California-San Francisco|CA
+ucsb.edu|University of California-Santa Barbara|CA
+ucsc.edu|University of California-Santa Cruz|CA
+ucop.edu|University of California System|CA
+uca.edu|University of Central Arkansas|AR
+ucf.edu|University of Central Florida|FL
+ucmo.edu|University of Central Missouri|MO
+uco.edu|University of Central Oklahoma|OK
+ucwv.edu|University of Charleston|WV
+uchicago.edu|University of Chicago|IL
+uc.edu|University of Cincinnati|OH
+ucblueash.edu|University of Cincinnati-Blue Ash|OH
+colorado.edu|University of Colorado-Boulder|CO
+uccs.edu|University of Colorado-Colorado Springs|CO
+ucdenver.edu|University of Colorado-Denver|CO
+cu.edu|University of Colorado System|CO
+uconn.edu|University of Connecticut|CT
+udallas.edu|University of Dallas|TX
+udayton.edu|University of Dayton|OH
+udel.edu|University of Delaware|DE
+du.edu|University of Denver|CO
+udc.edu|University of the District of Columbia|DC
+udmercy.edu|University of Detroit Mercy|MI
+dbq.edu|University of Dubuque|IA
+evansville.edu|University of Evansville|IN
+findlay.edu|The University of Findlay|OH
+ufl.edu|University of Florida|FL
+uga.edu|University of Georgia|GA
+ugf.edu|University of Great Falls|MT
+uog.edu|University of Guam|GU
+hartford.edu|University of Hartford|CT
+hilo.hawaii.edu|University of Hawaii-Hilo|HI
+manoa.hawaii.edu|University of Hawaii-Manoa|HI
+hawaii.edu|University of Hawaii System|HI
+uhwo.hawaii.edu|University of Hawaii-West O'ahu|HI
+uh.edu|University of Houston|TX
+uhcl.edu|University of Houston-Clear Lake|TX
+uhd.edu|University of Houston-Downtown|TX
+uhv.edu|University of Houston-Victoria|TX
+uidaho.edu|University of Idaho|ID
+uic.edu|University of Illinois-Chicago|IL
+uis.edu|University of Illinois-Springfield|IL
+uillinois.edu|University of Illinois System|IL
+illinois.edu|University of Illinois-Urbana-Champaign|IL
+uindy.edu|University of Indianapolis|IN
+uiowa.edu|University of Iowa|IA
+uj.edu|University of Jamestown|ND
+ku.edu|University of Kansas|KS
+kumc.edu|University of Kansas Medical Center|KS
+uky.edu|University of Kentucky|KY
+laverne.edu|University of La Verne|CA
+ulm.edu|University of Louisiana-Monroe|LA
+louisiana.edu|University of Louisiana-Lafayette|LA
+louisville.edu|University of Louisville|KY
+umaine.edu|University of Maine|ME
+uma.edu|University of Maine-Augusta|ME
+umf.maine.edu|University of Maine-Farmington|ME
+umfk.edu|University of Maine-Fort Kent|ME
+machias.edu|University of Maine-Machias|ME
+umpi.edu|University of Maine-Presque Isle|ME
+mainelaw.maine.edu|University of Maine School of Law|ME
+maine.edu|University of Maine System|ME
+umary.edu|University of Mary|ND
+umhb.edu|University of Mary Hardin-Baylor|TX
+umw.edu|University of Mary Washington|VA
+umaryland.edu|University of Maryland-Baltimore|</LI>
+umbc.edu|University of Maryland-Baltimore County|</LI>
+umd.edu|University of Maryland-College Park|</LI>
+umes.edu|University of Maryland-Eastern Shore|</LI>
+umuc.edu|University of Maryland-University College|</LI>
+umass.edu|University of Massachusetts-Amherst|MA
+umb.edu|University of Massachusetts-Boston|MA
+umassd.edu|University of Massachusetts-Dartmouth|MA
+uml.edu|University of Massachusetts-Lowell|MA
+umassmed.edu|University of Massachusetts Medical School at Worcester|MA
+massachusetts.edu|University of Massachusetts System|MA
+umdnj.edu|University of Medicine & Dentistry of New Jersey|NJ
+memphis.edu|University of Memphis|TN
+miami.edu|University of Miami|FL
+umich.edu|University of Michigan|MI
+umd.umich.edu|University of Michigan-Dearborn|MI
+umflint.edu|University of Michigan-Flint|MI
+crk.umn.edu|University of Minnesota-Crookston|MN
+d.umn.edu|University of Minnesota-Duluth|MN
+morris.umn.edu|University of Minnesota-Morris|MN
+umn.edu|University of Minnesota-Twin Cities|MN
+olemiss.edu|University of Mississippi|MS
+umc.edu|University of Mississippi Medical Center|MS
+missouri.edu|University of Missouri|MO
+umkc.edu|University of Missouri-Kansas City|MO
+umsl.edu|University of Missouri-Saint Louis|MO
+umsystem.edu|University of Missouri System|MO
+umobile.edu|University of Mobile|AL
+umt.edu|University of Montana-Missoula|MT
+umwestern.edu|University of Montana-Western|MT
+montevallo.edu|University of Montevallo|AL
+mountunion.edu|University of Mount Union|OH
+unk.edu|University of Nebraska-Kearney|NE
+unl.edu|University of Nebraska-Lincoln|NE
+unmc.edu|University of Nebraska Medical Center|NE
+unomaha.edu|University of Nebraska-Omaha|NE
+nebraska.edu|University of Nebraska System|NE
+unlv.edu|University of Nevada-Las Vegas|NV
+unr.edu|University of Nevada-Reno|NV
+une.edu|University of New England|ME
+unh.edu|University of New Hampshire|NH
+manchester.unh.edu|University of New Hampshire at Manchester|NH
+law.unh.edu|University of New Hampshire School of Law|NH
+newhaven.edu|University of New Haven|CT
+unm.edu|University of New Mexico|NM
+uno.edu|University of New Orleans|LA
+una.edu|University of North Alabama|AL
+unca.edu|University of North Carolina-Asheville|NC
+unc.edu|University of North Carolina-Chapel Hill|NC
+uncc.edu|University of North Carolina-Charlotte|NC
+uncg.edu|University of North Carolina-Greensboro|NC
+uncp.edu|University of North Carolina-Pembroke|NC
+uncsa.edu|University of North Carolina-School of the Arts|NC
+uncw.edu|University of North Carolina-Wilmington|NC
+und.edu|University of North Dakota|ND
+unf.edu|University of North Florida|FL
+ung.edu|University of North Georgia|GA
+unt.edu|University of North Texas|TX
+hsc.unt.edu|University of North Texas Health Science Center|TX
+unco.edu|University of Northern Colorado|CO
+uni.edu|University of Northern Iowa|IA
+unoh.edu|University of Northwestern Ohio|OH
+unwsp.edu|University of Northwestern-Saint Paul|MN
+nd.edu|University of Notre Dame|IN
+ou.edu|University of Oklahoma|OK
+ouhsc.edu|University of Oklahoma Health Sciences Center|OK
+ou.edu/tulsa|University of Oklahoma-Tulsa|OK
+uoregon.edu|University of Oregon|OR
+ozarks.edu|University of the Ozarks|AR
+valdosta.edu|Valdosta State University|GA
+valenciacollege.edu|Valencia College|FL
+vcsu.edu|Valley City State University|ND
+vfcc.edu|Valley Forge Christian College|PA
+valpo.edu|Valparaiso University|IN
+vanderbilt.edu|Vanderbilt University|TN
+vandercook.edu|VanderCook College of Music|IL
+vanguard.edu|Vanguard University of Southern California|CA
+vassar.edu|Vassar College|NY
+vaughn.edu|Vaughn College of Aeronautics & Technology|NY
+vcfa.edu|Vermont College of Fine Arts|VT
+vermontlaw.edu|Vermont Law School|VT
+vtc.edu|Vermont Technical College|VT
+victory.edu|Victory University|TN
+villa.edu|Villa Maria College|NY
+villanova.edu|Villanova University|PA
+vinu.edu|Vincennes University|IN
+vcu.edu|Virginia Commonwealth University|VA
+vic.edu|Virginia Intermont College|VA
+vmi.edu|Virginia Military Institute|VA
+vt.edu|Virginia Polytechnic Institute & State University|VA
+vsu.edu|Virginia State University|VA
+vuu.edu|Virginia Union University|VA
+vwc.edu|Virginia Wesleyan College|VA
+viterbo.edu|Viterbo University|WI
+voorhees.edu|Voorhees College|SC
+wabash.edu|Wabash College|IN
+wadecollege.edu|Wade College|TX
+wagner.edu|Wagner College|NY
+wfu.edu|Wake Forest University|NC
+waldenu.edu|Walden University|MN
+waldorf.edu/">Waldorf College|IA
+wallawalla.edu|Walla Walla University|WA
+walshcollege.edu|Walsh College|MI
+walsh.edu|Walsh University|OH
+warnerpacific.edu|Warner Pacific College|OR
+warner.edu|Warner University|FL
+warren-wilson.edu|Warren Wilson College|NC
+wartburg.edu|Wartburg College|IA
+wartburgseminary.edu|Wartburg Theological Seminary|IA
+washburn.edu|Washburn University|KS
+washjeff.edu|Washington & Jefferson College|PA
+wlu.edu|Washington & Lee University|VA
+wau.edu|Washington Adventist University|MD
+bible.edu|Washington Bible College/Capital Bible Seminary|MD
+washcoll.edu|Washington College|MD
+wsu.edu|Washington State University|WA
+spokane.wsu.edu|Washington State University-Spokane|WA
+tricity.wsu.edu|Washington State University-Tri-Cities|WA
+vancouver.wsu.edu|Washington State University-Vancouver|WA
+wtu.edu|Washington Theological Union|DC
+wustl.edu|Washington University in Saint Louis|MO
+watkins.edu|Watkins College of Art, Design, & Film|TN
+wbu.edu|Wayland Baptist University|TX
+wsc.edu|Wayne State College|NE
+wayne.edu|Wayne State University|MI
+waynesburg.edu|Waynesburg University|PA
+webb.edu|Webb Institute|NY
+webber.edu|Webber International University|FL
+weber.edu|Weber State University|UT
+webster.edu|Webster University|MO
+welch.edu|Welch College|TN
+wellesley.edu|Wellesley College|MA
+wells.edu|Wells College|NY
+wit.edu|Wentworth Institute of Technology|MA
+wesley.edu|Wesley College|DE
+wesleyseminary.edu|Wesley Theological Seminary|DC
+wesleyancollege.edu|Wesleyan College|GA
+wesleyan.edu|Wesleyan University|CT
+wcupa.edu|West Chester University of Pennsylvania|PA
+westliberty.edu|West Liberty University|WV
+wtamu.edu|West Texas A&M University|TX
+wvstateu.edu|West Virginia State University|WV
+wvu.edu|West Virginia University|WV
+wvutech.edu|West Virginia University Institute of Technology|WV
+wvup.edu|West Virginia University at Parkersburg|WV
+wvwc.edu|West Virginia Wesleyan College|WV
+wcu.edu|Western Carolina University|NC
+wcsu.edu|Western Connecticut State University|CT
+wgu.edu|Western Governors University|UT
+indiana.wgu.edu|Western Governors University-Indiana|IN
+missouri.wgu.edu|Western Governors University-Missouri|MO
+tennessee.wgu.edu|Western Governors University-Tennessee|TN
+texas.wgu.edu|Western Governors University-Texas|TX
+washington.wgu.edu|Western Governors University-Washington|WA
+wiu.edu|Western Illinois University|IL
+west.edu|Western International University|AZ
+wku.edu|Western Kentucky University|KY
+wmich.edu|Western Michigan University|MI
+wnc.edu|Western Nevada College|NV
+wne.edu|Western New England University|MA
+wnmu.edu|Western New Mexico University|NM
+wou.edu|Western Oregon University|OR
+westernseminary.edu|Western Seminary|OR
+western.edu|Western State Colorado University|CO
+wsulaw.edu|Western State University College of Law|CA
+westernu.edu|Western University of Health Sciences|CA
+wwu.edu|Western Washington University|WA
+wsc.ma.edu|Westfield State University|MA
+westminster.edu|Westminster College|PA
+westminster-mo.edu|Westminster College|MO
+westminstercollege.edu|Westminster College|UT
+wts.edu|Westminster Theological Seminary|PA
+wscal.edu|Westminster Seminary California|CA
+westmont.edu|Westmont College|CA
+wheaton.edu|Wheaton College|IL
+wheatoncollege.edu|Wheaton College|MA
+wju.edu|Wheeling Jesuit University|WV
+wheelock.edu|Wheelock College|MA
+whitman.edu|Whitman College|WA
+whittier.edu|Whittier College|CA
+whitworth.edu|Whitworth University|WA
+wichita.edu|Wichita State University|KS
+widener.edu|Widener University|PA
+wilberforce.edu|Wilberforce University|OH
+wileyc.edu|Wiley College|TX
+wilkes.edu|Wilkes University|PA
+willamette.edu|Willamette University|OR
+wmcarey.edu|William Carey University|MS
+jessup.edu|William Jessup University|CA
+jewell.edu|William Jewell College|MO
+wmpenn.edu|William Penn University|IA
+wpunj.edu|William Paterson University|NJ
+williamwoods.edu|William Woods University|MO
+wbcoll.edu|Williams Baptist College|AR
+williams.edu|Williams College|MA
+wilmu.edu|Wilmington University|DE
+wilmington.edu|Wilmington College|OH
+wilson.edu|Wilson College|PA
+wingate.edu|Wingate University|NC
+winona.edu|Winona State University|MN
+wssu.edu|Winston-Salem State University|NC
+winthrop.edu|Winthrop University|SC
+wlc.edu|Wisconsin Lutheran College|WI
+wspp.edu|Wisconsin School of Professional Psychology|WI
+wittenberg.edu|Wittenberg University|OH
+wofford.edu|Wofford College|SC
+woninstitute.edu|Won Institute of Graduate Studies|PA
+woodbury.edu|Woodbury University|CA
+whoi.edu|Woods Hole Oceanographic Institution|MA
+wpi.edu|Worcester Polytechnic Institute|MA
+worcester.edu|Worcester State University|MA
+wi.edu|The Wright Institute|CA
+wright.edu|Wright State University|OH
+babson.edu|Babson College|MA
+bacone.edu|Bacone College|OK
+bw.edu|Baldwin-Wallace College|OH
+bsu.edu|Ball State University|IN
+baker.edu|Baker College|MI
+bakeru.edu|Baker University|KS
+bts.edu|Bangor Theological Seminary|ME
+bankstreet.edu|Bank Street College of Education|NY
+gobbc.edu|Baptist Bible College|MO
+bbc.edu|Baptist Bible College & Seminary|PA
+baptistcollege.edu|The Baptist College of Florida|FL
+bchs.edu|Baptist Memorial College of Health Sciences|TN
+bmats.edu|Baptist Missionary Association Theological Seminary|TX
+barclaycollege.edu|Barclay College|KS
+bard.edu|Bard College|NY
+simons-rock.edu|Bard College at Simon's Rock|MA
+barnard.edu|Barnard College|NY
+barry.edu|Barry University|FL
+barton.edu|Barton College|NC
+bastyr.edu|Bastyr University|WA
+bates.edu|Bates College|ME
+bauder.edu|Bauder College|GA
+baypath.edu|Bay Path College|MA
+baystate.edu|Bay State College|MA
+bcm.edu|Baylor College of Medicine|TX
+baylor.edu|Baylor University|TX
+beaconcollege.edu|Beacon College|FL
+becker.edu|Becker College|MA
+belhaven.edu|Belhaven University|MS
+bellarmine.edu|Bellarmine University|KY
+bellevuecollege.edu|Bellevue College|WA
+bellevue.edu|Bellevue University|NE
+bellincollege.edu|Bellin College|WI
+belmont.edu" TARGET="_blank" CLASS="institution">Belmont University|TN
+belmontabbeycollege.edu|Belmont Abbey College|NC
+beloit.edu|Beloit College|WI
+bemidjistate.edu|Bemidji State University|MN
+benedict.edu|Benedict College|SC
+benedictine.edu|Benedictine College|KS
+ben.edu|Benedictine University|IL
+bfit.edu|Benjamin Franklin Institute of Technology|MA
+bennett.edu|Bennett College for Women|NC
+bennington.edu|Bennington College|VT
+bentley.edu|Bentley University|MA
+berea.edu|Berea College|KY
+berkeleycollege.edu|Berkeley College|NJ
+berklee.edu|Berklee College of Music|MA
+berry.edu|Berry College|GA
+bethanylb.edu|Bethany College|KS
+bethanywv.edu|Bethany College|WV
+blc.edu|Bethany Lutheran College|MN
+bethanyseminary.edu|Bethany Theological Seminary|IN
+bethelcollege.edu|Bethel College|IN
+bethelks.edu|Bethel College|KS
+bethel.edu|Bethel University & Seminary|MN
+bethelu.edu|Bethel University|TN
+buc.edu|Bethesda University of California|CA
+bethune.cookman.edu|Bethune-Cookman University|FL
+beulah.edu|Beulah Heights University|GA
+biblical.edu|Biblical Theological Seminary|PA
+biola.edu|Biola University|CA
+bsc.edu|Birmingham-Southern College|AL
+bismarckstate.edu|Bismark State College|ND
+bhsu.edu|Black Hills State University|SD
+blackburn.edu|Blackburn College|IL
+brcn.edu|Blessing-Rieman College of Nursing|IL
+bloomfield.edu|Bloomfield College|NJ
+bloomu.edu|Bloomsburg University of Pennsylvania|PA
+bmc.edu|Blue Mountain College|MS
+bluefield.edu|Bluefield College|VA
+bluefieldstate.edu|Bluefield State College|WV
+bluffton.edu|Bluffton University|OH
+boisestate.edu|Boise State University|ID
+boricuacollege.edu|Boricua College|NY
+the-bac.edu|Boston Architectural College|MA
+bc.edu|Boston College|MA
+bostonconservatory.edu|Boston Conservatory|MA
+bgsp.edu|Boston Graduate School of Psychoanalysis|MA
+bu.edu|Boston University|MA
+bowdoin.edu|Bowdoin College|ME
+bowiestate.edu|Bowie State University|MD
+bgsu.edu|Bowling Green State University|OH
+bradley.edu|Bradley University|IL
+brandeis.edu|Brandeis University|MA
+brandman.edu|Brandman University|CA
+brenau.edu|Brenau University|GA
+brescia.edu|Brescia University |KY
+brevard.edu|Brevard College|NC
+bpc.edu|Brewton-Parker College|GA
+briarcliff.edu|Briar Cliff University|IA
+briarcliffe.edu|Briarcliffe College|NY
+bridgewater.edu|Bridgewater College|VA
+bridgew.edu|Bridgewater State University|MA
+byu.edu|Brigham Young University|UT
+byuh.edu|Brigham Young University-Hawaii|HI
+byui.edu|Brigham Young University-Idaho|ID
+brite.edu|Brite Divinity School|TX
+<!--		brooks.edu|Brooks Institute|CA WASC candidate effective 15 Jun 2012 -->
+broward.edu|Broward College|FL
+brown.edu|Brown University|RI
+bryan.edu|Bryan College|TN
+bryanhealth.com/CollegeofHealthSciences" TARGET="_blank" CLASS="institution">Bryan College of Health Sciences|NE
+bryant.edu|Bryant University|RI
+brynathyn.edu|Bryn Athyn College of the New Church|PA
+brynmawr.edu|Bryn Mawr College|PA
+bucknell.edu|Bucknell University|PA
+bvu.edu|Buena Vista University|IA
+burlington.edu|Burlington College|VT
+butler.edu|Butler University|IN
+cabarruscollege.edu|Cabarrus College of Health Sciences|NC
+cabrini.edu|Cabrini College|PA
+cairn.edu|Cairn University|PA
+caldwell.edu|Caldwell College|NJ
+calbaptist.edu|California Baptist University|CA
+cca.edu|California College of the Arts|CA
+calarts.edu|California Institute of the Arts|CA
+ciis.edu|California Institute of Integral Studies|CA
+caltech.edu|California Institute of Technology|CA
+callutheran.edu|California Lutheran University|CA
+csum.edu|California Maritime Academy|CA
+cnsu.edu|California Northstate University|CA
+calpoly.edu|California Polytechnic State University, San Luis Obispo|CA
+csupomona.edu|California State Polytechnic University, Pomona|CA
+csub.edu|California State University-Bakersfield|CA
+csuci.edu|California State University-Channel Islands|CA
+csuchico.edu|California State University-Chico|CA
+csudh.edu|California State University-Dominguez Hills|CA
+csueastbay.edu|California State University-East Bay|CA
+fresnostate.edu|California State University-Fresno|CA
+fullerton.edu|California State University-Fullerton|CA
+csulb.edu|California State University-Long Beach|CA
+calstatela.edu|California State University-Los Angeles|CA
+csumb.edu|California State University-Monterey Bay|CA
+csun.edu|California State University-Northridge|CA
+csus.edu|California State University-Sacramento|CA
+csusb.edu|California State University-San Bernardino|CA
+csusm.edu|California State University-San Marcos|CA
+csustan.edu|California State University-Stanislaus|CA
+calstate.edu|California State University System|CA
+calu.edu|California University of Pennsylvania|PA
+ccsj.edu" TARGET="_blank" CLASS="institution">Calumet College of Saint Joseph|IN
+cbs.edu|Calvary Baptist Seminary|PA
+calvary.edu|Calvary Bible College & Theological Seminary|MO
+calvin.edu|Calvin College|MI
+cambridgecollege.edu|Cambridge College |MA
+cameron.edu|Cameron University|OK
+campbell.edu|Campbell University|NC
+campbellsville.edu|Campbellsville University|KY
+canisius.edu|Canisius College|NY
+capella.edu|Capella University|MN
+capital.edu|Capital University|OH
+capitol-college.edu|Capitol College|MD
+stritch.edu|Cardinal Stritch University|WI
+caribbean.edu|Caribbean University|PR
+carleton.edu|Carleton College|MN
+albizu.edu|Carlos Albizu University|PR
+mia.albizu.edu|Carlos Albizu University-Miami Campus|FL
+carlow.edu|Carlow University|PA
+cmu.edu|Carnegie Mellon University|PA
+carroll.edu|Carroll College|MT
+carrollu.edu|Carroll University|WI
+cn.edu|Carson-Newman College|TN
+carthage.edu|Carthage College|WI
+case.edu|Case Western Reserve University|OH
+castleton.edu|Castleton State College|VT
+catawba.edu|Catawba College|NC
+ctu.edu|Catholic Theological Union|IL
+cua.edu|The Catholic University of America|DC
+cazenovia.edu|Cazenovia College|NY
+cedarcrest.edu|Cedar Crest College|PA
+cedarville.edu|Cedarville University|OH
+centenarycollege.edu|Centenary College|NJ
+centenary.edu|Centenary College of Louisiana|LA
+cbc.edu|Central Baptist College|AR
+cbts.edu|Central Baptist Theological Seminary|KS
+centralchristian.edu|Central Christian College of Kansas|KS
+cccb.edu|Central Christian College of the Bible|MO
+central.edu|Central College|IA
+ccsu.edu|Central Connecticut State University|CT
+centralmethodist.edu|Central Methodist University|MO
+cmich.edu|Central Michigan University|MI
+centralpenn.edu|Central Penn College|PA
+centralstate.edu|Central State University|OH
+cwu.edu|Central Washington University|WA
+centre.edu|Centre College|KY
+ceaprc.edu|Centro de Estudios Avanzados de Puerto Rico y el Caribe|PR
+csc.edu|Chadron State College|NE
+chamberlain.edu|Chamberlain College of Nursing|IL
+chaminade.edu|Chaminade University|HI
+champlain.edu|Champlain College|VT
+chancelloru.edu|Chancellor University|OH
+chapman.edu|Chapman University|CA
+cdrewu.edu|Charles R. Drew University of Medicine & Science|CA
+csuniv.edu|Charleston Southern University|SC
+charteroak.edu|Charter Oak State College|CT
+chatham.edu|Chatham College|PA
+chestercollege.edu|Chester College of New England|NH
+chc.edu|Chestnut Hill College|PA
+cheyney.edu|Cheyney University|PA
+thechicagoschool.edu|The Chicago School of Professional Psychology|IL
+csu.edu|Chicago State University|IL
+ctschicago.edu|Chicago Theological Seminary|IL
+chipola.edu|Chipola College|FL
+chowan.edu|Chowan College|NC
+cks.edu|Christ the King Seminary|NY
+christendom.edu|Christendom College|VA
+cbu.edu|Christian Brothers University|TN
+cts.edu|Christian Theological Seminary|IN
+cnu.edu|Christopher Newport University|VA
+cdsp.edu|Church Divinity School of the Pacific|CA
+ccuniversity.edu/">Cincinnati Christian University|OH
+ccms.edu|Cincinnati College of Mortuary Science|</LI>
+citadel.edu|The Citadel|SC
+cityu.edu|City University of Seattle|WA
+cuny.edu/" TARGET="_blank" ID="cuny">City University of New York|NY
+baruch.cuny.edu|Baruch College|</LI>
+brooklyn.cuny.edu|Brooklyn College|</LI>
+ccny.cuny.edu|City College|</LI>
+csi.cuny.edu|College of Staten Island|</LI>
+gc.cuny.edu|Graduate School & University Center|</LI>
+hunter.cuny.edu|Hunter College|</LI>
+jjay.cuny.edu|John Jay College of Criminal Justice|</LI>
+lehman.cuny.edu|Lehman College|</LI>
+mec.cuny.edu|Medgar Evers College|</LI>
+citytech.cuny.edu|New York City College of Technology|</LI>
+qc.cuny.edu|Queens College|</LI>
+york.cuny.edu|York College|</LI>
+claflin.edu|Claflin University|SC
+claremont.edu|Claremont Consortium of Colleges|CA)<LI>
+cgu.edu|Claremont Graduate University|</LI>
+claremontmckenna.edu|Claremont McKenna College|</LI>
+hmc.edu|Harvey Mudd College|</LI>
+kgi.edu|Keck Graduate Institute of Applied Life Sciences|</LI>
+pitzer.edu|Pitzer College|</LI>
+pomona.edu|Pomona College|</LI>
+scrippscollege.edu|Scripps College|</LI>
+cst.edu|Claremont School of Theology|CA
+clarion.edu|Clarion University of Pennsylvania|PA
+clarku.edu|Clark University|MA
+cau.edu|Clark Atlanta University|GA
+clarke.edu|Clarke University|IA
+clarksoncollege.edu|Clarkson College|NE
+clarkson.edu|Clarkson University|NY
+clayton.edu|Clayton State University|GA
+ccbbc.edu|Clear Creek Baptist Bible College|KY
+clearwater.edu|Clearwater Christian College|FL
+cleary.edu|Cleary University|MI
+clemson.edu|Clemson University|SC
+cleveland.edu|Cleveland Chiropractic College|KS
+cia.edu|Cleveland Institute of Art|OH
+cim.edu|Cleveland Institute of Music|OH
+csuohio.edu|Cleveland State University|OH
+coastal.edu|Coastal Carolina University|SC
+coe.edu|Coe College|IA
+cogswell.edu|Cogswell Polytechnical College|CA
+coker.edu|Coker College|SC
+colby.edu|Colby College|ME
+colby-sawyer.edu|Colby-Sawyer College|NH
+cunisanjuan.edu|Colegio Universitario de San Juan|PR
+colgate.edu|Colgate University|NY
+collegeforcreativestudies.edu|College for Creative Studies|MI
+cffp.edu|College for Financial Planning|CO
+coa.edu|College of the Atlantic|ME
+cbshouston.edu|College of Biblical Studies-Houston|TX
+cf.edu|College of Central Florida|FL
+cofc.edu|College of Charleston|SC
+ccga.edu|College of Coastal Georgia|GA
+holycross.edu|College of the Holy Cross|MA
+collegeofidaho.edu|The College of Idaho|ID
+menominee.edu|College of the Menominee Nation|WI
+msj.edu|College of Mount Saint Joseph|OH
+mountsaintvincent.edu|College of Mount Saint Vincent|NY
+tcnj.edu|The College of New Jersey|NJ
+cnr.edu|College of New Rochelle|NY
+ndm.edu|College of Notre Dame of Maryland|MD
+cofo.edu|College of the Ozarks|MO
+csbsju.edu|College of Saint Benedict|MN
+cse.edu|College of Saint Elizabeth|NJ
+strose.edu|College of Saint Rose|NY
+csj.edu|College of Saint Joseph|VT
+csm.edu|College of Saint Mary|NE
+css.edu|College of Saint Scholastica|MN
+fishermore.edu|College of Saints John Fisher & Thomas More|TX
+csn.edu|College of Southern Nevada|NV
+cva.edu|College of Visual Arts |MN
+wm.edu|College of William and Mary|VA
+wooster.edu|College of Wooster|OH
+ccu.edu|Colorado Christian University|CO
+coloradocollege.edu|Colorado College|CO
+coloradomesa.edu|Colorado Mesa University|CO
+mines.edu|Colorado School of Mines|CO
+colostate.edu|Colorado State University|CO
+colostate-pueblo.edu|Colorado State University-Pueblo|CO
+coloradotech.edu|Colorado Technical University|CO
+columbiaco.edu|Columbia Centro Universitario|PR
+ccis.edu|Columbia College|MO
+columbiasc.edu|Columbia College|SC
+colum.edu|Columbia College Chicago|IL
+ccon.edu|Columbia College of Nursing|WI
+ciu.edu|Columbia International University|SC
+ctsnet.edu|Columbia Theological Seminary|GA
+columbia.edu|Columbia University|NY
+ccad.edu|Columbus College of Art & Design|OH
+columbusstate.edu|Columbus State University|GA
+conception.edu|Conception Seminary College|MO
+concord.edu|Concord University|WV
+ccal.edu|Concordia College-Alabama|AL
+concordia-ny.edu|Concordia College-Bronxville|NY
+concordiacollege.edu|Concordia College-Moorhead|MN
+concordia-ny.edu|Concordia College-New York|NY
+csl.edu|Concordia Seminary-Saint Louis|MO
+ctsfw.edu|Concordia Theological Seminary|IN
+cuaa.edu|Concordia University-Ann Arbor|MI
+cuchicago.edu|Concordia University-Chicago|IL
+cui.edu|Concordia University-Irvine|CA
+cune.edu|Concordia University-Nebraska|NE
+cu-portland.edu|Concordia University-Portland|OR
+csp.edu|Concordia University-Saint Paul|MN
+concordia.edu|Concordia University-Texas|TX
+cuw.edu|Concordia University-Wisconsin|WI
+camel.conncoll.edu|Connecticut College|CT
+cmpr.edu|Conservatorio de M&uacute;sica de Puerto Rico|PR
+converse.edu|Converse College|SC
+csld.edu|Conway School of Landscape Design|MA
+cooper.edu|The Cooper Union for the Advancement of Science & Art|NY
+coppin.edu|Coppin State University|MD
+corban.edu|Corban University|OR
+corcoran.edu|Corcoran College of Art & Design|DC
+cornellcollege.edu|Cornell College|IA
+cornell.edu|Cornell University|NY
+cornerstone.edu|Cornerstone University|MI
+cornish.edu|Cornish College of the Arts|WA
+covenant.edu|Covenant College|GA
+covenantseminary.edu|Covenant Theological Seminary|MO
+coxcollege.edu|Cox College|MO
+cranbrookart.edu|Cranbrook Academy of Art|MI
+creighton.edu|Creighton University|NE
+criswell.edu|Criswell College|TX
+crossroadscollege.edu|Crossroads College|MN
+crc.edu|Crowley's Ridge College|AR
+crown.edu|Crown College|MN
+ciachef.edu|Culinary Institute of America|NY
+culver.edu|Culver-Stockton College|MO
+cumberland.edu|Cumberland University|TN
+curry.edu|Curry College|MA
+curtis.edu|Curtis Institute of Music|PA
+hamilton.edu|Hamilton College|NY
+hamline.edu|Hamline University|MN
+hsc.edu|Hampden-Sydney College|VA
+hampshire.edu|Hampshire College|MA
+hamptonu.edu|Hampton University|VA
+hlg.edu|Hannibal-Lagrange College|MO
+hanover.edu|Hanover College|IN
+hsutx.edu|Hardin-Simmons University|TX
+harding.edu|Harding University|AR
+harrington.edu|Harrington College of Design|IL
+hssu.edu|Harris-Stowe State University|MO
+harrisburgu.edu|Harrisburg University of Science & Technology|PA
+hartsem.edu|Hartford Seminary|CT
+hartwick.edu|Hartwick College|NY
+harvard.edu|Harvard University|MA
+haskell.edu|Haskell Indian Nations University|KS
+hastings.edu|Hastings College|NE
+haverford.edu|Haverford College|PA
+hpu.edu|Hawaii Pacific University|HI
+hazelden.org|Hazelden Graduate School of Addiction Studies|MN
+hebrewcollege.edu|Hebrew College|MA
+htc.edu|Hebrew Theological College|IL
+huc.edu|Hebrew Union College-Jewish Institute of Religion|CA / OH / NY
+heidelberg.edu|Heidelberg College|OH
+hchc.edu|Hellenic College/Holy Cross Greek Orthodox School of Theology|MA
+hsu.edu|Henderson State University|AR
+hendrix.edu|Hendrix College|AR
+heritage.edu|Heritage University|WA
+herzing.edu|Herzing University|WI
+highpoint.edu|High Point University|NC
+hilbert.edu|Hilbert College|NY
+hillsdale.edu|Hillsdale College|MI
+hiram.edu|Hiram College|OH
+hws.edu|Hobart & William Smith Colleges|NY
+hsbc.edu|Hobe Sound Bible College|FL
+hodges.edu|Hodges University|FL
+hofstra.edu|Hofstra University|NY
+hollins.edu|Hollins University|VA
+holyapostles.edu|Holy Apostles College & Seminary|CT
+hcc-nd.edu|Holy Cross College|IN
+holyfamily.edu|Holy Family University|PA
+hnu.edu|Holy Names University|CA
+hood.edu|Hood College|MD
+hope.edu|Hope College|MI
+hiu.edu|Hope International University|CA
+houghton.edu|Houghton College|NY
+hbu.edu|Houston Baptist University|TX
+hputx.edu|Howard Payne University|TX
+howard.edu|Howard University|DC
+hult.edu|Hult International Business School|MA
+humboldt.edu|Humboldt State University|CA
+humphreys.edu|Humphreys College|CA
+huntingdon.edu|Huntingdon College|AL
+huntington.edu|Huntington University|IN
+husson.edu|Husson University|ME
+htu.edu|Huston-Tillotson University|TX
+kzoo.edu|Kalamazoo College|MI
+kcai.edu|Kansas City Art Institute|MO
+kcumb.edu|Kansas City University of Medicine & Biosciences|MO
+k-state.edu|Kansas State University|KS
+salina.ksu.edu|Kansas State University-Salina|KS
+kwu.edu|Kansas Wesleyan University|KS
+kaplanuniversity.edu|Kaplan University|IA
+kean.edu|Kean University|NJ
+keene.edu|Keene State College|NH
+keiseruniversity.edu|Keiser University|FL
+kendall.edu|Kendall College|IL
+kcad.edu|Kendall College of Art & Design of Ferris State University|MI
+kennesaw.edu|Kennesaw State University|GA
+kenrick.edu|Kenrick-Glennon Seminary|MO
+kent.edu|Kent State University|OH
+ashtabula.kent.edu|Kent State University-Ashtabula Campus|OH
+kent.edu/cpm|Kent State University-College of Podiatric Medicine|OH
+columbiana.kent.edu|Kent State University-Columbiana County|OH
+geauga.kent.edu|Kent State University-Geauga|OH
+stark.kent.edu|Kent State University-Stark|OH
+trumbull.kent.edu|Kent State University-Trumbull Campus|OH
+tusc.kent.edu|Kent State University-Tuscarawas|OH
+kcu.edu|Kentucky Christian University|KY
+kmbc.edu|Kentucky Mountain Bible College|KY
+kysu.edu|Kentucky State University|KY
+kwc.edu|Kentucky Wesleyan College|KY
+kenyon.edu|Kenyon College|OH
+kc.edu|Kettering College|OH
+kettering.edu|Kettering University|MI
+keuka.edu|Keuka College|NY
+keystone.edu|Keystone College|PA
+king.edu|King College|TN
+kings.edu|King's College|PA
+tkc.edu|The King's College|NY
+ksi.edu|Knowledge Systems Institute|IL
+knox.edu|Knox College|IL
+kutztown.edu|Kutztown University of Pennsylvania|PA
+kuyper.edu|Kuyper College|MI
+macalester.edu|Macalester College|MN
+mac.edu|MacMurray College|IL
+madonna.edu|Madonna University|MI
+mum.edu|Maharishi University of Management|IA
+meca.edu|Maine College of Art|ME
+mainemaritime.edu|Maine Maritime Academy|ME
+malone.edu|Malone University|OH
+manchester.edu|Manchester University|IN
+LI><A HREF="http://www.mccks.edu|Manhattan Christian College|KS
+manhattan.edu|Manhattan College|NY
+msmnyc.edu|Manhattan School of Music|NY
+mville.edu|Manhattanville  College|NY
+mansfield.edu|Mansfield University of Pennsylvania|PA
+mbbc.edu|Maranatha Baptist Bible College|WI
+mariacollege.edu|Maria College of Albany|NY
+marian.edu|Marian University|IN
+marianuniversity.edu|Marian University|WI
+marietta.edu|Marietta College|OH
+mcu.usmc.mil|Marine Corps University|VA
+marist.edu|Marist College|NY
+marlboro.edu|Marlboro College|VT
+mu.edu|Marquette University|WI
+mhc.edu|Mars Hill College|NC
+marshall.edu|Marshall University|WV
+mlc-wels.edu|Martin Luther College|MN
+martinmethodist.edu|Martin Methodist College|TN
+martin.edu|Martin University|IN
+mbc.edu|Mary Baldwin College|VA
+marygrove.edu|Marygrove College|MI
+mica.edu|Maryland Institute College of Art|MD
+muih.edu|Maryland University of Integrative Health|MD
+marylhurst.edu|Marylhurst University|OR
+marymountcalifornia.edu|Marymount California University|CA
+mmm.edu|Marymount Manhattan College|NY
+marymount.edu|Marymount University|VA
+maryvillecollege.edu|Maryville College|TN
+maryville.edu|Maryville University of Saint Louis|MO
+marywood.edu|Marywood University|PA
+massart.edu|Massachusetts College of Art & Design|MA
+mcla.edu|Massachusetts College of Liberal Arts |MA
+mcphs.edu|Massachusetts College of Pharmacy & Health Sciences|MA
+web.mit.edu|Massachusetts Institute of Technology|MA
+maritime.edu|Massachusetts Maritime Academy|MA
+mslaw.edu|Massachusetts School of Law|MA
+mspp.edu|Massachusetts School of Professional Psychology|MA
+masters.edu|The Master's College|CA
+tms.edu|The Master's Seminary|CA
+maui.hawaii.edu" TARGET="_blank" CLASS="institution">Maui College|HI
+mayo.edu/education|Mayo Clinic College of Medicine|MN
+mayo.edu/mgs|Mayo Clinic College of Medicine-Graduate School|</LI>
+mayo.edu/mms|Mayo Clinic College of Medicine-Medical School|</LI>
+mayo.edu/mshs|Mayo Clinic College of Medicine-School of Health Sciences|</LI>
+mayvillestate.edu|Mayville State University|ND
+mccormick.edu|McCormick Theological Seminary|IL
+mcdaniel.edu|McDaniel College|MD
+mckendree.edu|McKendree University|IL
+mcm.edu|McMurry University|TX
+mcneese.edu|McNeese State University|LA
+mcpherson.edu|McPherson College|KS
+medaille.edu|Medaille College|NY
+mcw.edu|Medical College of Wisconsin|WI
+musc.edu|Medical University of South Carolina|SC
+mmc.edu|Meharry Medical College|TN
+mca.edu|Memphis College of Art|TN
+memphisseminary.edu|Memphis Theological Seminary|TN
+menlo.edu|Menlo College|CA
+mercer.edu|Mercer University|GA
+mercy.edu|Mercy College|NY
+mchs.edu|Mercy College of Health Sciences|IA
+mercycollege.edu|Mercy College of Northwest Ohio|OH
+mercyhurst.edu|Mercyhurst College|PA
+meredith.edu|Meredith College|NC
+merrimack.edu|Merrimack College|MA
+messiah.edu|Messiah College|PA
+methodistcol.edu/methodistcollege|Methodist College|IL
+mtso.edu|Methodist Theological School in Ohio|OH
+methodist.edu|Methodist University|NC
+mcny.edu|Metropolitan College of New York|NY
+metrostate.edu|Metropolitan State University|MN
+msudenver.edu|Metropolitan State University of Denver|CO
+mghihp.edu|MGH Institute of Health Professions|MA
+mdc.edu|Miami Dade College|FL
+artinstitutes.edu/miami|Miami International University of Art & Design|FL
+miamioh.edu|Miami University|OH
+regionals.miamioh.edu|Miami University-Regional Campuses|OH
+mispp.edu|Michigan School of Professional Psychology|MI
+msu.edu|Michigan State University|MI
+mtu.edu|Michigan Technological University|MI
+mabts.edu|Mid-America Baptist Theological Seminary|TN
+macu.edu|Mid-America Christian University|OK
+macuniversity.edu|Mid-Atlantic Christian University|NC
+mnu.edu|MidAmerica Nazarene University|KS
+midcontinent.edu|Mid-Continent University|KY
+mga.edu|Middle Georgia State College|GA
+mtsa.edu|Middle Tennessee School of Anesthesia|TN
+mtsu.edu|Middle Tennessee State University|TN
+middlebury.edu|Middlebury College|VT
+midlandu.edu|Midland University|NE
+midstate.edu|Midstate College|IL
+midway.edu|Midway College|KY
+mbts.edu|Midwestern Baptist Theological Seminary|MO
+midwestern.edu|Midwestern University|IL / AZ
+mwsu.edu|Midwestern State University|TX
+miles.edu|Miles College|AL
+millercollege.edu|Miller College|MI
+millersville.edu|Millersville University of Pennsylvania|PA
+milligan.edu|Milligan College|TN
+millikin.edu|Millikin University|IL
+mills.edu|Mills College|CA
+millsaps.edu|Millsaps College|MS
+miad.edu|Milwaukee Institute of Art & Design|WI
+msoe.edu|Milwaukee School of Engineering|WI
+mnsu.edu|Minnesota State University-Mankato|MN
+mnstate.edu|Minnesota State University-Moorhead|MN
+minotstateu.edu|Minot State University|ND
+mcad.edu|Minneapolis College of Art & Design|MN
+misericordia.edu|Misericordia University|PA
+mc.edu|Mississippi College|MS
+msstate.edu|Mississippi State University|MS
+muw.edu|Mississippi University for Women|MS
+mvsu.edu|Mississippi Valley State University|MS
+mobap.edu|Missouri Baptist University|MO
+mssu.edu|Missouri Southern State University|MO
+missouristate.edu|Missouri State University|MO
+mst.edu|Missouri University of Science & Technology|MO
+moval.edu|Missouri Valley College|MO
+missouriwestern.edu|Missouri Western State University|MO
+mitchell.edu|Mitchell College|CT
+molloy.edu|Molloy College|NY
+monmouthcollege.edu|Monmouth College|IL
+monmouth.edu|Monmouth University|NJ
+monroecollege.edu|Monroe College|NY
+montana.edu|Montana State University|MT
+msubillings.edu|Montana State University-Billings|MT
+msun.edu|Montana State University-Northern|MT
+mtech.edu|Montana Tech of The University of Montana|MT
+montclair.edu|Montclair State University|NJ
+montreat.edu|Montreat College|NC
+montserrat.edu|Montserrat College of Art|MA
+moody.edu|Moody Bible Institute|IL
+moore.edu|Moore College of Art & Design|PA
+moravian.edu|Moravian College|PA
+moreheadstate.edu|Morehead State University|KY
+morehouse.edu|Morehouse College|GA
+msm.edu|Morehouse School of Medicine|GA
+morgan.edu|Morgan State University|MD
+morningside.edu|Morningside College|IA
+morris.edu|Morris College|SC
+mtaloy.edu|Mount Aloysius College|PA
+mountangelabbey.org/seminary|Mount Angel Seminary|OR
+mccn.edu|Mount Carmel College of Nursing|OH
+mtholyoke.edu|Mount Holyoke College|MA
+mountida.edu|Mount Ida College|MA
+mtmc.edu|Mount Marty College|SD
+mtmary.edu|Mount Mary College|WI
+mtmercy.edu|Mount Mercy University|IA
+moc.edu|Mount Olive College|NC
+msmc.edu|Mount Saint Mary College|NY
+msmc.la.edu|Mount Saint Mary's College|CA
+msmary.edu|Mount Saint Mary's University|MD
+mvnu.edu|Mount Vernon Nazarene University|OH
+mountwashington.edu|Mount Washington College|NH
+mountainstate.edu|Mountain State University|WV) <I>(closed 01 January 2013)</I></LI>
+muhlenberg.edu|Muhlenberg College|PA
+multnomah.edu|Multnomah University|OR
+murraystate.edu|Murray State University|KY
+muskingum.edu|Muskingum University|OH
+pace.edu|Pace University|NY
+plu.edu|Pacific Lutheran University|WA
+pnca.edu|Pacific Northwest College of Art|OR
+pacificoaks.edu|Pacific Oaks College|CA
+psr.edu|Pacific School of Religion|CA
+puc.edu|Pacific Union College|CA
+pacificu.edu|Pacific University|OR
+pacifica.edu|Pacifica Graduate Institute|CA
+paine.edu|Paine College|GA
+pba.edu|Palm Beach Atlantic University|FL
+palmbeachstate.edu|Palm Beach State College|FL
+palmer.edu|Palmer College of Chiropractic|IA
+paloaltou.edu|Palo Alto University|CA
+prgs.edu|Pardee RAND Graduate School|CA
+park.edu|Park University|MO
+parker.edu|Parker University|TX
+patten.edu|Patten University|CA
+pqc.edu|Paul Quinn College|TX
+paulsmiths.edu|Paul Smith's College|NY
+peace.edu|Peace College|NC
+peirce.edu|Peirce College|PA
+pc.ctc.edu|Peninsula College|WA
+pcad.edu|Pennsylvania College of Art & Design|PA
+pacollege.edu|Pennsylvania College of Health Sciences|PA
+pct.edu|Pennsylvania College of Technology|PA
+psu.edu|Pennsylvania State University|PA
+abington.psu.edu|Pennsylvania State University-Abington|PA
+aa.psu.edu|Pennsylvania State University-Altoona|PA
+br.psu.edu|Pennsylvania State University-Beaver|PA
+bk.psu.edu|Pennsylvania State University-Berks|PA
+brandywine.psu.edu|Pennsylvania State University-Brandywine|PA
+law.psu.edu|Pennsylvania State University-Dickinson School of Law|PA
+ds.psu.edu|Pennsylvania State University-DuBois|PA
+psbehrend.psu.edu|Pennsylvania State University-Erie, The Behrend College|PA
+fe.psu.edu|Pennsylvania State University-Fayette, The Eberly Campus|PA
+sgps.psu.edu|Pennsylvania State University-Great Valley School of Graduate Professional Studies|PA
+ga.psu.edu|Pennsylvania State University-Greater Allegheny|PA
+hbg.psu.edu|Pennsylvania State University-Harrisburg|PA
+hazleton.psu.edu|Pennsylvania State University-Hazleton|PA
+lv.psu.edu|Pennsylvania State University-Lehigh Valley|PA
+pennstatehershey.org|Pennsylvania State University-Milton S. Hershey Medical Center|PA
+ma.psu.edu|Pennsylvania State University-Mont Alto|PA
+nk.psu.edu|Pennsylvania State University-New Kensington|PA
+sl.psu.edu|Pennsylvania State University-Schuylkill|PA
+shenango.psu.edu|Pennsylvania State University-Shenango|PA
+wb.psu.edu|Pennsylvania State University-Wilkes-Barre|PA
+sn.psu.edu|Pennsylvania State University-Worthington Scranton|PA
+yk.psu.edu|Pennsylvania State University-York|PA
+pensacolastate.edu|Pensacola State College|FL
+ptseminary.edu|Pentecostal Theological Seminary|TN
+pepperdine.edu|Pepperdine University|CA
+peru.edu|Peru State College|NE
+pfeiffer.edu|Pfeiffer University|NC
+pcom.edu|Philadelphia College of Osteopathic Medicine|PA
+philau.edu|Philadelphia College of Textiles & Science|PA
+philander.edu|Philander Smith College|AR
+pgi.edu|Phillips Graduate Institute|CA
+ptstulsa.edu|Phillips Theological Seminary|OK
+pulf.org|Phillips University|OK) <I>(closed July 1998)</I></LI>
+piedmont.edu|Piedmont College|GA
+pmc.edu|Pine Manor College|MA
+pittstate.edu|Pittsburg State University|KS
+pts.edu|Pittsburgh Theological Seminary|PA
+plymouth.edu|Plymouth State University|NH
+pointloma.edu|Point Loma Nazarene University|CA
+pointpark.edu|Point Park University|PA
+point.edu|Point University|GA
+polk.edu|Polk State College|FL
+psm.edu|Ponce School of Medicine & Health Sciences|PR
+pcj.edu|Pontifical College Josephinum|OH
+pucpr.edu" TARGET="_blank" CLASS="institution">Pontificia Universidad Cat&oacute;lica de Puerto Rico|PR
+pdx.edu|Portland State University|OR
+post.edu|Post University|CT
+pvamu.edu|Prairie View A&M University|TX
+pratt.edu|Pratt Institute|NY
+prescott.edu|Prescott College|AZ
+presentation.edu|Presentation College|SD
+ptsem.edu|Princeton Theological Seminary|NJ
+princeton.edu|Princeton University|NJ
+principiacollege.edu|Principia College|IL
+presby.edu|Presbyterian College|SC
+providence.edu|Providence College|RI
+purdue.edu|Purdue University|IN
+purduecal.edu|Purdue University-Calumet|IN
+pnc.edu|Purdue University-North Central|IN
+tech.purdue.edu/anderson|Purdue University College of Technology-Anderson/Muncie|IN
+tech.purdue.edu/columbus|Purdue University College of Technology-Columbus/Greensburg|IN
+tech.purdue.edu/indy|Purdue University College of Technology-Indianapolis|IN
+tech.purdue.edu/kokomo|Purdue University College of Technology-Kokomo|IN
+tech.purdue.edu/lafayette|Purdue University College of Technology-Lafayette|IN
+tech.purdue.edu/newalbany|Purdue University College of Technology-New Albany|IN
+tech.purdue.edu/richmond|Purdue University College of Technology-Richmond|IN
+tech.purdue.edu/southbend|Purdue University College of Technology-South Bend/Elkhart|IN
+shms.edu|Sacred Heart Major Seminary|MI
+shst.edu|Sacred Heart School of Theology|WI
+sacredheart.edu|Sacred Heart University|CT
+sage.edu|The Sage Colleges|NY
+svsu.edu|Saginaw Valley State University|MI
+sau.edu|Saint Ambrose University|IA
+sapc.edu|Saint Andrews Presbyterian College|NC
+anselm.edu|Saint Anselm College|NH
+sacn.edu|Saint Anthony College of Nursing|IL
+staugustine.edu|Saint Augustine College|IL
+st-aug.edu|Saint Augustine's University|NC
+sbu.edu|Saint Bonaventure University|NY
+stkate.edu|Saint Catherine University|MN
+sccky.edu|Saint Catharine College|KY
+scs.edu|Saint Charles Borromeo Seminary|PA
+stcloudstate.edu|Saint Cloud State University|MN
+stedwards.edu|Saint Edward's University|TX
+sfc.edu|Saint Francis College|NY
+sfmccon.edu|Saint Francis Medical Center College of Nursing|IL
+francis.edu|Saint Francis University|PA
+stgregoryseminary.edu|Saint Gregory the Great Seminary|NE
+stgregorys.edu|Saint Gregory's University|OK
+sjfc.edu|Saint John Fisher College|NY
+sjvcs.edu|Saint John Vianney College Seminary|FL
+sjca.edu|Saint John's College-Annapolis|MD
+sjcsf.edu|Saint John's College-Santa Fe|NM
+stjohnscollegespringfield.edu|Saint John's College|IL
+stjohnsem.edu|Saint John's Seminary|CA
+sjs.edu|Saint John's Seminary|MA
+csbsju.edu|Saint John's University|MN
+stjohns.edu|Saint John's University|NY
+sjrstate.edu|Saint Johns River State College|FL
+sjc.edu|Saint Joseph College|CT
+sjasc.edu|Saint Joseph Seminary College|LA
+saintjoe.edu|Saint Joseph's College|IN
+sjcny.edu|Saint Joseph's College|NY
+sjcme.edu|Saint Joseph's College of Maine|ME
+dunwoodie.edu|Saint Joseph's Seminary|NY
+sju.edu|Saint Joseph's University|PA
+stlawu.edu|Saint Lawrence University|NY
+saintleo.edu|Saint Leo University|FL
+stlcop.edu|Saint Louis College of Pharmacy|MO
+slu.edu|Saint Louis University|MO
+saintlukescollege.edu|Saint Luke's College of Health Sciences|MO
+stmartin.edu|Saint Martin's University|WA
+stmarysem.edu|Saint Mary Seminary & Graduate School of Theology|OH
+smwc.edu|Saint Mary-of-the-Woods College|IN
+saintmarys.edu|Saint Mary's College|IN
+stmarys-ca.edu|Saint Mary's College of California|CA
+smcm.edu|Saint Mary's College of Maryland|MD
+stmarys.edu|Saint Mary's Seminary & University|MD
+smumn.edu|Saint Mary's University of Minnesota|MN
+stmarytx.edu|Saint Mary's University|TX
+saintmeinrad.edu|Saint Meinrad Seminary & School of Theology|IN
+smcvt.edu|Saint Michael's College|VT
+snc.edu|Saint Norbert College|WI
+stolaf.edu|Saint Olaf College|MN
+stpatricksseminary.org|Saint Patrick's Seminary & University|CA
+spst.edu|Saint Paul School of Theology|MO
+saintpaulsnet.com|Saint Paul's College|VA
+saintpeters.edu|Saint Peter's University|NJ
+spcollege.edu|Saint Petersburg College|FL
+stac.edu|Saint Thomas Aquinas College|NY
+stu.edu|Saint Thomas University|FL
+stvincent.edu|Saint Vincent College|PA
+svdp.edu|Saint Vincent de Paul Regional Seminary|FL
+stvincentscollege.edu|Saint Vincent's College|CT
+sxu.edu|Saint Xavier University|IL
+salem.edu|Salem College|NC
+salemu.edu|Salem International University|WV
+salemstate.edu|Salem State University|MA
+salisbury.edu|Salisbury University|MD
+skc.edu|Salish Kootenai College|MT
+salus.edu|Salus University|PA
+salve.edu|Salve Regina University|RI
+shsu.edu|Sam Houston State University|TX
+samford.edu|Samford University|AL
+samuelmerritt.edu|Samuel Merritt University|CA
+sdcc.edu|San Diego Christian College|CA
+sdsu.edu|San Diego State University|CA
+sfai.edu|San Francisco Art Institute|CA
+sfcm.edu|San Francisco Conservatory of Music|CA
+sfsu.edu|San Francisco State University|CA
+sfts.edu|San Francisco Theological Seminary|CA
+sjcl.edu|San Joaquin College of Law|CA
+sjsu.edu|San Jos&eacute; State University|CA
+sanjuanbautista.edu|San Juan Bautista School of Medicine|PR
+bismarck.sanfordhealth.org/collegeofnursing|Sanford College of Nursing|ND
+scu.edu|Santa Clara University|CA
+sfcollege.edu|Santa Fe College|FL
+santafeuniversity.edu|Santa Fe University of Art & Design|NM
+slc.edu|Sarah Lawrence College|NY
+scad.edu|Savannah College of Art & Design|GA
+savannahstate.edu|Savannah State University|GA
+saybrook.edu|Saybrook University|CA
+sit.edu|School for International Training|VT
+saic.edu|School of the Art Institute of Chicago|IL
+sva.edu|School of Visual Arts|NY
+schreiner.edu|Schreiner University|TX
+scripps.edu|Scripps Research Institute|CA
+spu.edu|Seattle Pacific University|WA
+seattleu.edu|Seattle University|WA
+se-pr.edu|Seminario Evang&eacute;lico de Puerto Rico|PR
+icseminary.edu|Seminary of the Immaculate Conception|NY
+ssw.edu|Seminary of the Southwest|TX
+seminolestate.edu|Seminole State College of Florida|FL
+shu.edu|Seton Hall University|NJ
+setonhill.edu|Seton Hill University|PA
+shawuniversity.edu|Shaw University|NC
+shawnee.edu|Shawnee State University|OH
+su.edu|Shenandoah University|VA
+shepherd.edu|Shepherd University|WV
+sherman.edu|Sherman College of Chiropractic|SC
+shimer.edu|Shimer College|IL
+ship.edu|Shippensburg University of Pennsylvania|PA
+shorter.edu|Shorter University|GA
+siena.edu|Siena College|NY
+sienaheights.edu|Siena Heights University|MI
+sierranevada.edu|Sierra Nevada College|NV
+sl.edu|Silver Lake College|WI
+simmons.edu|Simmons College|MA
+sintegleska.edu|Sinte Gleska University|SD
+simpsonu.edu|Simpson University|CA
+simpson.edu|Simpson College|IA
+sfseminary.edu|Sioux Falls Seminary|SD
+suagm.edu|Sistema Universitario Ana G. M&eacute;ndez|PR
+suagm.edu/une|Universidad del Este|</LI>
+suagm.edu/umet|Universidad Metropolitana|</LI>
+suagm.edu/turabo|Universidad del Turabo|</LI>
+sittingbull.edu|Sitting Bull College|ND
+skidmore.edu|Skidmore College|NY
+sru.edu|Slippery Rock University of Pennsylvania|PA
+smith.edu|Smith College|MA
+sofia.edu|Sofia University|CA
+soka.edu|Soka University of America|CA
+somerset.edu|Somerset Christian College|NJ
+sonoma.edu|Sonoma State University|CA
+sdc.edu|Soujourner-Douglass College|MD
+scsu.edu|South Carolina State University|SC
+southcollegetn.edu|South College|TN
+sdsmt.edu|South Dakota School of Mines & Technology|SD
+sdstate.edu|South Dakota State University|SD
+sfbc.edu|South Florida Bible College & Theological Seminary|FL
+southflorida.edu|South Florida State College|FL
+sgsc.edu|South Georgia State College|GA
+stcl.edu|South Texas College of Law|TX
+southuniversity.edu|South University|GA
+semo.edu|Southeast Missouri State University|MO
+sebts.edu|Southeastern Baptist Theological Seminary|NC
+sebc.edu|Southeastern Bible College|AL
+seu.edu|Southeastern University|FL
+selu.edu|Southeastern Louisiana University|LA
+se.edu|Southeastern Oklahoma State University|OK
+southern.edu|Southern Adventist University|TN
+saumag.edu|Southern Arkansas University|AR
+sbts.edu|Southern Baptist Theological Seminary|KY
+scco.edu|Southern California College of Optometry|CA
+sciarc.edu|Southern California Institute of Architecture|CA
+scuhs.edu|Southern California University of Health Sciences|CA
+sco.edu|Southern College of Optometry|TN
+southernct.edu|Southern Connecticut State University|CT
+siuc.edu|Southern Illinois University-Carbondale|IL
+siue.edu|Southern Illinois University-Edwardsville|IL
+siu.edu|Southern Illinois University System|IL
+smu.edu|Southern Methodist University|TX
+snu.edu|Southern Nazarene University|OK
+snhu.edu|Southern New Hampshire University|NH
+sou.edu|Southern Oregon University|OR
+spsu.edu|Southern Polytechnic State University|GA
+subr.edu|Southern University and A&M College at Baton Rouge|LA
+suno.edu|Southern University at New Orleans|LA
+susla.edu|Southern University at Shreveport|LA
+sus.edu|Southern University System|LA
+suu.edu|Southern Utah University|UT
+svc.edu|Southern Vermont College|VT
+svu.edu|Southern Virginia University|VA
+swu.edu|Southern Wesleyan University|SC
+sbuniv.edu|Southwest Baptist University|MO
+scnm.edu|Southwest College of Naturopathic Medicine & Health Sciences|AZ
+smsu.edu|Southwest Minnesota State University|MN
+suva.edu|Southwest University of Visual Arts|AZ
+swau.edu|Southwestern Adventist University|TX
+sagu.edu|Southwestern Assemblies of God University|TX
+swbts.edu|Southwestern Baptist Theological Seminary|TX
+swcc.edu|Southwestern Christian College|TX
+swcu.edu|Southwestern Christian University|OK
+sckans.edu|Southwestern College|KS
+swc.edu|Southwestern College|NM
+swosu.edu|Southwestern Oklahoma State University|OK
+southwestern.edu|Southwestern University|TX
+spalding.edu|Spalding University|KY
+spelman.edu|Spelman College|GA
+spertus.edu|Spertus Institute of Jewish Studies|IL
+arbor.edu|Spring Arbor University|MI
+shc.edu|Spring Hill College|AL
+spfldcol.edu|Springfield College|MA
+stanford.edu|Stanford University|CA
+scf.edu|State College of Florida, Manatee-Sarasota|FL
+suny.edu|State University of New York System|NY
+albany.edu|Albany|</LI>
+alfredstate.edu|Alfred State University|</LI>
+binghamton.edu|Binghamton|</LI>
+buffalo.edu|Buffalo|</LI>
+buffalostate.edu|Buffalo State College|</LI>
+stonybrook.edu|Stony Brook|</LI>
+brockport.edu|College at Brockport|</LI>
+cortland.edu|College at Cortland|</LI>
+fredonia.edu|College at Fredonia|</LI>
+geneseo.edu|College at Geneseo|</LI>
+newpaltz.edu|College at New Paltz|</LI>
+oldwestbury.edu|College at Old Westbury|</LI>
+oneonta.edu|College at Oneonta|</LI>
+oswego.edu|College at Oswego|</LI>
+plattsburgh.edu|College at Plattsburgh|</LI>
+potsdam.edu|College at Potsdam|</LI>
+purchase.edu|College at Purchase|</LI>
+cobleskill.edu|College of Agriculture & Technology at Cobleskill|</LI>
+morrisville.edu|College of Agriculture & Technology at MorrisvilleMorrisville State College)|</LI>
+esf.edu|College of Environmental Science & Forestry|</LI>
+sunyopt.edu|College of Optometry|</LI>
+canton.edu|College of Technology at Canton|</LI>
+delhi.edu|College of Technology at Delhi|</LI>
+downstate.edu|Downstate Medical Center|</LI>
+esc.edu|Empire State College|</LI>
+farmingdale.edu|Farmingdale State College|</LI>
+fitnyc.edu|Fashion Institute of Technology|</LI>
+sunyit.edu|Institute of Technology at Utica/Rome|</LI>
+sunymaritime.edu|Maritime College at Fort Schuyler|</LI>
+upstate.edu|Upstate Medical University|</LI>
+sfasu.edu|Stephen F. Austin State University|TX
+stephens.edu|Stephens College|MO
+sterling.edu|Sterling College|KS
+sterlingcollege.edu|Sterling College|VT
+stetson.edu|Stetson University|FL
+stevens.edu|Stevens Institute of Technology|NJ
+stevenson.edu|Stevenson University|MD
+stillman.edu|Stillman College|AL
+stonehill.edu|Stonehill College|MA
+strayer.edu|Strayer University|DC
+suffolk.edu|Suffolk University|MA
+sulross.edu|Sul Ross State University|TX
+sullivan.edu|Sullivan University|KY
+susqu.edu|Susquehanna University|PA
+swarthmore.edu|Swarthmore College|PA
+sbc.edu|Sweet Briar College|VA
+syracuse.edu|Syracuse University|NY
+pacific.edu|University of the Pacific|CA
+upenn.edu|University of Pennsylvania|PA
+phoenix.edu|University of Phoenix|AZ
+upike.edu|University of Pikeville|KY
+pitt.edu|University of Pittsburgh|PA
+upb.pitt.edu|University of Pittsburgh-Bradford|PA
+upg.pitt.edu|University of Pittsburgh-Greensburg|PA
+upj.pitt.edu|University of Pittsburgh-Johnstown|PA
+up.edu|University of Portland|OR
+potomac.edu|University of the Potomac|DC
+uprag.edu|University of Puerto Rico-Aguadilla|PR
+upra.edu|University of Puerto Rico-Arecibo|PR
+uprb.edu|University of Puerto Rico-Bayam&oacute;n|PR
+uprc.edu|University of Puerto Rico-Carolina|PR
+cayey.upr.edu|University of Puerto Rico-Cayey|PR
+rcm.upr.edu|University of Puerto Rico-Ciencias M&eacute;dicas|PR
+uprh.edu|University of Puerto Rico-Humacao|PR
+uprm.edu|University of Puerto Rico-Mayag&uuml;ez|PR
+uprp.edu|University of Puerto Rico-Ponce|PR
+uprrp.edu|University of Puerto Rico-R&iacute;o Piedras|PR
+upr.edu|University of Puerto Rico System|PR
+uprutuado.edu|University of Puerto Rico-Utuado|PR
+pugetsound.edu|University of Puget Sound|WA
+redlands.edu|University of Redlands|CA
+uri.edu|University of Rhode Island|RI
+richmond.edu|University of Richmond|VA
+rio.edu|University of Rio Grande|OH
+rochester.edu|University of Rochester|NY
+rockies.edu|University of the Rockies|CO
+stfrancis.edu|University of St. Francis|IL
+sf.edu|University of Saint Francis|IN
+stmary.edu|University of Saint Mary|KS
+sandiego.edu|University of San Diego|CA
+usfca.edu|University of San Francisco|CA
+usao.edu|University of Science & Arts of Oklahoma|OK
+usciences.edu|University of the Sciences in Philadelphia|PA
+matrix.scranton.edu|University of Scranton|PA
+usiouxfalls.edu|University of Sioux Falls|SD
+usc.edu|University of Southern California|CA
+usm.maine.edu|University of Southern Maine|ME
+sc.edu|University of South Carolina|SC
+usca.edu|University of South Carolina-Aiken|SC
+uscb.edu|University of South Carolina-Beaufort|SC
+sc.edu/about/system_and_campuses|University of South Carolina System|SC
+uscupstate.edu|University of South Carolina-Upstate|SC
+usd.edu|University of South Dakota|SD
+usf.edu|University of South Florida|FL
+usfsp.edu|University of South Florida Saint Petersburg|FL
+usfsm.edu|University of South Florida Sarasota-Manatee|FL
+usm.edu|University of Southern Mississippi|MS
+stthom.edu|University of Saint Thomas|TX
+stthomas.edu|University of Saint Thomas|MN
+usouthal.edu|University of South Alabama|AL
+usi.edu|University of Southern Indiana|IN
+ut.edu|University of Tampa|FL
+utk.edu|University of Tennessee|TN
+utc.edu|University of Tennessee-Chattanooga|TN
+uthsc.edu|University of Tennessee Health Science Center|TN
+utm.edu|University of Tennessee-Martin|TN
+tennessee.edu|University of Tennessee System|TN
+uta.edu|University of Texas-Arlington|TX
+utexas.edu|University of Texas-Austin|TX
+utb.edu|University of Texas-Brownsville|TX
+utdallas.edu|University of Texas-Dallas|TX
+utep.edu|University of Texas-El Paso|TX
+uth.edu|University of Texas Health Science Center at Houston|TX
+uthscsa.edu|University of Texas Health Science Center at San Antonio|TX
+uthct.edu|University of Texas Health Science Center at Tyler|TX
+mdanderson.org|University of Texas M.D. Anderson Cancer Center|TX
+utmb.edu|University of Texas Medical Branch at Galveston|TX
+utpa.edu|University of Texas-Pan American|TX
+utpb.edu|University of Texas of the Permian Basin|TX
+utsa.edu|University of Texas-San Antonio|TX
+utsouthwestern.edu|University of Texas Southwestern Medical Center at Dallas|TX
+utsystem.edu|University of Texas System|TX
+uttyler.edu|University of Texas-Tyler|TX
+uarts.edu|University of the Arts|PA
+ucumberlands.edu|University of the Cumberlands|KY
+uiw.edu|University of the Incarnate Word|TX
+sewanee.edu|University of the South|TN
+usw.edu|University of the Southwest|NM
+utoledo.edu|University of Toledo|OH
+utulsa.edu|University of Tulsa|OK
+utah.edu|University of Utah|UT
+uvm.edu|University of Vermont|VT
+uvi.edu|University of the Virgin Islands|VI
+virginia.edu|University of Virginia|VA
+wise.virginia.edu|University of Virginia's College at Wise|VA
+washington.edu|University of Washington|WA
+uwb.edu|University of Washington-Bothell|WA
+tacoma.uw.edu|University of Washington-Tacoma|WA
+uwa.edu|University of West Alabama|AL
+uwf.edu|University of West Florida|FL
+westga.edu|University of West Georgia|GA
+uws.edu|University of Western States|OR
+uwest.edu|University of the West|CA
+uwec.edu|University of Wisconsin-Eau Claire|WI
+uwgb.edu|University of Wisconsin-Green Bay|WI
+uwlax.edu|University of Wisconsin-La Crosse|WI
+wisc.edu|University of Wisconsin-Madison|WI
+uwm.edu|University of Wisconsin-Milwaukee|WI
+uwosh.edu|University of Wisconsin-Oshkosh|WI
+uwp.edu|University of Wisconsin-Parkside|WI
+uwplatt.edu|University of Wisconsin-Platteville|WI
+uwrf.edu|University of Wisconsin-River Falls|WI
+uwsp.edu|University of Wisconsin-Stevens Point|WI
+uwstout.edu|University of Wisconsin-Stout|WI
+uwsuper.edu|University of Wisconsin-Superior|WI
+uwsa.edu|University of Wisconsin System|WI
+uww.edu|University of Wisconsin-Whitewater|WI
+uwyo.edu|University of Wyoming|WY
+xavier.edu|Xavier University|OH
+xula.edu|Xavier University of Louisiana|LA
+yale.edu|Yale University|CT
+yu.edu|Yeshiva University|NY
+york.edu|York College|NE
+ycp.edu|York College of Pennsylvania|PA
+yhc.edu|Young Harris College|GA
+ysu.edu|Youngstown State University|OH

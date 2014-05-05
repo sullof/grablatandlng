@@ -7,6 +7,42 @@ var request = require('request');
 var bingkey = "AjwCgUFJFqC19tz3taTaMBDJimU67dknhaBxDvSqjVN6YcBeGJKFlT6NlvKly_tE";
 var googlekey = "AIzaSyDcvUt88ePSXWiHZPAeZCmdGxvk5Old8ps";
 
+
+function removeCheapSchools() {
+	var grabs = fs.readFileSync("filter.txt", {
+		encoding : "utf-8"
+	}).split("\n");
+	var filtered = {};
+	for ( var i = 0; i < grabs.length; i++) {
+		var a = grabs[i].split("|")[0].toLowerCase();
+		filtered[a] = true;
+	}
+	var fn = "USPostsecondarySchoolsWithoutAddress.json"
+		var str = fs.readFileSync(fn, {
+			encoding : "utf-8"
+		});
+		var schools = JSON.parse(str);
+		var noLatSchools = [];
+
+		for ( var i = 0; i < schools.length; i++) {
+			var school = schools[i];
+			var dom = school.dom.toLowerCase().split(".");
+			var l = dom.length;
+			school.dom = dom[l-2]+"."+dom[l-1];
+			console.log(filtered[school.dom], school.dom);
+			if (!filtered[school.dom]) {
+				schools.splice(i,1); 
+				i--;
+			}
+		}
+		
+		str = beautify(JSON.stringify(schools), {
+			indent_size : 2
+		});
+		fs.writeFileSync("USPostsecondaryImportantSchools.json", str);
+		console.log("JSON file created.", schools.length);
+}
+
 function fixCurrentData() {
 	var grabs = fs.readFileSync("grabbed.txt", {
 		encoding : "utf-8"
@@ -65,10 +101,9 @@ function removeUselessFields() {
 		var school = schools[i];
 		if (!school.lat) {
 			noLatSchools.push(school);
-			schools.splice(i,1);
+			schools.splice(i, 1);
 			i--;
-		}
-		else {
+		} else {
 			delete school.addr;
 			delete school.zip;
 			delete school.state;
@@ -80,7 +115,7 @@ function removeUselessFields() {
 		indent_size : 2
 	});
 	fs.writeFileSync("USPostsecondarySchoolsWithoutAddress.json", str);
-	
+
 	str = beautify(JSON.stringify(noLatSchools), {
 		indent_size : 2
 	});
@@ -90,7 +125,7 @@ function removeUselessFields() {
 
 function findLongLat() {
 	var resturl = "http://maps.google.com/maps/api/geocode/json?address=ADDRESS&sensor=false";
-	var str = fs.readFileSync("USPostsecondarySchools.json", {
+	var str = fs.readFileSync("USPostsecondarySchoolsWithCoordinates.json", {
 		encoding : "utf-8"
 	});
 	var schools = JSON.parse(str);
@@ -99,10 +134,28 @@ function findLongLat() {
 		str = beautify(JSON.stringify(schools), {
 			indent_size : 2
 		});
-		fs.writeFileSync("USPostsecondarySchoolsWithCoordinates.json", str);
+		fs.writeFileSync("USPostsecondarySchoolsWithCoordinates2.json", str);
 		console.log("JSON file created.");
 	}
-	
+
+//	function capture() {
+//		schools = [];
+//
+//		jQuery("div.box2 ul li a").each(function(index) {
+//			var elem = $(this);
+//
+//			var href = elem.attr("href");
+//			var txt = elem.text();
+//			schools.push({
+//				href : href.replace(/\r/g, "").replace(/\n/g, " "),
+//				name : txt.replace(/\r/g, "").replace(/\n/g, " ")
+//			});
+//
+//		});
+//		console.log(schools.length);
+//		// prompt("", JSON.stringify(schools));
+//	}
+
 	function grab(i) {
 
 		if (i == schools.length)
@@ -145,7 +198,7 @@ function findLongLat() {
 	grab(0);
 }
 // fixCurrentData();
-findLongLat();
+
 
 function createJson() {
 
@@ -202,3 +255,5 @@ function createJson() {
 	console.log("JSON file created.");
 
 }
+
+findLongLat();
