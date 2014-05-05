@@ -1003,9 +1003,7 @@
   "city": "Little Rock",
   "state": "AR",
   "zip": "72211",
-  "dom": "arkansas.dalecarnegie.com",
-  "lat": 34.746048,
-  "lng": -92.396715
+  "dom": "arkansas.dalecarnegie.com"
 }, {
   "name": "Jefferson Regional Medical Center School of Nursing",
   "addr": "1600 West 40th",
@@ -1408,9 +1406,7 @@
   "city": "Tempe",
   "state": "AZ",
   "zip": "85282",
-  "dom": "phoenix.dalecarnegie.com",
-  "lat": 33.3815581,
-  "lng": -111.9263103
+  "dom": "phoenix.dalecarnegie.com"
 }, {
   "name": "Arizona Western College",
   "addr": "P.O. Box 929",
@@ -1705,9 +1701,7 @@
   "city": "Phoenix",
   "state": "AZ",
   "zip": "85008-1716",
-  "dom": "lontechnicalcollege.com",
-  "lat": 33.4517966,
-  "lng": -111.9847567
+  "dom": "lontechnicalcollege.com"
 }, {
   "name": "Maricopa Community College System Office",
   "addr": "2411 W 14th St",
@@ -1867,9 +1861,7 @@
   "city": "Scottsdale",
   "state": "AZ",
   "zip": "85257",
-  "dom": "ptmcaz.edu",
-  "lat": 33.466729,
-  "lng": -111.907469
+  "dom": "ptmcaz.edu"
 }, {
   "name": "Pima Community College",
   "addr": "2202 W Anklam Rd",
@@ -2002,9 +1994,7 @@
   "city": "Sells",
   "state": "AZ",
   "zip": "85634",
-  "dom": "tocc.cc.az.us",
-  "lat": 31.9120215,
-  "lng": -111.881234
+  "dom": "tocc.cc.az.us"
 }, {
   "name": "Tucson College",
   "addr": "5151 East Broadway Boulevard, Suite 155",
@@ -3172,9 +3162,7 @@
   "city": "Pasadena",
   "state": "CA",
   "zip": "91103",
-  "dom": "adelantecareerinstitute.com",
-  "lat": 34.1658456,
-  "lng": -118.1494966
+  "dom": "adelantecareerinstitute.com"
 }, {
   "name": "Career Academy of Beauty",
   "addr": "12471 Valley View",
@@ -3280,18 +3268,14 @@
   "city": "San Luis Obispo",
   "state": "CA",
   "zip": "93401",
-  "dom": "ccsce.org",
-  "lat": 35.2827524,
-  "lng": -120.6596156
+  "dom": "ccsce.org"
 }, {
   "name": "Central Coast College",
   "addr": "480 S Main Street",
   "city": "Salinas",
   "state": "CA",
   "zip": "93901",
-  "dom": "centralcoastcollege.edu",
-  "lat": 36.6695842,
-  "lng": -121.6556852
+  "dom": "centralcoastcollege.edu"
 }, {
   "name": "Central County Occupational Center/Program",
   "addr": "760 Hillsdale Avenue, Building 400",
@@ -3388,18 +3372,14 @@
   "city": "Los Angeles",
   "state": "CA",
   "zip": "90010",
-  "dom": "chase.edu",
-  "lat": 34.0614461,
-  "lng": -118.3028634
+  "dom": "chase.edu"
 }, {
   "name": "Church Divinity School of the Pacific",
   "addr": "2451 Ridge Road",
   "city": "Berkeley",
   "state": "CA",
   "zip": "94709-1211",
-  "dom": "cdsp.edu",
-  "lat": 37.8762337,
-  "lng": -122.261079
+  "dom": "cdsp.edu"
 }, {
   "name": "Citrus College",
   "addr": "1000 W Foothill Blvd",
@@ -3937,18 +3917,14 @@
   "city": "La Jolla",
   "state": "CA",
   "zip": "92037",
-  "dom": "icae-lajolla.com",
-  "lat": 32.8476975,
-  "lng": -117.2747681
+  "dom": "icae-lajolla.com"
 }, {
   "name": "EPIC Bible College",
   "addr": "4330 Auburn Boulevard",
   "city": "Sacramento",
   "state": "CA",
   "zip": "95841",
-  "dom": "epic.edu",
-  "lat": 38.6451012,
-  "lng": -121.362445
+  "dom": "epic.edu"
 }, {
   "name": "East Los Angeles College",
   "addr": "1301 Ave Cesar Chavez",
@@ -4054,18 +4030,14 @@
   "city": "Santa Monica",
   "state": "CA",
   "zip": "90403",
-  "dom": "emperors.edu",
-  "lat": 34.0307517,
-  "lng": -118.4852547
+  "dom": "emperors.edu"
 }, {
   "name": "Empire College",
   "addr": "3035 Cleveland Ave",
   "city": "Santa Rosa",
   "state": "CA",
   "zip": "95403-2126",
-  "dom": "empcol.edu",
-  "lat": 38.4680617,
-  "lng": -122.7292415
+  "dom": "empcol.edu"
 }, {
   "name": "English Language Institute",
   "addr": "210 Post Street, Suite 401-4",
@@ -4747,18 +4719,14 @@
   "city": "Paramount",
   "state": "CA",
   "zip": "90723",
-  "dom": "infotechinst.com",
-  "lat": 33.8900501,
-  "lng": -118.1501927
+  "dom": "infotechinst.com"
 }, {
   "name": "Inglewood Community Adult School",
   "addr": "106 E. Manchester Boulevard, Suite 350",
   "city": "Inglewood",
   "state": "CA",
   "zip": "90301",
-  "dom": "inglewood.k12.ca",
-  "lat": 33.961477,
-  "lng": -118.354327
+  "dom": "inglewood.k12.ca"
 }, {
   "name": "Innovative Corporate Solutions",
   "addr": "5958 Caminito Cardelina",
@@ -4810,36 +4778,28 @@
   "city": "Orange",
   "state": "CA",
   "zip": "92868",
-  "dom": "intercoastcolleges.com",
-  "lat": 33.7894278,
-  "lng": -117.8935165
+  "dom": "intercoastcolleges.com"
 }, {
   "name": "Interior Designers Institute",
   "addr": "1061 Camelback Rd",
   "city": "Newport Beach",
   "state": "CA",
   "zip": "92660",
-  "dom": "idi.edu",
-  "lat": 33.641187,
-  "lng": -117.866392
+  "dom": "idi.edu"
 }, {
   "name": "International Center for American English",
   "addr": "1012 Prospect Street, #200",
   "city": "La Jolla",
   "state": "CA",
   "zip": "",
-  "dom": "icae-lj.com",
-  "lat": 32.8476975,
-  "lng": -117.2747681
+  "dom": "icae-lj.com"
 }, {
   "name": "International Professional School of Bodywork",
   "addr": "9025 Balboa Avenue, Suite 130",
   "city": "San Diego",
   "state": "CA",
   "zip": "62123",
-  "dom": "ipsb.edu",
-  "lat": 32.821226,
-  "lng": -117.134037
+  "dom": "ipsb.edu"
 }, {
   "name": "International Reformed University and Seminary",
   "addr": "125 S. Vermont Avenue",
@@ -5017,18 +4977,14 @@
   "city": "Los Angeles",
   "state": "CA",
   "zip": "90010-1308",
-  "dom": "lac.edu",
-  "lat": 34.0614162,
-  "lng": -118.2920236
+  "dom": "lac.edu"
 }, {
   "name": "La Sierra University",
   "addr": "4500 Riverwalk Parkway",
   "city": "Riverside",
   "state": "CA",
   "zip": "92515-8247",
-  "dom": "lasierra.edu",
-  "lat": 33.9115594,
-  "lng": -117.500056
+  "dom": "lasierra.edu"
 }, {
   "name": "Laguna College of Art and Design",
   "addr": "2222 Laguna Canyon Rd",
@@ -6097,9 +6053,7 @@
   "city": "Cerritos",
   "state": "CA",
   "zip": "90703",
-  "dom": "pci-ed.com",
-  "lat": 33.8745229,
-  "lng": -118.1002027
+  "dom": "pci-ed.com"
 }, {
   "name": "POLY Languages Institute",
   "addr": "2900 E. Colorado Blvd.",
@@ -6736,9 +6690,7 @@
   "city": "San Diego",
   "state": "CA",
   "zip": "92111",
-  "dom": "sdcoe.k12.ca.us",
-  "lat": 32.769409,
-  "lng": -117.179608
+  "dom": "sdcoe.k12.ca.us"
 }, {
   "name": "San Diego Job  Corps Center",
   "addr": "1325 Iris Avenue",
@@ -7474,9 +7426,7 @@
   "city": "Inglewood",
   "state": "CA",
   "zip": "90301",
-  "dom": "uwla.edu",
-  "lat": 33.9459223,
-  "lng": -118.3697815
+  "dom": "uwla.edu"
 }, {
   "name": "The Wright Institute",
   "addr": "2728 Durant Ave",
@@ -7510,9 +7460,7 @@
   "city": "Long Beach",
   "state": "CA",
   "zip": "",
-  "dom": "longbeach.dalecarnegie.com",
-  "lat": 33.7914186,
-  "lng": -118.1676435
+  "dom": "longbeach.dalecarnegie.com"
 }, {
   "name": "Thomas Jefferson School of Law",
   "addr": "2121 San Diego Ave",
@@ -8887,9 +8835,7 @@
   "city": "Colorado Springs",
   "state": "CO",
   "zip": "80903-3612",
-  "dom": "rockies.edu",
-  "lat": 38.8329804,
-  "lng": -104.8142615
+  "dom": "rockies.edu"
 }, {
   "name": "Western State College of Colorado",
   "addr": "600 N Adams",
@@ -10660,9 +10606,7 @@
   "city": "Maitland",
   "state": "FL",
   "zip": "32751",
-  "dom": "WWW.FCNH.COM",
-  "lat": 28.630026,
-  "lng": -81.39668999999999
+  "dom": "WWW.FCNH.COM"
 }, {
   "name": "Florida College of Natural Health",
   "addr": "2001 W Sample Rd Ste 100",
@@ -13684,9 +13628,7 @@
   "city": "Honolulu",
   "state": "HI",
   "zip": "96815",
-  "dom": "babel.edu",
-  "lat": 21.288183,
-  "lng": -157.834902
+  "dom": "babel.edu"
 }, {
   "name": "Brigham Young University - Hawaii",
   "addr": "55-220 Kulanui Street",
@@ -13810,9 +13752,7 @@
   "city": "Honolulu",
   "state": "HI",
   "zip": "96817",
-  "dom": "hawaii.dalecarnegie.com",
-  "lat": 21.322586,
-  "lng": -157.8496025
+  "dom": "hawaii.dalecarnegie.com"
 }, {
   "name": "Institute of Clinical Acupuncture & Oriental Medicine",
   "addr": "100 N. Beretania Street, Suite 203B",
@@ -14674,9 +14614,7 @@
   "city": "Boise",
   "state": "ID",
   "zip": "83709",
-  "dom": "cri.org",
-  "lat": 43.5859809,
-  "lng": -116.2796097
+  "dom": "cri.org"
 }, {
   "name": "Ballet Idaho Academy",
   "addr": "501 South 8th Street",

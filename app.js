@@ -178,9 +178,11 @@ function findLongLat() {
 			if (!error && response.statusCode == 200) {
 				try {
 					var obj = JSON.parse(body);
-					school.lat = obj.results[0].geometry.location.lat;
-					school.lng = obj.results[0].geometry.location.lng;
-					console.log(school.lat, school.lng);
+					if (obj.status != "ZERO_RESULTS") {
+						school.lat = obj.results[0].geometry.location.lat;
+						school.lng = obj.results[0].geometry.location.lng;
+						console.log(school.lat, school.lng);
+					}
 				} catch (e) {
 					noBody = true;
 				}

@@ -1,0 +1,5651 @@
+[{
+  "name": "Alaska Pacific University",
+  "dom": "alaskapacific.edu",
+  "lat": "61.19126600000001",
+  "lng": "-149.801344"
+}, {
+  "name": "University of Alaska Anchorage",
+  "dom": "alaska.edu",
+  "lat": "61.19078219999999",
+  "lng": "-149.8182731"
+}, {
+  "name": "University of Alaska Fairbanks",
+  "dom": "uaf.edu",
+  "lat": "64.8562062",
+  "lng": "-147.8211833"
+}, {
+  "name": "University of Alaska Southeast",
+  "dom": "alaska.edu",
+  "lat": "58.3844953",
+  "lng": "-134.6392853"
+}, {
+  "name": "Alabama A & M University",
+  "dom": "aamu.edu",
+  "lat": "34.785058",
+  "lng": "-86.57328299999999"
+}, {
+  "name": "Alabama State University",
+  "dom": "alasu.edu",
+  "lat": "32.366287",
+  "lng": "-86.296902"
+}, {
+  "name": "Amridge University",
+  "dom": "amridgeuniversity.edu",
+  "lat": "32.3626934",
+  "lng": "-86.1740338"
+}, {
+  "name": "Athens State University",
+  "dom": "athens.edu",
+  "lat": "34.8059635",
+  "lng": "-86.9675331"
+}, {
+  "name": "Auburn University Main Campus",
+  "dom": "auburn.edu",
+  "lat": "32.5933574",
+  "lng": "-85.4951663"
+}, {
+  "name": "Auburn University-Montgomery",
+  "dom": "aum.edu",
+  "lat": "32.3676046",
+  "lng": "-86.1738001"
+}, {
+  "name": "Birmingham Southern College",
+  "dom": "bsc.edu",
+  "lat": "33.5162595",
+  "lng": "-86.8509948"
+}, {
+  "name": "Faulkner University",
+  "dom": "faulkner.edu",
+  "lat": "32.38258",
+  "lng": "-86.218042"
+}, {
+  "name": "Huntingdon College",
+  "dom": "huntingdon.edu",
+  "lat": "32.349981",
+  "lng": "-86.28495099999999"
+}, {
+  "name": "Jacksonville State University",
+  "dom": "jsu.edu",
+  "lat": "33.82351510000001",
+  "lng": "-85.7633486"
+}, {
+  "name": "Judson College",
+  "dom": "judson.edu",
+  "lat": "32.6309212",
+  "lng": "-87.3167017"
+}, {
+  "name": "Miles College",
+  "dom": "miles.edu",
+  "lat": "33.480831",
+  "lng": "-86.90826799999999"
+}, {
+  "name": "Oakwood University",
+  "dom": "oakwood.edu",
+  "lat": "34.7526074",
+  "lng": "-86.64838209999999"
+}, {
+  "name": "Samford University",
+  "dom": "samford.edu",
+  "lat": "33.4632615",
+  "lng": "-86.79017789999999"
+}, {
+  "name": "South University-Montgomery",
+  "dom": "southuniversity.edu",
+  "lat": "32.342729",
+  "lng": "-86.216402"
+}, {
+  "name": "Southeastern Bible College",
+  "dom": "sebc.edu",
+  "lat": "33.378764",
+  "lng": "-86.74976099999999"
+}, {
+  "name": "Spring Hill College",
+  "dom": "shc.edu",
+  "lat": "30.6869366",
+  "lng": "-88.13549189999999"
+}, {
+  "name": "Stillman College",
+  "dom": "stillman.edu",
+  "lat": "33.2008895",
+  "lng": "-87.58289889999999"
+}, {
+  "name": "Talladega College",
+  "dom": "talladega.edu",
+  "lat": "33.4327519",
+  "lng": "-86.1135613"
+}, {
+  "name": "The University of Alabama",
+  "dom": "ua.edu",
+  "lat": "33.2095116",
+  "lng": "-87.54608449999999"
+}, {
+  "name": "Troy University",
+  "dom": "troy.edu",
+  "lat": "31.7987423",
+  "lng": "-85.9568249"
+}, {
+  "name": "Tuskegee University",
+  "dom": "tuskegee.edu",
+  "lat": "32.4166571",
+  "lng": "-85.717941"
+}, {
+  "name": "United States Sports Academy",
+  "dom": "ussa.edu",
+  "lat": "30.640039",
+  "lng": "-87.9120142"
+}, {
+  "name": "University of Alabama at Birmingham",
+  "dom": "uab.edu",
+  "lat": "33.5068662",
+  "lng": "-86.8092209"
+}, {
+  "name": "University of Alabama in Huntsville",
+  "dom": "uah.edu",
+  "lat": "34.724132",
+  "lng": "-86.64124369999999"
+}, {
+  "name": "University of Mobile",
+  "dom": "umobile.edu",
+  "lat": "30.6935136",
+  "lng": "-88.1598447"
+}, {
+  "name": "University of Montevallo",
+  "dom": "montevallo.edu",
+  "lat": "33.5350615",
+  "lng": "-86.5660626"
+}, {
+  "name": "University of North Alabama",
+  "dom": "una.edu",
+  "lat": "34.8085546",
+  "lng": "-87.6791473"
+}, {
+  "name": "University of South Alabama",
+  "dom": "usouthal.edu",
+  "lat": "30.6953879",
+  "lng": "-88.1738972"
+}, {
+  "name": "University of West Alabama",
+  "dom": "uwa.edu",
+  "lat": "32.594907",
+  "lng": "-88.1829284"
+}, {
+  "name": "Arkansas Baptist College",
+  "dom": "arkansasbaptist.edu",
+  "lat": "34.734733",
+  "lng": "-92.289166"
+}, {
+  "name": "Arkansas State University",
+  "dom": "astate.edu",
+  "lat": "35.8417002",
+  "lng": "-90.6768986"
+}, {
+  "name": "Arkansas Tech University",
+  "dom": "atu.edu",
+  "lat": "35.2936575",
+  "lng": "-93.1353577"
+}, {
+  "name": "Central Baptist College",
+  "dom": "cbc.edu",
+  "lat": "35.0844684",
+  "lng": "-92.4447423"
+}, {
+  "name": "Harding University",
+  "dom": "harding.edu",
+  "lat": "35.2494676",
+  "lng": "-91.72703729999999"
+}, {
+  "name": "Henderson State University",
+  "dom": "hsu.edu",
+  "lat": "34.1261129",
+  "lng": "-93.0587937"
+}, {
+  "name": "Hendrix College",
+  "dom": "hendrix.edu",
+  "lat": "35.10084390000001",
+  "lng": "-92.444561"
+}, {
+  "name": "John Brown University",
+  "dom": "jbu.edu",
+  "lat": "36.1873353",
+  "lng": "-94.55866119999999"
+}, {
+  "name": "Lyon College",
+  "dom": "lyon.edu",
+  "lat": "35.7788314",
+  "lng": "-91.6261607"
+}, {
+  "name": "Ouachita Baptist University",
+  "dom": "obu.edu",
+  "lat": "34.124393",
+  "lng": "-93.0516653"
+}, {
+  "name": "Philander Smith College",
+  "dom": "philander.edu",
+  "lat": "34.7373651",
+  "lng": "-92.2810437"
+}, {
+  "name": "Southern Arkansas University Main Campus",
+  "dom": "saumag.edu",
+  "lat": "33.2892996",
+  "lng": "-93.2361541"
+}, {
+  "name": "University of Arkansas at Little Rock",
+  "dom": "ualr.edu",
+  "lat": "34.7215808",
+  "lng": "-92.34164009999999"
+}, {
+  "name": "University of Arkansas at Monticello",
+  "dom": "uamont.edu",
+  "lat": "33.6121105",
+  "lng": "-91.8005891"
+}, {
+  "name": "University of Arkansas at Pine Bluff",
+  "dom": "uapb.edu",
+  "lat": "34.2284312",
+  "lng": "-92.00319549999999"
+}, {
+  "name": "University of Arkansas for Medical Sciences",
+  "dom": "uams.edu",
+  "lat": "34.7481525",
+  "lng": "-92.3208798"
+}, {
+  "name": "University of Arkansas, Fayetteville",
+  "dom": "uark.edu",
+  "lat": "36.0699791",
+  "lng": "-94.17697249999999"
+}, {
+  "name": "University of Central Arkansas",
+  "dom": "uca.edu",
+  "lat": "35.079267",
+  "lng": "-92.4542111"
+}, {
+  "name": "University of the Ozarks",
+  "dom": "ozarks.edu",
+  "lat": "35.4758935",
+  "lng": "-93.46628749999999"
+}, {
+  "name": "Williams Baptist College",
+  "dom": "wbcoll.edu",
+  "lat": "36.12458609999999",
+  "lng": "-90.93904979999999"
+}, {
+  "name": "American Indian College of the Assemblies of God",
+  "dom": "aicag.edu",
+  "lat": "33.5778487",
+  "lng": "-112.0917989"
+}, {
+  "name": "Arizona State University",
+  "dom": "asu.edu",
+  "lat": "33.4185928",
+  "lng": "-111.9330399"
+}, {
+  "name": "Grand Canyon University",
+  "dom": "gcu.edu",
+  "lat": "33.509854",
+  "lng": "-112.1303716"
+}, {
+  "name": "Northcentral University",
+  "dom": "ncu.edu",
+  "lat": "34.5565039",
+  "lng": "-112.4749779"
+}, {
+  "name": "Northern Arizona University",
+  "dom": "nau.edu",
+  "lat": "35.19054029999999",
+  "lng": "-111.653403"
+}, {
+  "name": "Prescott College",
+  "dom": "prescott.edu",
+  "lat": "34.5448128",
+  "lng": "-112.4765743"
+}, {
+  "name": "Southwest College of Naturopathic Medicine & Health Sciences",
+  "dom": "scnm.edu",
+  "lat": "33.40842730000001",
+  "lng": "-111.8949151"
+}, {
+  "name": "University of Advancing Technology",
+  "dom": "uat.edu",
+  "lat": "33.377826",
+  "lng": "-111.9759088"
+}, {
+  "name": "University of Arizona",
+  "dom": "arizona.edu",
+  "lat": "32.2326602",
+  "lng": "-110.9509063"
+}, {
+  "name": "University of Phoenix",
+  "dom": "phoenix.edu",
+  "lat": "33.4020704",
+  "lng": "-111.9660244"
+}, {
+  "name": "Academy of Art University",
+  "dom": "academyart.edu",
+  "lat": "37.7879195",
+  "lng": "-122.400711"
+}, {
+  "name": "Alliant International University",
+  "dom": "alliant.edu",
+  "lat": "32.8972454",
+  "lng": "-117.0949674"
+}, {
+  "name": "American Conservatory Theater",
+  "dom": "act-sf.org",
+  "lat": "37.7876868",
+  "lng": "-122.4052478"
+}, {
+  "name": "American Film Institute",
+  "dom": "afi.com",
+  "lat": "34.1075609",
+  "lng": "-118.3100989"
+}, {
+  "name": "American Jewish University",
+  "dom": "uj.edu",
+  "lat": "34.1278537",
+  "lng": "-118.4722847"
+}, {
+  "name": "Art Center College of Design",
+  "dom": "artcenter.edu",
+  "lat": "34.1693258",
+  "lng": "-118.1853444"
+}, {
+  "name": "Azusa Pacific University",
+  "dom": "apu.edu",
+  "lat": "34.1291939",
+  "lng": "-117.8890242"
+}, {
+  "name": "Biola University",
+  "dom": "biola.edu",
+  "lat": "33.9058214",
+  "lng": "-118.0179056"
+}, {
+  "name": "Brandman University",
+  "dom": "brandman.edu",
+  "lat": "33.6560086",
+  "lng": "-117.7690353"
+}, {
+  "name": "California Baptist University",
+  "dom": "calbaptist.edu",
+  "lat": "33.9295059",
+  "lng": "-117.4271831"
+}, {
+  "name": "California College of the Arts",
+  "dom": "cca.edu",
+  "lat": "37.83587869999999",
+  "lng": "-122.2514029"
+}, {
+  "name": "California Institute of Integral Studies",
+  "dom": "ciis.edu",
+  "lat": "37.7726402",
+  "lng": "-122.4099154"
+}, {
+  "name": "California Institute of Technology",
+  "dom": "caltech.edu",
+  "lat": "34.1390112",
+  "lng": "-118.1245135"
+}, {
+  "name": "California Institute of the Arts",
+  "dom": "calarts.edu",
+  "lat": "34.3913114",
+  "lng": "-118.5650754"
+}, {
+  "name": "California Lutheran University",
+  "dom": "callutheran.edu",
+  "lat": "34.2241462",
+  "lng": "-118.8767951"
+}, {
+  "name": "California Maritime Academy",
+  "dom": "csum.edu",
+  "lat": "38.0697508",
+  "lng": "-122.2317302"
+}, {
+  "name": "California Polytechnic State University-San Luis Obispo",
+  "dom": "calpoly.edu",
+  "lat": "35.2959663",
+  "lng": "-120.6531793"
+}, {
+  "name": "California State Polytechnic University - Pomona",
+  "dom": "csupomona.edu",
+  "lat": "34.0587981",
+  "lng": "-117.8208397"
+}, {
+  "name": "California State University - Channel Islands",
+  "dom": "csuci.edu",
+  "lat": "34.165363",
+  "lng": "-119.0451473"
+}, {
+  "name": "California State University - Chico",
+  "dom": "csuchico.edu",
+  "lat": "39.7281808",
+  "lng": "-121.84612"
+}, {
+  "name": "California State University - Dominguez Hills",
+  "dom": "csudh.edu",
+  "lat": "33.8652873",
+  "lng": "-118.2589841"
+}, {
+  "name": "California State University - East Bay",
+  "dom": "csueastbay.edu",
+  "lat": "37.65756289999999",
+  "lng": "-122.0543356"
+}, {
+  "name": "California State University - Fullerton",
+  "dom": "fullerton.edu",
+  "lat": "33.8779144",
+  "lng": "-117.8895144"
+}, {
+  "name": "California State University - Long Beach",
+  "dom": "csulb.edu",
+  "lat": "33.7810473",
+  "lng": "-118.1135286"
+}, {
+  "name": "California State University - Los Angeles",
+  "dom": "calstatela.edu",
+  "lat": "34.063607",
+  "lng": "-118.1708233"
+}, {
+  "name": "California State University - Monterey Bay",
+  "dom": "csumb.edu",
+  "lat": "36.6544335",
+  "lng": "-121.8080914"
+}, {
+  "name": "California State University - Northridge",
+  "dom": "csun.edu",
+  "lat": "34.2359933",
+  "lng": "-118.5279092"
+}, {
+  "name": "California State University - Sacramento",
+  "dom": "csus.edu",
+  "lat": "38.564383",
+  "lng": "-121.4262853"
+}, {
+  "name": "California State University - San Bernardino",
+  "dom": "csusb.edu",
+  "lat": "34.1821748",
+  "lng": "-117.3187973"
+}, {
+  "name": "California State University - San Marcos",
+  "dom": "csusm.edu",
+  "lat": "33.1287176",
+  "lng": "-117.1595291"
+}, {
+  "name": "California State University - Stanislaus",
+  "dom": "csustan.edu",
+  "lat": "37.521982",
+  "lng": "-120.8584787"
+}, {
+  "name": "Chapman University",
+  "dom": "chapman.edu",
+  "lat": "33.7930828",
+  "lng": "-117.8525746"
+}, {
+  "name": "Charles R Drew University of Medicine and Science",
+  "dom": "cdrewu.edu",
+  "lat": "33.9256333",
+  "lng": "-118.242526"
+}, {
+  "name": "Claremont Graduate University",
+  "dom": "cgu.edu",
+  "lat": "34.1034393",
+  "lng": "-117.7123513"
+}, {
+  "name": "Claremont McKenna College",
+  "dom": "claremontmckenna.edu",
+  "lat": "34.1023318",
+  "lng": "-117.7064983"
+}, {
+  "name": "Claremont School of Theology",
+  "dom": "cst.edu",
+  "lat": "34.1081003",
+  "lng": "-117.7160811"
+}, {
+  "name": "Cogswell Polytechnical College",
+  "dom": "cogswell.edu",
+  "lat": "37.4069078",
+  "lng": "-122.024111"
+}, {
+  "name": "Concordia University",
+  "dom": "cui.edu",
+  "lat": "33.6543341",
+  "lng": "-117.8124261"
+}, {
+  "name": "Dominican School of Philosophy and Theology",
+  "dom": "dspt.edu",
+  "lat": "37.8811431",
+  "lng": "-122.2646027"
+}, {
+  "name": "Dominican University of California",
+  "dom": "dominican.edu",
+  "lat": "37.97932720000001",
+  "lng": "-122.5168821"
+}, {
+  "name": "Fashion Institute of Design and Merchandising",
+  "dom": "fidm.edu",
+  "lat": "34.0442488",
+  "lng": "-118.2599548"
+}, {
+  "name": "Fielding Graduate University",
+  "dom": "fielding.edu",
+  "lat": "34.4344528",
+  "lng": "-119.7138925"
+}, {
+  "name": "Franciscan School of Theology",
+  "dom": "fst.edu",
+  "lat": "33.2322193",
+  "lng": "-117.3198097"
+}, {
+  "name": "Fresno Pacific University",
+  "dom": "fresno.edu",
+  "lat": "36.72714810000001",
+  "lng": "-119.7355711"
+}, {
+  "name": "Fuller Theological Seminary",
+  "dom": "fuller.edu",
+  "lat": "34.1482509",
+  "lng": "-118.1402843"
+}, {
+  "name": "Golden Gate Baptist Theological Seminary",
+  "dom": "ggbts.edu",
+  "lat": "37.8878764",
+  "lng": "-122.5078769"
+}, {
+  "name": "Golden Gate University-San Francisco",
+  "dom": "ggu.edu",
+  "lat": "37.7892253",
+  "lng": "-122.3990086"
+}, {
+  "name": "Grace Communion Seminary",
+  "dom": "ambassador.edu",
+  "lat": "34.1293191",
+  "lng": "-117.8273548"
+}, {
+  "name": "Graduate Theological Union",
+  "dom": "gtu.edu",
+  "lat": "37.8756063",
+  "lng": "-122.2618405"
+}, {
+  "name": "Harvey Mudd College",
+  "dom": "hmc.edu",
+  "lat": "34.1058905",
+  "lng": "-117.712125"
+}, {
+  "name": "Holy Names University",
+  "dom": "hnu.edu",
+  "lat": "37.80249",
+  "lng": "-122.186495"
+}, {
+  "name": "Hope International University",
+  "dom": "hiu.edu",
+  "lat": "33.8768843",
+  "lng": "-117.8851358"
+}, {
+  "name": "Humboldt State University",
+  "dom": "humboldt.edu",
+  "lat": "40.8744392",
+  "lng": "-124.0790979"
+}, {
+  "name": "Humphreys College - Stockton",
+  "dom": "humphreys.edu",
+  "lat": "38.011014",
+  "lng": "-121.31622"
+}, {
+  "name": "John F Kennedy University",
+  "dom": "jfku.edu",
+  "lat": "37.95664790000001",
+  "lng": "-122.0546999"
+}, {
+  "name": "Keck Graduate Institute",
+  "dom": "kgi.edu",
+  "lat": "34.0932172",
+  "lng": "-117.723535"
+}, {
+  "name": "Life Pacific College",
+  "dom": "lifepacific.edu",
+  "lat": "34.0993665",
+  "lng": "-117.8289949"
+}, {
+  "name": "Loma Linda University",
+  "dom": "llu.edu",
+  "lat": "34.0530666",
+  "lng": "-117.2643048"
+}, {
+  "name": "Loyola Marymount University",
+  "dom": "lmu.edu",
+  "lat": "33.9663093",
+  "lng": "-118.4229655"
+}, {
+  "name": "Menlo College",
+  "dom": "menlo.edu",
+  "lat": "37.4561567",
+  "lng": "-122.1932415"
+}, {
+  "name": "Mills College",
+  "dom": "mills.edu",
+  "lat": "37.7773987",
+  "lng": "-122.1841656"
+}, {
+  "name": "National University",
+  "dom": "nu.edu",
+  "lat": "32.909734",
+  "lng": "-117.242874"
+}, {
+  "name": "Notre Dame de Namur University",
+  "dom": "ndnu.edu",
+  "lat": "37.5175516",
+  "lng": "-122.2848524"
+}, {
+  "name": "Occidental College",
+  "dom": "oxy.edu",
+  "lat": "34.1295324",
+  "lng": "-118.2106612"
+}, {
+  "name": "Olivet University",
+  "dom": "olivetuniversity.edu",
+  "lat": "37.78236",
+  "lng": "-122.402096"
+}, {
+  "name": "Otis College of Art and Design",
+  "dom": "otis.edu",
+  "lat": "33.9566318",
+  "lng": "-118.4167179"
+}, {
+  "name": "Pacific Oaks College",
+  "dom": "pacificoaks.edu",
+  "lat": "34.1515656",
+  "lng": "-118.1604791"
+}, {
+  "name": "Pacific School of Religion",
+  "dom": "psr.edu",
+  "lat": "37.8767189",
+  "lng": "-122.2629744"
+}, {
+  "name": "Pacific Union College",
+  "dom": "puc.edu",
+  "lat": "38.5697401",
+  "lng": "-122.4418299"
+}, {
+  "name": "Pacifica Graduate Institute",
+  "dom": "pacifica.edu",
+  "lat": "34.4217129",
+  "lng": "-119.580588"
+}, {
+  "name": "Palo Alto University",
+  "dom": "paloaltou.edu",
+  "lat": "37.382454",
+  "lng": "-122.1874271"
+}, {
+  "name": "Pardee Rand Graduate School of Policy Studies",
+  "dom": "prgs.edu",
+  "lat": "34.0096038",
+  "lng": "-118.4907507"
+}, {
+  "name": "Patten University",
+  "dom": "patten.edu",
+  "lat": "37.7862604",
+  "lng": "-122.2195419"
+}, {
+  "name": "Pepperdine University",
+  "dom": "pepperdine.edu",
+  "lat": "34.0378236",
+  "lng": "-118.7072927"
+}, {
+  "name": "Phillips Graduate Institute",
+  "dom": "pgi.edu",
+  "lat": "34.169944",
+  "lng": "-118.502004"
+}, {
+  "name": "Pitzer College",
+  "dom": "pitzer.edu",
+  "lat": "34.1041294",
+  "lng": "-117.7063608"
+}, {
+  "name": "Point Loma Nazarene University",
+  "dom": "pointloma.edu",
+  "lat": "32.7169871",
+  "lng": "-117.2510209"
+}, {
+  "name": "Pomona College",
+  "dom": "pomona.edu",
+  "lat": "34.0989512",
+  "lng": "-117.71452"
+}, {
+  "name": "Saint Johns Seminary",
+  "dom": "stjohnsem.edu",
+  "lat": "34.2428017",
+  "lng": "-119.0053066"
+}, {
+  "name": "Saint Mary's College of California",
+  "dom": "stmarys-ca.edu",
+  "lat": "37.8413472",
+  "lng": "-122.1101353"
+}, {
+  "name": "Saint Patrick's Seminary and University",
+  "dom": "stpatricksseminary.org",
+  "lat": "37.45887",
+  "lng": "-122.167954"
+}, {
+  "name": "Samuel Merritt University",
+  "dom": "samuelmerritt.edu",
+  "lat": "37.821535",
+  "lng": "-122.26307"
+}, {
+  "name": "San Diego State University",
+  "dom": "sdsu.edu",
+  "lat": "32.7753492",
+  "lng": "-117.0712315"
+}, {
+  "name": "San Diego State University-Imperial Valley Campus",
+  "dom": "sdsu.edu",
+  "lat": "32.671653",
+  "lng": "-115.493261"
+}, {
+  "name": "San Francisco Art Institute",
+  "dom": "sfai.edu",
+  "lat": "37.8033836",
+  "lng": "-122.4172055"
+}, {
+  "name": "San Francisco Conservatory of Music",
+  "dom": "sfcm.edu",
+  "lat": "37.775558",
+  "lng": "-122.4203467"
+}, {
+  "name": "San Francisco State University",
+  "dom": "sfsu.edu",
+  "lat": "37.7239338",
+  "lng": "-122.4831751"
+}, {
+  "name": "San Francisco Theological Seminary",
+  "dom": "sfts.edu",
+  "lat": "37.9695926",
+  "lng": "-122.5648069"
+}, {
+  "name": "San Joaquin College of Law",
+  "dom": "sjcl.edu",
+  "lat": "36.8246434",
+  "lng": "-119.6976972"
+}, {
+  "name": "San Jose State University",
+  "dom": "sjsu.edu",
+  "lat": "37.3347439",
+  "lng": "-121.8849183"
+}, {
+  "name": "Santa Clara University",
+  "dom": "scu.edu",
+  "lat": "37.3499438",
+  "lng": "-121.9406449"
+}, {
+  "name": "Saybrook Graduate School and Research Center",
+  "dom": "saybrook.edu",
+  "lat": "37.7984561",
+  "lng": "-122.3999945"
+}, {
+  "name": "Scripps College",
+  "dom": "scrippscollege.edu",
+  "lat": "34.1034173",
+  "lng": "-117.7113594"
+}, {
+  "name": "Scripps Research Institute",
+  "dom": "scripps.edu",
+  "lat": "32.8956269",
+  "lng": "-117.2423677"
+}, {
+  "name": "Soka University of America",
+  "dom": "soka.edu",
+  "lat": "33.5558085",
+  "lng": "-117.7334189"
+}, {
+  "name": "Sonoma State University",
+  "dom": "sonoma.edu",
+  "lat": "38.3393615",
+  "lng": "-122.6733474"
+}, {
+  "name": "Southern California College of Optometry",
+  "dom": "scco.edu",
+  "lat": "33.8892209",
+  "lng": "-117.886276"
+}, {
+  "name": "Southern California Institute of Architecture",
+  "dom": "sciarc.edu",
+  "lat": "34.043855",
+  "lng": "-118.23289"
+}, {
+  "name": "Southern California University of Health Sciences",
+  "dom": "scuhs.edu",
+  "lat": "33.9234984",
+  "lng": "-117.9817941"
+}, {
+  "name": "Stanford University",
+  "dom": "stanford.edu",
+  "lat": "37.42410599999999",
+  "lng": "-122.1660756"
+}, {
+  "name": "Stanford University Residency in Clinical Psychology",
+  "dom": "stanford.edu",
+  "lat": "37.42826410000001",
+  "lng": "-122.1688453"
+}, {
+  "name": "The Master's College and Seminary",
+  "dom": "masters.edu",
+  "lat": "34.3816708",
+  "lng": "-118.5203483"
+}, {
+  "name": "The National Hispanic University",
+  "dom": "nhu.edu",
+  "lat": "37.3590501",
+  "lng": "-121.8160076"
+}, {
+  "name": "Thomas Aquinas College",
+  "dom": "thomasaquinas.edu",
+  "lat": "34.4270483",
+  "lng": "-119.0901957"
+}, {
+  "name": "University of California - Berkeley",
+  "dom": "berkeley.edu",
+  "lat": "37.8751841",
+  "lng": "-122.2575962"
+}, {
+  "name": "University of California - Davis",
+  "dom": "ucdavis.edu",
+  "lat": "38.5398435",
+  "lng": "-121.7550281"
+}, {
+  "name": "University of California - Irvine",
+  "dom": "uci.edu",
+  "lat": "33.6484179",
+  "lng": "-117.8412468"
+}, {
+  "name": "University of California - Los Angeles",
+  "dom": "ucla.edu",
+  "lat": "34.0696055",
+  "lng": "-118.4431446"
+}, {
+  "name": "University of California - Riverside",
+  "dom": "ucr.edu",
+  "lat": "33.9745449",
+  "lng": "-117.3242595"
+}, {
+  "name": "University of California - San Diego",
+  "dom": "ucsd.edu",
+  "lat": "32.8769207",
+  "lng": "-117.2361478"
+}, {
+  "name": "University of California - San Diego Skaggs School of Pharmacy and Pharmaceutical Sciences",
+  "dom": "ucsd.edu",
+  "lat": "32.88435520000001",
+  "lng": "-117.2338066"
+}, {
+  "name": "University of California - San Francisco",
+  "dom": "ucsf.edu",
+  "lat": "37.7637189",
+  "lng": "-122.4588203"
+}, {
+  "name": "University of California - Santa Barbara",
+  "dom": "ucsb.edu",
+  "lat": "34.4139629",
+  "lng": "-119.848947"
+}, {
+  "name": "University of California - Santa Cruz",
+  "dom": "ucsc.edu",
+  "lat": "36.9776233",
+  "lng": "-122.0543244"
+}, {
+  "name": "University of California Hastings College of Law",
+  "dom": "uchastings.edu",
+  "lat": "37.7809332",
+  "lng": "-122.4156281"
+}, {
+  "name": "University of Redlands",
+  "dom": "redlands.edu",
+  "lat": "34.0623061",
+  "lng": "-117.1642828"
+}, {
+  "name": "University of San Diego",
+  "dom": "sandiego.edu",
+  "lat": "32.7719839",
+  "lng": "-117.187294"
+}, {
+  "name": "University of San Francisco",
+  "dom": "usfca.edu",
+  "lat": "37.7766278",
+  "lng": "-122.4505145"
+}, {
+  "name": "University of Southern California",
+  "dom": "usc.edu",
+  "lat": "34.02610290000001",
+  "lng": "-118.2796702"
+}, {
+  "name": "University of the Pacific",
+  "dom": "pacific.edu",
+  "lat": "37.9803123",
+  "lng": "-121.3126245"
+}, {
+  "name": "Vanguard University of Southern California",
+  "dom": "vanguard.edu",
+  "lat": "33.6634163",
+  "lng": "-117.9013957"
+}, {
+  "name": "Western State University - College of Law",
+  "dom": "wsulaw.edu",
+  "lat": "33.8807943",
+  "lng": "-117.8900692"
+}, {
+  "name": "Western University of Health Sciences",
+  "dom": "westernu.edu",
+  "lat": "34.058164",
+  "lng": "-117.7478033"
+}, {
+  "name": "Westminster Seminary California",
+  "dom": "wscal.edu",
+  "lat": "33.1217022",
+  "lng": "-117.046094"
+}, {
+  "name": "Westmont College",
+  "dom": "westmont.edu",
+  "lat": "34.4479718",
+  "lng": "-119.6596339"
+}, {
+  "name": "Whittier College",
+  "dom": "whittier.edu",
+  "lat": "33.97878",
+  "lng": "-118.028745"
+}, {
+  "name": "William Jessup University",
+  "dom": "jessup.edu",
+  "lat": "38.81732",
+  "lng": "-121.2923716"
+}, {
+  "name": "Woodbury University",
+  "dom": "woodbury.edu",
+  "lat": "34.2066912",
+  "lng": "-118.341201"
+}, {
+  "name": "Adams State University",
+  "dom": "adams.edu",
+  "lat": "37.469511",
+  "lng": "-105.878592"
+}, {
+  "name": "Colorado Christian University",
+  "dom": "ccu.edu",
+  "lat": "39.71216099999999",
+  "lng": "-105.094842"
+}, {
+  "name": "Colorado College",
+  "dom": "coloradocollege.edu",
+  "lat": "38.8469479",
+  "lng": "-104.8237431"
+}, {
+  "name": "Colorado Mesa University",
+  "dom": "coloradomesa.edu",
+  "lat": "39.078928",
+  "lng": "-108.553614"
+}, {
+  "name": "Colorado School of Mines",
+  "dom": "mines.edu",
+  "lat": "39.7510216",
+  "lng": "-105.2225769"
+}, {
+  "name": "Colorado State University",
+  "dom": "colostate.edu",
+  "lat": "40.5747743",
+  "lng": "-105.0807267"
+}, {
+  "name": "Colorado State University - Pueblo",
+  "dom": "colostate-pueblo.edu",
+  "lat": "38.3060152",
+  "lng": "-104.579911"
+}, {
+  "name": "Colorado Technical University",
+  "dom": "coloradotech.edu",
+  "lat": "38.8942422",
+  "lng": "-104.833902"
+}, {
+  "name": "Denver Seminary",
+  "dom": "denverseminary.edu",
+  "lat": "39.600867",
+  "lng": "-105.022402"
+}, {
+  "name": "Fort Lewis College",
+  "dom": "fortlewis.edu",
+  "lat": "37.273814",
+  "lng": "-107.871162"
+}, {
+  "name": "Iliff School of Theology",
+  "dom": "iliff.edu",
+  "lat": "39.675741",
+  "lng": "-104.96059"
+}, {
+  "name": "Naropa University",
+  "dom": "naropa.edu",
+  "lat": "40.01377799999999",
+  "lng": "-105.267906"
+}, {
+  "name": "Nazarene Bible College",
+  "dom": "nbc.edu",
+  "lat": "38.81687000000001",
+  "lng": "-104.751964"
+}, {
+  "name": "Regis University",
+  "dom": "regis.edu",
+  "lat": "39.7875977",
+  "lng": "-105.0323727"
+}, {
+  "name": "Rocky Mountain College of Art and Design",
+  "dom": "rmcad.edu",
+  "lat": "39.7433405",
+  "lng": "-105.0698452"
+}, {
+  "name": "University of Colorado at Boulder",
+  "dom": "colorado.edu",
+  "lat": "40.0103247",
+  "lng": "-105.2889726"
+}, {
+  "name": "University of Colorado at Colorado Springs",
+  "dom": "uccs.edu",
+  "lat": "38.8920993",
+  "lng": "-104.7991807"
+}, {
+  "name": "University of Denver",
+  "dom": "du.edu",
+  "lat": "39.6766717",
+  "lng": "-104.960562"
+}, {
+  "name": "University of Northern Colorado",
+  "dom": "unco.edu",
+  "lat": "40.4037255",
+  "lng": "-104.6980655"
+}, {
+  "name": "Western State College of Colorado",
+  "dom": "western.edu",
+  "lat": "38.541986",
+  "lng": "-106.9190242"
+}, {
+  "name": "Albertus Magnus College",
+  "dom": "albertus.edu",
+  "lat": "41.332636",
+  "lng": "-72.922958"
+}, {
+  "name": "Berkeley Divinity School",
+  "dom": "yale.edu",
+  "lat": "41.32358850000001",
+  "lng": "-72.92329289999999"
+}, {
+  "name": "Central Connecticut State University",
+  "dom": "ccsu.edu",
+  "lat": "41.692939",
+  "lng": "-72.764929"
+}, {
+  "name": "Eastern Connecticut State University",
+  "dom": "easternct.edu",
+  "lat": "41.7196033",
+  "lng": "-72.2173488"
+}, {
+  "name": "Fairfield University",
+  "dom": "fairfield.edu",
+  "lat": "41.1611043",
+  "lng": "-73.2543443"
+}, {
+  "name": "Goodwin College",
+  "dom": "goodwin.edu",
+  "lat": "41.7440483",
+  "lng": "-72.6402975"
+}, {
+  "name": "Hartford Seminary",
+  "dom": "hartsem.edu",
+  "lat": "41.7700134",
+  "lng": "-72.7077935"
+}, {
+  "name": "Holy Apostles College and Seminary",
+  "dom": "holyapostles.edu",
+  "lat": "41.606931",
+  "lng": "-72.646607"
+}, {
+  "name": "Lincoln College of New England",
+  "dom": "lincolncollegene.edu",
+  "lat": "41.6304329",
+  "lng": "-72.92032999999999"
+}, {
+  "name": "Lyme Academy College of Fine Arts",
+  "dom": "lymeacademy.edu",
+  "lat": "41.3230548",
+  "lng": "-72.3277945"
+}, {
+  "name": "Mitchell College",
+  "dom": "mitchell.edu",
+  "lat": "41.3272135",
+  "lng": "-72.0924139"
+}, {
+  "name": "Post University",
+  "dom": "post.edu",
+  "lat": "41.53542400000001",
+  "lng": "-73.08152299999999"
+}, {
+  "name": "Quinnipiac University",
+  "dom": "quinnipiac.edu",
+  "lat": "41.419218",
+  "lng": "-72.893968"
+}, {
+  "name": "Sacred Heart University",
+  "dom": "sacredheart.edu",
+  "lat": "41.220615",
+  "lng": "-73.2395042"
+}, {
+  "name": "Southern Connecticut State University",
+  "dom": "southernct.edu",
+  "lat": "41.331145",
+  "lng": "-72.945163"
+}, {
+  "name": "St Vincent's College",
+  "dom": "stvincentscollege.edu",
+  "lat": "41.2006197",
+  "lng": "-73.2025336"
+}, {
+  "name": "Trinity College",
+  "dom": "trincoll.edu",
+  "lat": "41.7473639",
+  "lng": "-72.6907806"
+}, {
+  "name": "University of Bridgeport",
+  "dom": "bridgeport.edu",
+  "lat": "41.1646751",
+  "lng": "-73.1901534"
+}, {
+  "name": "University of Connecticut",
+  "dom": "uconn.edu",
+  "lat": "41.7526761",
+  "lng": "-72.1919727"
+}, {
+  "name": "University of Hartford",
+  "dom": "hartford.edu",
+  "lat": "41.7948469",
+  "lng": "-72.7160323"
+}, {
+  "name": "University of New Haven",
+  "dom": "newhaven.edu",
+  "lat": "41.291139",
+  "lng": "-72.961159"
+}, {
+  "name": "University of Saint Joseph",
+  "dom": "sjc.edu",
+  "lat": "41.781934",
+  "lng": "-72.7312309"
+}, {
+  "name": "Wesleyan University",
+  "dom": "wesleyan.edu",
+  "lat": "41.5564885",
+  "lng": "-72.6549149"
+}, {
+  "name": "Western Connecticut State University",
+  "dom": "wcsu.edu",
+  "lat": "41.39879930000001",
+  "lng": "-73.4429598"
+}, {
+  "name": "Yale University",
+  "dom": "yale.edu",
+  "lat": "41.3110412",
+  "lng": "-72.9268439"
+}, {
+  "name": "American University",
+  "dom": "american.edu",
+  "lat": "38.9392871",
+  "lng": "-77.0871844"
+}, {
+  "name": "Catholic University of America",
+  "dom": "cua.edu",
+  "lat": "38.9348104",
+  "lng": "-76.99748749999999"
+}, {
+  "name": "Corcoran College of Art and Design",
+  "dom": "corcoran.edu",
+  "lat": "38.8958299",
+  "lng": "-77.04022499999999"
+}, {
+  "name": "Dominican House of Studies",
+  "dom": "dhs.edu",
+  "lat": "38.9313293",
+  "lng": "-76.99901229999999"
+}, {
+  "name": "Gallaudet University",
+  "dom": "gallaudet.edu",
+  "lat": "38.9065802",
+  "lng": "-76.9923663"
+}, {
+  "name": "George Washington University",
+  "dom": "gwu.edu",
+  "lat": "38.900993",
+  "lng": "-77.047657"
+}, {
+  "name": "Georgetown University",
+  "dom": "georgetown.edu",
+  "lat": "38.9141355",
+  "lng": "-77.07275249999999"
+}, {
+  "name": "Howard University",
+  "dom": "howard.edu",
+  "lat": "38.9203517",
+  "lng": "-77.0208696"
+}, {
+  "name": "National Defense University",
+  "dom": "ndu.edu",
+  "lat": "38.866414",
+  "lng": "-77.015436"
+}, {
+  "name": "Potomac College",
+  "dom": "potomac.edu",
+  "lat": "38.9003853",
+  "lng": "-77.0324449"
+}, {
+  "name": "Strayer University",
+  "dom": "strayer.edu",
+  "lat": "38.904853",
+  "lng": "-77.034003"
+}, {
+  "name": "The Institute of World Politics",
+  "dom": "iwp.edu",
+  "lat": "38.910504",
+  "lng": "-77.03605999999999"
+}, {
+  "name": "Trinity Washington University",
+  "dom": "trinitydc.edu",
+  "lat": "38.9266307",
+  "lng": "-77.00378270000002"
+}, {
+  "name": "University of the District of Columbia",
+  "dom": "udc.edu",
+  "lat": "38.943723",
+  "lng": "-77.06394200000001"
+}, {
+  "name": "University of the District of Columbia David A Clarke School of Law",
+  "dom": "udc.edu",
+  "lat": "38.943723",
+  "lng": "-77.06394200000001"
+}, {
+  "name": "Washington Theological Union",
+  "dom": "wtu.edu",
+  "lat": "38.973475",
+  "lng": "-77.013899"
+}, {
+  "name": "Wesley Theological Seminary",
+  "dom": "wesleyseminary.edu",
+  "lat": "38.939678",
+  "lng": "-77.090088"
+}, {
+  "name": "Delaware State University",
+  "dom": "desu.edu",
+  "lat": "39.184905",
+  "lng": "-75.54109"
+}, {
+  "name": "Goldey-Beacom College",
+  "dom": "gbc.edu",
+  "lat": "39.7415949",
+  "lng": "-75.68910799999999"
+}, {
+  "name": "University of Delaware",
+  "dom": "udel.edu",
+  "lat": "39.6795652",
+  "lng": "-75.7530855"
+}, {
+  "name": "Wesley College",
+  "dom": "wesley.edu",
+  "lat": "39.1632349",
+  "lng": "-75.5263801"
+}, {
+  "name": "Wilmington University",
+  "dom": "wilmu.edu",
+  "lat": "39.6494669",
+  "lng": "-75.62087009999999"
+}, {
+  "name": "Ave Maria University",
+  "dom": "avemaria.edu",
+  "lat": "26.3366559",
+  "lng": "-81.4370783"
+}, {
+  "name": "Barry University",
+  "dom": "barry.edu",
+  "lat": "25.8790842",
+  "lng": "-80.1963899"
+}, {
+  "name": "Beacon College",
+  "dom": "beaconcollege.edu",
+  "lat": "28.810799",
+  "lng": "-81.87478899999999"
+}, {
+  "name": "Broward College",
+  "dom": "broward.edu",
+  "lat": "26.119415",
+  "lng": "-80.14101699999999"
+}, {
+  "name": "Chipola College",
+  "dom": "chipola.edu",
+  "lat": "30.7871317",
+  "lng": "-85.2323907"
+}, {
+  "name": "Clearwater Christian College",
+  "dom": "clearwater.edu",
+  "lat": "27.9643687",
+  "lng": "-82.6973163"
+}, {
+  "name": "College of Central Florida",
+  "dom": "cf.edu",
+  "lat": "29.165699",
+  "lng": "-82.178033"
+}, {
+  "name": "Daytona State College",
+  "dom": "daytonastate.edu",
+  "lat": "29.2020257",
+  "lng": "-81.04857369999999"
+}, {
+  "name": "Eckerd College",
+  "dom": "eckerd.edu",
+  "lat": "27.718494",
+  "lng": "-82.68846200000002"
+}, {
+  "name": "Edison State College",
+  "dom": "edison.edu",
+  "lat": "26.5568467",
+  "lng": "-81.8886742"
+}, {
+  "name": "Edward Waters College",
+  "dom": "ewc.edu",
+  "lat": "30.343727",
+  "lng": "-81.68359099999999"
+}, {
+  "name": "Embry-Riddle Aeronautical University - Daytona Beach",
+  "dom": "erau.edu",
+  "lat": "29.1890201",
+  "lng": "-81.04696419999999"
+}, {
+  "name": "Flagler College",
+  "dom": "flagler.edu",
+  "lat": "29.8920753",
+  "lng": "-81.3146067"
+}, {
+  "name": "Florida Agricultural and Mechanical University",
+  "dom": "famu.edu",
+  "lat": "30.4250468",
+  "lng": "-84.2856338"
+}, {
+  "name": "Florida Atlantic University",
+  "dom": "fau.edu",
+  "lat": "26.3692302",
+  "lng": "-80.1056744"
+}, {
+  "name": "Florida Christian College",
+  "dom": "fcc.edu",
+  "lat": "28.301658",
+  "lng": "-81.362402"
+}, {
+  "name": "Florida College",
+  "dom": "floridacollege.edu",
+  "lat": "28.034409",
+  "lng": "-82.383043"
+}, {
+  "name": "Florida Gulf Coast University",
+  "dom": "fgcu.edu",
+  "lat": "26.4646459",
+  "lng": "-81.77369999999999"
+}, {
+  "name": "Florida Institute of Technology-Melbourne",
+  "dom": "fit.edu",
+  "lat": "28.0600848",
+  "lng": "-80.62442419999999"
+}, {
+  "name": "Florida International University",
+  "dom": "fiu.edu",
+  "lat": "25.7583177",
+  "lng": "-80.3770858"
+}, {
+  "name": "Florida Memorial University",
+  "dom": "fmuniv.edu",
+  "lat": "25.9179788",
+  "lng": "-80.2685925"
+}, {
+  "name": "Florida National University",
+  "dom": "fnu.edu",
+  "lat": "25.861415",
+  "lng": "-80.32180799999999"
+}, {
+  "name": "Florida Southern College",
+  "dom": "flsouthern.edu",
+  "lat": "28.0295793",
+  "lng": "-81.94425009999999"
+}, {
+  "name": "Florida State College at Jacksonville",
+  "dom": "fscj.edu",
+  "lat": "30.3343309",
+  "lng": "-81.6621876"
+}, {
+  "name": "Florida State University",
+  "dom": "fsu.edu",
+  "lat": "30.4407399",
+  "lng": "-84.2918905"
+}, {
+  "name": "Gulf Coast State College",
+  "dom": "gulfcoast.edu",
+  "lat": "30.186036",
+  "lng": "-85.72666509999999"
+}, {
+  "name": "Hobe Sound Bible College",
+  "dom": "hsbc.edu",
+  "lat": "27.064202",
+  "lng": "-80.130433"
+}, {
+  "name": "Hodges University",
+  "dom": "hodges.edu",
+  "lat": "26.277176",
+  "lng": "-81.74133499999999"
+}, {
+  "name": "Indian River State College",
+  "dom": "irsc.edu",
+  "lat": "27.4252896",
+  "lng": "-80.35743190000001"
+}, {
+  "name": "Jacksonville University",
+  "dom": "ju.edu",
+  "lat": "30.3547528",
+  "lng": "-81.605257"
+}, {
+  "name": "Keiser University",
+  "dom": "keiseruniversity.edu",
+  "lat": "26.185961",
+  "lng": "-80.1637779"
+}, {
+  "name": "Lynn University",
+  "dom": "lynn.edu",
+  "lat": "26.384176",
+  "lng": "-80.125283"
+}, {
+  "name": "Miami Dade College",
+  "dom": "mdc.edu",
+  "lat": "25.7775989",
+  "lng": "-80.1907931"
+}, {
+  "name": "New College of Florida",
+  "dom": "ncf.edu",
+  "lat": "27.3844",
+  "lng": "-82.562084"
+}, {
+  "name": "Nova Southeastern University",
+  "dom": "nova.edu",
+  "lat": "26.078607",
+  "lng": "-80.243539"
+}, {
+  "name": "Palm Beach Atlantic University - West Palm Beach",
+  "dom": "pba.edu",
+  "lat": "26.7051888",
+  "lng": "-80.0496697"
+}, {
+  "name": "Polk State College",
+  "dom": "polk.edu",
+  "lat": "28.0309303",
+  "lng": "-81.7128743"
+}, {
+  "name": "Ringling College of Art and Design",
+  "dom": "ringling.edu",
+  "lat": "27.3599388",
+  "lng": "-82.5490269"
+}, {
+  "name": "Rollins College",
+  "dom": "rollins.edu",
+  "lat": "28.592242",
+  "lng": "-81.348326"
+}, {
+  "name": "Saint John Vianney College Seminary",
+  "dom": "sjvcs.edu",
+  "lat": "25.7432355",
+  "lng": "-80.33590459999999"
+}, {
+  "name": "Saint Leo University",
+  "dom": "saintleo.edu",
+  "lat": "28.335714",
+  "lng": "-82.257251"
+}, {
+  "name": "Saint Thomas University",
+  "dom": "stu.edu",
+  "lat": "25.9200508",
+  "lng": "-80.2557707"
+}, {
+  "name": "Saint Vincent de Paul Regional Seminary",
+  "dom": "svdp.edu",
+  "lat": "26.517515",
+  "lng": "-80.12583699999999"
+}, {
+  "name": "Santa Fe College",
+  "dom": "sfcollege.edu",
+  "lat": "29.6805076",
+  "lng": "-82.4301823"
+}, {
+  "name": "Seminole State College of Florida",
+  "dom": "seminolestate.edu",
+  "lat": "28.74422",
+  "lng": "-81.3056716"
+}, {
+  "name": "South Florida Bible College",
+  "dom": "sfbc.edu",
+  "lat": "26.307422",
+  "lng": "-80.09315099999999"
+}, {
+  "name": "South Florida State College",
+  "dom": "southflorida.edu",
+  "lat": "27.569166",
+  "lng": "-81.509304"
+}, {
+  "name": "Southeastern University",
+  "dom": "seu.edu",
+  "lat": "28.031675",
+  "lng": "-81.917221"
+}, {
+  "name": "St. Petersburg College",
+  "dom": "spcollege.edu",
+  "lat": "27.899484",
+  "lng": "-82.711421"
+}, {
+  "name": "Stetson University",
+  "dom": "stetson.edu",
+  "lat": "29.036794",
+  "lng": "-81.304701"
+}, {
+  "name": "The Baptist College of Florida",
+  "dom": "baptistcollege.edu",
+  "lat": "30.9626164",
+  "lng": "-85.5046179"
+}, {
+  "name": "The University of Tampa",
+  "dom": "ut.edu",
+  "lat": "27.9463525",
+  "lng": "-82.4640842"
+}, {
+  "name": "The University of West Florida",
+  "dom": "uwf.edu",
+  "lat": "30.549097",
+  "lng": "-87.215273"
+}, {
+  "name": "Trinity College of Florida",
+  "dom": "trinitycollege.edu",
+  "lat": "28.194296",
+  "lng": "-82.679801"
+}, {
+  "name": "University of Central Florida",
+  "dom": "ucf.edu",
+  "lat": "28.6019725",
+  "lng": "-81.1986163"
+}, {
+  "name": "University of Florida",
+  "dom": "ufl.edu",
+  "lat": "29.6494266",
+  "lng": "-82.3398376"
+}, {
+  "name": "University of Miami",
+  "dom": "miami.edu",
+  "lat": "25.714755",
+  "lng": "-80.276921"
+}, {
+  "name": "University of North Florida",
+  "dom": "unf.edu",
+  "lat": "30.276363",
+  "lng": "-81.5126823"
+}, {
+  "name": "University of South Florida",
+  "dom": "usf.edu",
+  "lat": "28.0581797",
+  "lng": "-82.4167751"
+}, {
+  "name": "Warner University",
+  "dom": "warner.edu",
+  "lat": "27.8242899",
+  "lng": "-81.59282309999999"
+}, {
+  "name": "Webber International University",
+  "dom": "webber.edu",
+  "lat": "27.84034",
+  "lng": "-81.53083800000002"
+}, {
+  "name": "Abraham Baldwin Agricultural College",
+  "dom": "abac.edu",
+  "lat": "31.4811643",
+  "lng": "-83.524948"
+}, {
+  "name": "Agnes Scott College",
+  "dom": "agnesscott.edu",
+  "lat": "33.7692226",
+  "lng": "-84.2945537"
+}, {
+  "name": "Armstrong Atlantic State University",
+  "dom": "armstrong.edu",
+  "lat": "31.9809788",
+  "lng": "-81.1626256"
+}, {
+  "name": "Bauder College",
+  "dom": "bauder.edu",
+  "lat": "33.7678353",
+  "lng": "-84.3998161"
+}, {
+  "name": "Berry College",
+  "dom": "berry.edu",
+  "lat": "34.2903613",
+  "lng": "-85.1891991"
+}, {
+  "name": "Brenau University",
+  "dom": "brenau.edu",
+  "lat": "34.304578",
+  "lng": "-83.822412"
+}, {
+  "name": "Brewton-Parker College",
+  "dom": "bpc.edu",
+  "lat": "32.1776048",
+  "lng": "-82.60680239999999"
+}, {
+  "name": "Clark Atlanta University",
+  "dom": "cau.edu",
+  "lat": "33.7608848",
+  "lng": "-84.4126233"
+}, {
+  "name": "Clayton  State University",
+  "dom": "clayton.edu",
+  "lat": "33.594206",
+  "lng": "-84.330097"
+}, {
+  "name": "College of Coastal Georgia",
+  "dom": "ccga.edu",
+  "lat": "31.1832206",
+  "lng": "-81.48698019999999"
+}, {
+  "name": "Columbia Theological Seminary",
+  "dom": "ctsnet.edu",
+  "lat": "33.7564781",
+  "lng": "-84.2706384"
+}, {
+  "name": "Columbus State University",
+  "dom": "columbusstate.edu",
+  "lat": "32.5023607",
+  "lng": "-84.9402566"
+}, {
+  "name": "Covenant College",
+  "dom": "covenant.edu",
+  "lat": "34.956761",
+  "lng": "-85.374269"
+}, {
+  "name": "Dalton State College",
+  "dom": "daltonstate.edu",
+  "lat": "34.7727544",
+  "lng": "-85.00311099999999"
+}, {
+  "name": "Emmanuel College",
+  "dom": "ec.edu",
+  "lat": "34.2769774",
+  "lng": "-83.10853449999999"
+}, {
+  "name": "Emory University",
+  "dom": "emory.edu",
+  "lat": "33.7894134",
+  "lng": "-84.32553399999999"
+}, {
+  "name": "Fort Valley State University",
+  "dom": "fvsu.edu",
+  "lat": "32.5369146",
+  "lng": "-83.89823270000001"
+}, {
+  "name": "Georgia College and State University",
+  "dom": "gcsu.edu",
+  "lat": "33.0808001",
+  "lng": "-83.2294385"
+}, {
+  "name": "Georgia Gwinnett College",
+  "dom": "ggc.edu",
+  "lat": "33.9810187",
+  "lng": "-84.0042114"
+}, {
+  "name": "Georgia Institute of Technology - Main Campus",
+  "dom": "gatech.edu",
+  "lat": "33.7724231",
+  "lng": "-84.39505220000001"
+}, {
+  "name": "Georgia Southern University",
+  "dom": "georgiasouthern.edu",
+  "lat": "32.5400726",
+  "lng": "-81.7254997"
+}, {
+  "name": "Georgia Southwestern State University",
+  "dom": "gsw.edu",
+  "lat": "32.0560379",
+  "lng": "-84.21750809999999"
+}, {
+  "name": "Georgia State University",
+  "dom": "gsu.edu",
+  "lat": "33.7529053",
+  "lng": "-84.38527289999999"
+}, {
+  "name": "Interdenominational Theological Center",
+  "dom": "itc.edu",
+  "lat": "33.7545233",
+  "lng": "-84.4101026"
+}, {
+  "name": "Kennesaw State University",
+  "dom": "kennesaw.edu",
+  "lat": "34.0234337",
+  "lng": "-84.6154897"
+}, {
+  "name": "LaGrange College",
+  "dom": "lagrange.edu",
+  "lat": "33.038947",
+  "lng": "-85.04324690000001"
+}, {
+  "name": "Life University",
+  "dom": "life.edu",
+  "lat": "33.9307559",
+  "lng": "-84.51453900000001"
+}, {
+  "name": "Mercer University",
+  "dom": "mercer.edu",
+  "lat": "32.825634",
+  "lng": "-83.65047799999999"
+}, {
+  "name": "Morehouse College",
+  "dom": "morehouse.edu",
+  "lat": "33.7459101",
+  "lng": "-84.4140299"
+}, {
+  "name": "Morehouse School of Medicine",
+  "dom": "msm.edu",
+  "lat": "33.7430696",
+  "lng": "-84.4126558"
+}, {
+  "name": "Oglethorpe University",
+  "dom": "oglethorpe.edu",
+  "lat": "33.8749844",
+  "lng": "-84.3336721"
+}, {
+  "name": "Paine College",
+  "dom": "paine.edu",
+  "lat": "33.4695135",
+  "lng": "-81.99316209999999"
+}, {
+  "name": "Piedmont College",
+  "dom": "piedmont.edu",
+  "lat": "34.5562019",
+  "lng": "-83.54731509999999"
+}, {
+  "name": "Reinhardt University",
+  "dom": "reinhardt.edu",
+  "lat": "34.3187533",
+  "lng": "-84.55456559999999"
+}, {
+  "name": "Richmont Graduate University",
+  "dom": "richmont.edu",
+  "lat": "33.862955",
+  "lng": "-84.44120199999999"
+}, {
+  "name": "Savannah College of Art and Design",
+  "dom": "scad.edu",
+  "lat": "32.072944",
+  "lng": "-81.093773"
+}, {
+  "name": "Savannah State University",
+  "dom": "savannahstate.edu",
+  "lat": "32.0232017",
+  "lng": "-81.0561207"
+}, {
+  "name": "Shorter University",
+  "dom": "shorter.edu",
+  "lat": "34.2635861",
+  "lng": "-85.1897086"
+}, {
+  "name": "Southern Polytechnic State University",
+  "dom": "spsu.edu",
+  "lat": "33.9404952",
+  "lng": "-84.5203416"
+}, {
+  "name": "Spelman College",
+  "dom": "spelman.edu",
+  "lat": "33.7448342",
+  "lng": "-84.41136"
+}, {
+  "name": "Thomas University",
+  "dom": "thomasu.edu",
+  "lat": "30.8160919",
+  "lng": "-83.96663579999999"
+}, {
+  "name": "Toccoa Falls College",
+  "dom": "tfc.edu",
+  "lat": "34.59452",
+  "lng": "-83.3557393"
+}, {
+  "name": "Truett-McConnell College",
+  "dom": "truett.edu",
+  "lat": "34.5943163",
+  "lng": "-83.7489526"
+}, {
+  "name": "University of Georgia",
+  "dom": "uga.edu",
+  "lat": "33.957848",
+  "lng": "-83.37302299999999"
+}, {
+  "name": "University of West Georgia",
+  "dom": "westga.edu",
+  "lat": "33.570706",
+  "lng": "-85.1034311"
+}, {
+  "name": "Valdosta State University",
+  "dom": "valdosta.edu",
+  "lat": "30.8483",
+  "lng": "-83.2897"
+}, {
+  "name": "Wesleyan College",
+  "dom": "wesleyancollege.edu",
+  "lat": "32.8745862",
+  "lng": "-83.71246889999999"
+}, {
+  "name": "Young Harris College",
+  "dom": "yhc.edu",
+  "lat": "34.9336334",
+  "lng": "-83.8477358"
+}, {
+  "name": "University of Guam",
+  "dom": "uog.edu",
+  "lat": "13.4415696",
+  "lng": "144.8049957"
+}, {
+  "name": "Brigham Young University - Hawaii",
+  "dom": "byuh.edu",
+  "lat": "21.6422295",
+  "lng": "-157.925173"
+}, {
+  "name": "Chaminade University of Honolulu",
+  "dom": "chaminade.edu",
+  "lat": "21.29079",
+  "lng": "-157.805838"
+}, {
+  "name": "Hawaii Community College",
+  "dom": "hawaii.edu",
+  "lat": "19.7012676",
+  "lng": "-155.0792472"
+}, {
+  "name": "Hawaii Pacific University",
+  "dom": "hpu.edu",
+  "lat": "21.3104378",
+  "lng": "-157.8596042"
+}, {
+  "name": "Honolulu Community College",
+  "dom": "hawaii.edu",
+  "lat": "21.3204446",
+  "lng": "-157.8692083"
+}, {
+  "name": "Kapiolani Community College",
+  "dom": "hawaii.edu",
+  "lat": "21.2709554",
+  "lng": "-157.7994189"
+}, {
+  "name": "Kauai Community College",
+  "dom": "hawaii.edu",
+  "lat": "21.9648702",
+  "lng": "-159.4215024"
+}, {
+  "name": "Leeward Community College",
+  "dom": "hawaii.edu",
+  "lat": "21.3925899",
+  "lng": "-157.9838311"
+}, {
+  "name": "University of Hawaii - West Oahu",
+  "dom": "hawaii.edu",
+  "lat": "21.3933759",
+  "lng": "-157.9800456"
+}, {
+  "name": "University of Hawaii Maui College",
+  "dom": "hawaii.edu",
+  "lat": "20.8899983",
+  "lng": "-156.4759111"
+}, {
+  "name": "University of Hawaii at Hilo",
+  "dom": "hawaii.edu",
+  "lat": "19.7012676",
+  "lng": "-155.0792472"
+}, {
+  "name": "University of Hawaii at Manoa",
+  "dom": "hawaii.edu",
+  "lat": "21.2979324",
+  "lng": "-157.8208122"
+}, {
+  "name": "Windward Community College",
+  "dom": "hawaii.edu",
+  "lat": "21.409315",
+  "lng": "-157.81334"
+}, {
+  "name": "AIB College of Business",
+  "dom": "aib.edu",
+  "lat": "41.5619576",
+  "lng": "-93.64558339999999"
+}, {
+  "name": "Allen College",
+  "dom": "allencollege.edu",
+  "lat": "42.526653",
+  "lng": "-92.339567"
+}, {
+  "name": "Ashford University",
+  "dom": "ashford.edu",
+  "lat": "41.8499269",
+  "lng": "-90.1978264"
+}, {
+  "name": "Briar Cliff University",
+  "dom": "briarcliff.edu",
+  "lat": "42.5263769",
+  "lng": "-96.4281821"
+}, {
+  "name": "Buena Vista University",
+  "dom": "bvu.edu",
+  "lat": "42.6412989",
+  "lng": "-95.2087641"
+}, {
+  "name": "Central College",
+  "dom": "central.edu",
+  "lat": "41.4001872",
+  "lng": "-92.91967059999999"
+}, {
+  "name": "Clarke University",
+  "dom": "clarke.edu",
+  "lat": "42.5091309",
+  "lng": "-90.689742"
+}, {
+  "name": "Coe College",
+  "dom": "coe.edu",
+  "lat": "41.987522",
+  "lng": "-91.658408"
+}, {
+  "name": "Cornell College",
+  "dom": "cornellcollege.edu",
+  "lat": "41.9245718",
+  "lng": "-91.42376519999999"
+}, {
+  "name": "Des Moines University - Osteopathic Medical Center",
+  "dom": "dmu.edu",
+  "lat": "41.58412000000001",
+  "lng": "-93.662138"
+}, {
+  "name": "Divine Word College",
+  "dom": "dwci.edu",
+  "lat": "42.4408288",
+  "lng": "-90.9324063"
+}, {
+  "name": "Dordt College",
+  "dom": "dordt.edu",
+  "lat": "43.0828061",
+  "lng": "-96.1632228"
+}, {
+  "name": "Drake University",
+  "dom": "drake.edu",
+  "lat": "41.599703",
+  "lng": "-93.6612797"
+}, {
+  "name": "Emmaus Bible College",
+  "dom": "emmaus.edu",
+  "lat": "42.508698",
+  "lng": "-90.705783"
+}, {
+  "name": "Faith Baptist Bible College and Theological Seminary",
+  "dom": "faith.edu",
+  "lat": "41.736095",
+  "lng": "-93.6256425"
+}, {
+  "name": "Graceland University",
+  "dom": "graceland.edu",
+  "lat": "40.6161991",
+  "lng": "-93.92848169999999"
+}, {
+  "name": "Grinnell College",
+  "dom": "grinnell.edu",
+  "lat": "41.7464536",
+  "lng": "-92.72247349999999"
+}, {
+  "name": "Iowa State University",
+  "dom": "iastate.edu",
+  "lat": "42.0261746",
+  "lng": "-93.64844049999999"
+}, {
+  "name": "Iowa Wesleyan College",
+  "dom": "iwc.edu",
+  "lat": "40.9731567",
+  "lng": "-91.5520473"
+}, {
+  "name": "Kaplan University",
+  "dom": "kaplanuniversity.edu",
+  "lat": "41.554956",
+  "lng": "-90.550647"
+}, {
+  "name": "Loras College",
+  "dom": "loras.edu",
+  "lat": "42.5029656",
+  "lng": "-90.6815495"
+}, {
+  "name": "Luther College",
+  "dom": "luther.edu",
+  "lat": "43.3109675",
+  "lng": "-91.80628070000002"
+}, {
+  "name": "Maharishi University of Management",
+  "dom": "mum.edu",
+  "lat": "41.0179356",
+  "lng": "-91.9673925"
+}, {
+  "name": "Mercy College of Health Sciences",
+  "dom": "mchs.edu",
+  "lat": "41.5943861",
+  "lng": "-93.626075"
+}, {
+  "name": "Morningside College",
+  "dom": "morningside.edu",
+  "lat": "42.475612",
+  "lng": "-96.35881669999999"
+}, {
+  "name": "Mount Mercy University",
+  "dom": "mtmercy.edu",
+  "lat": "42.002547",
+  "lng": "-91.652073"
+}, {
+  "name": "Northwestern College",
+  "dom": "nwciowa.edu",
+  "lat": "43.0121217",
+  "lng": "-96.0581373"
+}, {
+  "name": "Palmer College of Chiropractic",
+  "dom": "palmer.edu",
+  "lat": "41.529376",
+  "lng": "-90.5748289"
+}, {
+  "name": "Saint Ambrose University",
+  "dom": "sau.edu",
+  "lat": "41.5400804",
+  "lng": "-90.5801082"
+}, {
+  "name": "Simpson College",
+  "dom": "simpson.edu",
+  "lat": "41.3664908",
+  "lng": "-93.5650512"
+}, {
+  "name": "University of Dubuque",
+  "dom": "dbq.edu",
+  "lat": "42.4989324",
+  "lng": "-90.6931626"
+}, {
+  "name": "University of Iowa",
+  "dom": "uiowa.edu",
+  "lat": "41.6618822",
+  "lng": "-91.5365051"
+}, {
+  "name": "University of Iowa Hospital and Clinics",
+  "dom": "uiowa.edu",
+  "lat": "41.6595584",
+  "lng": "-91.54836519999999"
+}, {
+  "name": "University of Northern Iowa",
+  "dom": "uni.edu",
+  "lat": "42.5131142",
+  "lng": "-92.4656491"
+}, {
+  "name": "Upper Iowa University",
+  "dom": "uiu.edu",
+  "lat": "42.8386931",
+  "lng": "-91.80078639999999"
+}, {
+  "name": "Wartburg College",
+  "dom": "wartburg.edu",
+  "lat": "42.7285429",
+  "lng": "-92.4843733"
+}, {
+  "name": "Wartburg Theological Seminary",
+  "dom": "wartburgseminary.edu",
+  "lat": "42.483718",
+  "lng": "-90.691817"
+}, {
+  "name": "William Penn University",
+  "dom": "wmpenn.edu",
+  "lat": "41.3089163",
+  "lng": "-92.6476148"
+}, {
+  "name": "Boise State University",
+  "dom": "boisestate.edu",
+  "lat": "43.602799",
+  "lng": "-116.201993"
+}, {
+  "name": "Brigham Young University - Idaho",
+  "dom": "byui.edu",
+  "lat": "43.8183719",
+  "lng": "-111.7826569"
+}, {
+  "name": "College of Idaho",
+  "dom": "collegeofidaho.edu",
+  "lat": "43.653597",
+  "lng": "-116.676876"
+}, {
+  "name": "Idaho State University",
+  "dom": "isu.edu",
+  "lat": "42.87401080000001",
+  "lng": "-112.4486418"
+}, {
+  "name": "Lewis-Clark State College",
+  "dom": "lcsc.edu",
+  "lat": "46.412247",
+  "lng": "-117.027928"
+}, {
+  "name": "Northwest Nazarene University",
+  "dom": "nnu.edu",
+  "lat": "43.5602696",
+  "lng": "-116.5663583"
+}, {
+  "name": "University of Idaho",
+  "dom": "uidaho.edu",
+  "lat": "46.729084",
+  "lng": "-117.021692"
+}, {
+  "name": "Adler School of Professional Psychology",
+  "dom": "adler.edu",
+  "lat": "41.8866252",
+  "lng": "-87.6255869"
+}, {
+  "name": "American Academy of Art",
+  "dom": "aaart.edu",
+  "lat": "41.8773229",
+  "lng": "-87.6247831"
+}, {
+  "name": "Augustana College",
+  "dom": "augustana.edu",
+  "lat": "41.5051128",
+  "lng": "-90.5474546"
+}, {
+  "name": "Aurora University",
+  "dom": "aurora.edu",
+  "lat": "41.754845",
+  "lng": "-88.348359"
+}, {
+  "name": "Benedictine University",
+  "dom": "ben.edu",
+  "lat": "41.7785091",
+  "lng": "-88.09496039999999"
+}, {
+  "name": "Blackburn College",
+  "dom": "blackburn.edu",
+  "lat": "39.2859067",
+  "lng": "-89.87295019999999"
+}, {
+  "name": "Blessing-Rieman College of Nursing",
+  "dom": "brcn.edu",
+  "lat": "39.9356314",
+  "lng": "-91.3983317"
+}, {
+  "name": "Bradley University",
+  "dom": "bradley.edu",
+  "lat": "40.6969219",
+  "lng": "-89.6167038"
+}, {
+  "name": "Catholic Theological Union",
+  "dom": "ctu.edu",
+  "lat": "41.7979514",
+  "lng": "-87.5851739"
+}, {
+  "name": "Chamberlain College of Nursing",
+  "dom": "chamberlain.edu",
+  "lat": "41.832815",
+  "lng": "-88.0071723"
+}, {
+  "name": "Chicago State University",
+  "dom": "csu.edu",
+  "lat": "41.720942",
+  "lng": "-87.61360599999999"
+}, {
+  "name": "Chicago Theological Seminary",
+  "dom": "ctschicago.edu",
+  "lat": "41.78606449999999",
+  "lng": "-87.5913825"
+}, {
+  "name": "Columbia College Chicago",
+  "dom": "colum.edu",
+  "lat": "41.8741947",
+  "lng": "-87.6247696"
+}, {
+  "name": "Concordia University Chicago",
+  "dom": "cuchicago.edu",
+  "lat": "41.898236",
+  "lng": "-87.80951499999999"
+}, {
+  "name": "DePaul University",
+  "dom": "depaul.edu",
+  "lat": "41.877512",
+  "lng": "-87.62722699999999"
+}, {
+  "name": "DeVry University",
+  "dom": "devry.edu",
+  "lat": "41.85792319999999",
+  "lng": "-87.9546118"
+}, {
+  "name": "Dominican University",
+  "dom": "dom.edu",
+  "lat": "41.9012438",
+  "lng": "-87.8234616"
+}, {
+  "name": "East-West University",
+  "dom": "eastwest.edu",
+  "lat": "41.871281",
+  "lng": "-87.624743"
+}, {
+  "name": "Eastern Illinois University",
+  "dom": "eiu.edu",
+  "lat": "39.4837448",
+  "lng": "-88.1752054"
+}, {
+  "name": "Erikson Institute",
+  "dom": "erikson.edu",
+  "lat": "41.890639",
+  "lng": "-87.6318505"
+}, {
+  "name": "Eureka College",
+  "dom": "eureka.edu",
+  "lat": "40.714426",
+  "lng": "-89.2700029"
+}, {
+  "name": "Garrett-Evangelical Theological Seminary",
+  "dom": "garrett.edu",
+  "lat": "42.0548633",
+  "lng": "-87.6776349"
+}, {
+  "name": "Governors State University",
+  "dom": "govst.edu",
+  "lat": "41.4493472",
+  "lng": "-87.7135595"
+}, {
+  "name": "Greenville College",
+  "dom": "greenville.edu",
+  "lat": "38.8927978",
+  "lng": "-89.40906710000002"
+}, {
+  "name": "Illinois College",
+  "dom": "ic.edu",
+  "lat": "39.7325107",
+  "lng": "-90.2455107"
+}, {
+  "name": "Illinois College of Optometry",
+  "dom": "ico.edu",
+  "lat": "41.835265",
+  "lng": "-87.62227899999999"
+}, {
+  "name": "Illinois Institute of Technology",
+  "dom": "iit.edu",
+  "lat": "41.831751",
+  "lng": "-87.627296"
+}, {
+  "name": "Illinois Wesleyan University",
+  "dom": "iwu.edu",
+  "lat": "40.4912034",
+  "lng": "-88.9899023"
+}, {
+  "name": "Institute for Clinical Social Work",
+  "dom": "icsw.edu",
+  "lat": "41.88593710000001",
+  "lng": "-87.62483069999999"
+}, {
+  "name": "John Hancock University",
+  "dom": "ellis.edu",
+  "lat": "41.8483115",
+  "lng": "-87.95790480000001"
+}, {
+  "name": "Judson University",
+  "dom": "judsonu.edu",
+  "lat": "42.0601438",
+  "lng": "-88.2908724"
+}, {
+  "name": "Kendall College",
+  "dom": "kendall.edu",
+  "lat": "41.89897",
+  "lng": "-87.64873039999999"
+}, {
+  "name": "Knowledge Systems Institute",
+  "dom": "ksi.edu",
+  "lat": "42.0339278",
+  "lng": "-87.7143854"
+}, {
+  "name": "Knox College",
+  "dom": "knox.edu",
+  "lat": "40.94371659999999",
+  "lng": "-90.3710907"
+}, {
+  "name": "Lake Forest College",
+  "dom": "lakeforest.edu",
+  "lat": "42.2506664",
+  "lng": "-87.82843849999999"
+}, {
+  "name": "Lake Forest Graduate School of Management",
+  "dom": "lakeforestmba.edu",
+  "lat": "42.2443403",
+  "lng": "-87.89366129999999"
+}, {
+  "name": "Lakeview College of Nursing",
+  "dom": "lakeviewcol.edu",
+  "lat": "40.1382517",
+  "lng": "-87.6448735"
+}, {
+  "name": "Lewis University",
+  "dom": "lewisu.edu",
+  "lat": "41.6047629",
+  "lng": "-88.08124459999999"
+}, {
+  "name": "Lexington College",
+  "dom": "lexingtoncollege.edu",
+  "lat": "41.8774019",
+  "lng": "-87.64992029999999"
+}, {
+  "name": "Lincoln College",
+  "dom": "lincolncollege.edu",
+  "lat": "40.155462",
+  "lng": "-89.3629164"
+}, {
+  "name": "Loyola University of Chicago",
+  "dom": "luc.edu",
+  "lat": "41.8973263",
+  "lng": "-87.62515049999999"
+}, {
+  "name": "Lutheran School of Theology at Chicago",
+  "dom": "lstc.edu",
+  "lat": "41.79538489999999",
+  "lng": "-87.5986018"
+}, {
+  "name": "MacMurray College",
+  "dom": "mac.edu",
+  "lat": "39.731828",
+  "lng": "-90.223117"
+}, {
+  "name": "McCormick Theological Seminary",
+  "dom": "mccormick.edu",
+  "lat": "41.7965399",
+  "lng": "-87.5981908"
+}, {
+  "name": "McKendree University",
+  "dom": "mckendree.edu",
+  "lat": "38.610238",
+  "lng": "-89.814756"
+}, {
+  "name": "Midstate College",
+  "dom": "midstate.edu",
+  "lat": "40.761396",
+  "lng": "-89.5971747"
+}, {
+  "name": "Midwestern University",
+  "dom": "midwestern.edu",
+  "lat": "41.8283062",
+  "lng": "-87.9983774"
+}, {
+  "name": "Millikin University",
+  "dom": "millikin.edu",
+  "lat": "39.8418079",
+  "lng": "-88.9750279"
+}, {
+  "name": "Moody Bible Institute",
+  "dom": "moody.edu",
+  "lat": "41.8974029",
+  "lng": "-87.6331005"
+}, {
+  "name": "National Louis University",
+  "dom": "nl.edu",
+  "lat": "41.8798932",
+  "lng": "-87.624731"
+}, {
+  "name": "National University of Health Sciences",
+  "dom": "nuhs.edu",
+  "lat": "41.8622218",
+  "lng": "-88.0124879"
+}, {
+  "name": "North Central College",
+  "dom": "northcentralcollege.edu",
+  "lat": "41.77821100000001",
+  "lng": "-88.1425019"
+}, {
+  "name": "North Park University",
+  "dom": "northpark.edu",
+  "lat": "41.97529460000001",
+  "lng": "-87.7095149"
+}, {
+  "name": "Northeastern Illinois University",
+  "dom": "neiu.edu",
+  "lat": "41.9802119",
+  "lng": "-87.71879729999999"
+}, {
+  "name": "Northern Baptist Theological Seminary",
+  "dom": "seminary.edu",
+  "lat": "41.8397139",
+  "lng": "-87.9990778"
+}, {
+  "name": "Northern Illinois University",
+  "dom": "niu.edu",
+  "lat": "41.9307443",
+  "lng": "-88.7798916"
+}, {
+  "name": "Northwestern University",
+  "dom": "northwestern.edu",
+  "lat": "42.0504064",
+  "lng": "-87.6795449"
+}, {
+  "name": "Olivet Nazarene University",
+  "dom": "olivet.edu",
+  "lat": "41.1536212",
+  "lng": "-87.87427439999999"
+}, {
+  "name": "Quincy University",
+  "dom": "quincy.edu",
+  "lat": "39.939239",
+  "lng": "-91.385734"
+}, {
+  "name": "Robert Morris University - Illinois",
+  "dom": "robertmorris.edu",
+  "lat": "41.8761784",
+  "lng": "-87.6272164"
+}, {
+  "name": "Rockford University",
+  "dom": "rockford.edu",
+  "lat": "42.269123",
+  "lng": "-89.021474"
+}, {
+  "name": "Roosevelt University",
+  "dom": "roosevelt.edu",
+  "lat": "41.8759401",
+  "lng": "-87.6248936"
+}, {
+  "name": "Rosalind Franklin University of Medicine and Science",
+  "dom": "rosalindfranklin.edu",
+  "lat": "42.3005159",
+  "lng": "-87.8596187"
+}, {
+  "name": "Saint Anthony College of Nursing",
+  "dom": "sacn.edu",
+  "lat": "42.2659051",
+  "lng": "-89.0067878"
+}, {
+  "name": "Saint Francis Medical Center College of Nursing",
+  "dom": "sfmccon.edu",
+  "lat": "40.7024957",
+  "lng": "-89.5867592"
+}, {
+  "name": "Saint Xavier University",
+  "dom": "sxu.edu",
+  "lat": "41.705685",
+  "lng": "-87.716663"
+}, {
+  "name": "Shimer College",
+  "dom": "shimer.edu",
+  "lat": "41.8323827",
+  "lng": "-87.62664819999999"
+}, {
+  "name": "Southern Illinois University Carbondale",
+  "dom": "siuc.edu",
+  "lat": "37.7152379",
+  "lng": "-89.2167419"
+}, {
+  "name": "Southern Illinois University Edwardsville",
+  "dom": "siue.edu",
+  "lat": "38.79282",
+  "lng": "-89.99533"
+}, {
+  "name": "Spertus Institute for Jewish Learning and Leadership",
+  "dom": "spertus.edu",
+  "lat": "41.8740412",
+  "lng": "-87.62481299999999"
+}, {
+  "name": "The John Marshall Law School",
+  "dom": "jmls.edu",
+  "lat": "41.8777541",
+  "lng": "-87.6286823"
+}, {
+  "name": "Trinity Christian College",
+  "dom": "trnty.edu",
+  "lat": "41.6682119",
+  "lng": "-87.78420369999999"
+}, {
+  "name": "Trinity College of Nursing and Health Sciences",
+  "dom": "trinitycollegeqc.edu",
+  "lat": "41.4855929",
+  "lng": "-90.5709092"
+}, {
+  "name": "Trinity International University",
+  "dom": "tiu.edu",
+  "lat": "42.1999761",
+  "lng": "-87.8816604"
+}, {
+  "name": "University of Chicago",
+  "dom": "uchicago.edu",
+  "lat": "41.7901128",
+  "lng": "-87.60073179999999"
+}, {
+  "name": "University of Illinois at Chicago",
+  "dom": "uic.edu",
+  "lat": "41.8803577",
+  "lng": "-87.65201139999999"
+}, {
+  "name": "University of Illinois at Springfield",
+  "dom": "uis.edu",
+  "lat": "39.7338709",
+  "lng": "-89.61618159999999"
+}, {
+  "name": "University of St. Francis",
+  "dom": "stfrancis.edu",
+  "lat": "41.533583",
+  "lng": "-88.098614"
+}, {
+  "name": "VanderCook College of Music",
+  "dom": "vandercook.edu",
+  "lat": "41.8372389",
+  "lng": "-87.62922499999999"
+}, {
+  "name": "Western Illinois University",
+  "dom": "wiu.edu",
+  "lat": "40.4642369",
+  "lng": "-90.6836752"
+}, {
+  "name": "Wheaton College",
+  "dom": "wheaton.edu",
+  "lat": "41.86845539999999",
+  "lng": "-88.09959099999999"
+}, {
+  "name": "American College of Education",
+  "dom": "ace.edu",
+  "lat": "39.769704",
+  "lng": "-86.16018"
+}, {
+  "name": "Anabaptist Mennonite Biblical Seminary",
+  "dom": "ambs.edu",
+  "lat": "41.65475",
+  "lng": "-85.971279"
+}, {
+  "name": "Anderson University",
+  "dom": "anderson.edu",
+  "lat": "40.1114829",
+  "lng": "-85.6651536"
+}, {
+  "name": "Ball State University",
+  "dom": "bsu.edu",
+  "lat": "40.208958",
+  "lng": "-85.407777"
+}, {
+  "name": "Bethany Theological Seminary",
+  "dom": "bethanyseminary.edu",
+  "lat": "39.823941",
+  "lng": "-84.913241"
+}, {
+  "name": "Bethel College",
+  "dom": "bethelcollege.edu",
+  "lat": "41.676481",
+  "lng": "-86.19554199999999"
+}, {
+  "name": "Butler University",
+  "dom": "butler.edu",
+  "lat": "39.8401892",
+  "lng": "-86.1691984"
+}, {
+  "name": "Christian Theological Seminary",
+  "dom": "cts.edu",
+  "lat": "39.832979",
+  "lng": "-86.17718599999999"
+}, {
+  "name": "Concordia Theological Seminary",
+  "dom": "ctsfw.edu",
+  "lat": "41.138455",
+  "lng": "-85.110889"
+}, {
+  "name": "DePauw University",
+  "dom": "depauw.edu",
+  "lat": "39.640959",
+  "lng": "-86.8603334"
+}, {
+  "name": "Earlham College",
+  "dom": "earlham.edu",
+  "lat": "39.823941",
+  "lng": "-84.913241"
+}, {
+  "name": "Franklin College",
+  "dom": "franklincollege.edu",
+  "lat": "39.47884519999999",
+  "lng": "-86.0456699"
+}, {
+  "name": "Goshen College",
+  "dom": "goshen.edu",
+  "lat": "41.5655907",
+  "lng": "-85.8285643"
+}, {
+  "name": "Grace College and Seminary",
+  "dom": "grace.edu",
+  "lat": "41.2258989",
+  "lng": "-85.815919"
+}, {
+  "name": "Hanover College",
+  "dom": "hanover.edu",
+  "lat": "38.7204849",
+  "lng": "-85.464235"
+}, {
+  "name": "Holy Cross College",
+  "dom": "hcc-nd.edu",
+  "lat": "41.70232790000001",
+  "lng": "-86.25015069999999"
+}, {
+  "name": "Huntington University",
+  "dom": "huntington.edu",
+  "lat": "40.8990026",
+  "lng": "-85.499843"
+}, {
+  "name": "Indiana Institute of Technology",
+  "dom": "indianatech.edu",
+  "lat": "41.077818",
+  "lng": "-85.116851"
+}, {
+  "name": "Indiana State University",
+  "dom": "indstate.edu",
+  "lat": "39.46854889999999",
+  "lng": "-87.40705590000002"
+}, {
+  "name": "Indiana University East",
+  "dom": "iue.edu",
+  "lat": "39.866598",
+  "lng": "-84.8883743"
+}, {
+  "name": "Indiana University-Purdue University Fort Wayne",
+  "dom": "ipfw.edu",
+  "lat": "41.1156618",
+  "lng": "-85.1115736"
+}, {
+  "name": "Indiana University-Purdue University Indianapolis",
+  "dom": "iupui.edu",
+  "lat": "39.773159",
+  "lng": "-86.18196999999999"
+}, {
+  "name": "Indiana Wesleyan University",
+  "dom": "indwes.edu",
+  "lat": "40.521759",
+  "lng": "-85.665678"
+}, {
+  "name": "Manchester University",
+  "dom": "manchester.edu",
+  "lat": "41.01098500000001",
+  "lng": "-85.76252199999999"
+}, {
+  "name": "Marian University",
+  "dom": "marian.edu",
+  "lat": "39.8123859",
+  "lng": "-86.204244"
+}, {
+  "name": "Martin University",
+  "dom": "martin.edu",
+  "lat": "39.798646",
+  "lng": "-86.10565"
+}, {
+  "name": "Oakland City University",
+  "dom": "oak.edu",
+  "lat": "38.3395197",
+  "lng": "-87.35235279999999"
+}, {
+  "name": "Purdue University",
+  "dom": "purdue.edu",
+  "lat": "40.4282112",
+  "lng": "-86.9143951"
+}, {
+  "name": "Purdue University - North Central",
+  "dom": "pnc.edu",
+  "lat": "41.5865972",
+  "lng": "-86.89687959999999"
+}, {
+  "name": "Purdue University Calumet",
+  "dom": "purdue.edu",
+  "lat": "41.5877606",
+  "lng": "-87.4750581"
+}, {
+  "name": "Rose-Hulman Institute of Technology",
+  "dom": "rose-hulman.edu",
+  "lat": "39.4836321",
+  "lng": "-87.3268569"
+}, {
+  "name": "Saint Josephs College",
+  "dom": "saintjoe.edu",
+  "lat": "40.9839384",
+  "lng": "-87.15112769999999"
+}, {
+  "name": "Saint Mary-of-the-Woods College",
+  "dom": "smwc.edu",
+  "lat": "39.4052349",
+  "lng": "-87.4069026"
+}, {
+  "name": "Saint Meinrad School of Theology",
+  "dom": "saintmeinrad.edu",
+  "lat": "38.1659999",
+  "lng": "-86.810615"
+}, {
+  "name": "Taylor University",
+  "dom": "taylor.edu",
+  "lat": "40.459406",
+  "lng": "-85.497152"
+}, {
+  "name": "Trine University",
+  "dom": "trine.edu",
+  "lat": "41.6323886",
+  "lng": "-85.0078726"
+}, {
+  "name": "University of Evansville",
+  "dom": "evansville.edu",
+  "lat": "37.9740667",
+  "lng": "-87.53297920000001"
+}, {
+  "name": "University of Indianapolis",
+  "dom": "uindy.edu",
+  "lat": "39.708046",
+  "lng": "-86.1373459"
+}, {
+  "name": "University of Notre Dame",
+  "dom": "nd.edu",
+  "lat": "41.7030267",
+  "lng": "-86.2390726"
+}, {
+  "name": "University of Saint Francis - Fort Wayne",
+  "dom": "sf.edu",
+  "lat": "41.08669",
+  "lng": "-85.175484"
+}, {
+  "name": "University of Southern Indiana",
+  "dom": "usi.edu",
+  "lat": "37.9613678",
+  "lng": "-87.6760566"
+}, {
+  "name": "Valparaiso University",
+  "dom": "valpo.edu",
+  "lat": "41.4730948",
+  "lng": "-87.0611412"
+}, {
+  "name": "Vincennes University",
+  "dom": "vinu.edu",
+  "lat": "38.6866366",
+  "lng": "-87.5208787"
+}, {
+  "name": "Wabash College",
+  "dom": "wabash.edu",
+  "lat": "40.0411536",
+  "lng": "-86.87445160000001"
+}, {
+  "name": "Baker University",
+  "dom": "bakeru.edu",
+  "lat": "38.7790351",
+  "lng": "-95.1888378"
+}, {
+  "name": "Barclay College",
+  "dom": "barclaycollege.edu",
+  "lat": "37.621022",
+  "lng": "-99.104914"
+}, {
+  "name": "Benedictine College",
+  "dom": "benedictine.edu",
+  "lat": "39.57228",
+  "lng": "-95.1151871"
+}, {
+  "name": "Bethany College",
+  "dom": "bethanylb.edu",
+  "lat": "38.5800436",
+  "lng": "-97.67441009999999"
+}, {
+  "name": "Bethel College",
+  "dom": "bethelks.edu",
+  "lat": "38.0749222",
+  "lng": "-97.34131769999999"
+}, {
+  "name": "Central Baptist Theological Seminary",
+  "dom": "cbts.edu",
+  "lat": "39.0094077",
+  "lng": "-94.8381739"
+}, {
+  "name": "Central Christian College of Kansas",
+  "dom": "centralchristian.edu",
+  "lat": "38.3571079",
+  "lng": "-97.667717"
+}, {
+  "name": "Cleveland University-Kansas City",
+  "dom": "cleveland.edu",
+  "lat": "38.9321708",
+  "lng": "-94.6787378"
+}, {
+  "name": "Donnelly College",
+  "dom": "donnelly.edu",
+  "lat": "39.112333",
+  "lng": "-94.6503"
+}, {
+  "name": "Emporia State University",
+  "dom": "emporia.edu",
+  "lat": "38.4138338",
+  "lng": "-96.18008979999999"
+}, {
+  "name": "Fort Hays State University",
+  "dom": "fhsu.edu",
+  "lat": "38.8731302",
+  "lng": "-99.3401772"
+}, {
+  "name": "Friends University",
+  "dom": "friends.edu",
+  "lat": "37.678131",
+  "lng": "-97.36612679999999"
+}, {
+  "name": "Haskell Indian Nations University",
+  "dom": "haskell.edu",
+  "lat": "38.9400863",
+  "lng": "-95.2339619"
+}, {
+  "name": "Kansas State University",
+  "dom": "k-state.edu",
+  "lat": "39.1886514",
+  "lng": "-96.58102509999999"
+}, {
+  "name": "Kansas Wesleyan University",
+  "dom": "kwu.edu",
+  "lat": "38.813519",
+  "lng": "-97.60932299999999"
+}, {
+  "name": "McPherson College",
+  "dom": "mcpherson.edu",
+  "lat": "38.3721279",
+  "lng": "-97.642027"
+}, {
+  "name": "MidAmerica Nazarene University",
+  "dom": "mnu.edu",
+  "lat": "38.8759739",
+  "lng": "-94.77978159999999"
+}, {
+  "name": "Newman University",
+  "dom": "newmanu.edu",
+  "lat": "37.6725618",
+  "lng": "-97.37831709999999"
+}, {
+  "name": "Ottawa University",
+  "dom": "ottawa.edu",
+  "lat": "38.6029423",
+  "lng": "-95.2637339"
+}, {
+  "name": "Pittsburg State University",
+  "dom": "pittstate.edu",
+  "lat": "37.3913042",
+  "lng": "-94.7038621"
+}, {
+  "name": "Saint Paul School of Theology",
+  "dom": "spst.edu",
+  "lat": "38.8797511",
+  "lng": "-94.64014680000001"
+}, {
+  "name": "Southwestern College",
+  "dom": "sckans.edu",
+  "lat": "37.249818",
+  "lng": "-96.97364499999999"
+}, {
+  "name": "Sterling College",
+  "dom": "sterling.edu",
+  "lat": "38.2202873",
+  "lng": "-98.20715349999999"
+}, {
+  "name": "Tabor College",
+  "dom": "tabor.edu",
+  "lat": "38.347992",
+  "lng": "-97.20059099999999"
+}, {
+  "name": "University of Kansas",
+  "dom": "ku.edu",
+  "lat": "38.9582167",
+  "lng": "-95.2478149"
+}, {
+  "name": "University of Saint Mary",
+  "dom": "stmary.edu",
+  "lat": "39.3111112",
+  "lng": "-94.9224637"
+}, {
+  "name": "Washburn University",
+  "dom": "washburn.edu",
+  "lat": "39.0364494",
+  "lng": "-95.7025918"
+}, {
+  "name": "Wichita State University",
+  "dom": "wichita.edu",
+  "lat": "37.7169821",
+  "lng": "-97.2973147"
+}, {
+  "name": "Alice Lloyd College",
+  "dom": "alc.edu",
+  "lat": "37.3359169",
+  "lng": "-82.8735939"
+}, {
+  "name": "Asbury Theological Seminary",
+  "dom": "asburyseminary.edu",
+  "lat": "37.8633415",
+  "lng": "-84.6606427"
+}, {
+  "name": "Asbury University",
+  "dom": "asbury.edu",
+  "lat": "37.8632671",
+  "lng": "-84.66188869999999"
+}, {
+  "name": "Bellarmine University",
+  "dom": "bellarmine.edu",
+  "lat": "38.2207339",
+  "lng": "-85.7041629"
+}, {
+  "name": "Berea College",
+  "dom": "berea.edu",
+  "lat": "37.5717311",
+  "lng": "-84.2897389"
+}, {
+  "name": "Brescia University",
+  "dom": "brescia.edu",
+  "lat": "37.768595",
+  "lng": "-87.1109759"
+}, {
+  "name": "Campbellsville University",
+  "dom": "campbellsville.edu",
+  "lat": "37.3443086",
+  "lng": "-85.34798839999999"
+}, {
+  "name": "Centre College",
+  "dom": "centre.edu",
+  "lat": "37.6440652",
+  "lng": "-84.77749399999999"
+}, {
+  "name": "Clear Creek Baptist Bible College",
+  "dom": "ccbbc.edu",
+  "lat": "36.71339560000001",
+  "lng": "-83.7328474"
+}, {
+  "name": "Eastern Kentucky University",
+  "dom": "eku.edu",
+  "lat": "37.7424854",
+  "lng": "-84.3013906"
+}, {
+  "name": "Georgetown College",
+  "dom": "georgetowncollege.edu",
+  "lat": "38.2078042",
+  "lng": "-84.5546378"
+}, {
+  "name": "Kentucky Mountain Bible College",
+  "dom": "kmbc.edu",
+  "lat": "37.6042873",
+  "lng": "-83.4246429"
+}, {
+  "name": "Kentucky State University",
+  "dom": "kysu.edu",
+  "lat": "38.19976020000001",
+  "lng": "-84.85650799999999"
+}, {
+  "name": "Kentucky Wesleyan College",
+  "dom": "kwc.edu",
+  "lat": "37.7436029",
+  "lng": "-87.1161918"
+}, {
+  "name": "Lindsey Wilson College",
+  "dom": "lindsey.edu",
+  "lat": "37.1027852",
+  "lng": "-85.3015101"
+}, {
+  "name": "Louisville Presbyterian Theological Seminary",
+  "dom": "lpts.edu",
+  "lat": "38.2403671",
+  "lng": "-85.685738"
+}, {
+  "name": "Mid-Continent University",
+  "dom": "midcontinent.edu",
+  "lat": "36.8180208",
+  "lng": "-88.6478441"
+}, {
+  "name": "Midway College",
+  "dom": "midway.edu",
+  "lat": "38.1445295",
+  "lng": "-84.6773386"
+}, {
+  "name": "Morehead State University",
+  "dom": "moreheadstate.edu",
+  "lat": "38.1865155",
+  "lng": "-83.4356317"
+}, {
+  "name": "Murray State University",
+  "dom": "murraystate.edu",
+  "lat": "36.6124534",
+  "lng": "-88.3236652"
+}, {
+  "name": "Northern Kentucky University",
+  "dom": "nku.edu",
+  "lat": "39.036293",
+  "lng": "-84.462609"
+}, {
+  "name": "Saint Catharine College",
+  "dom": "sccky.edu",
+  "lat": "37.7105148",
+  "lng": "-85.260516"
+}, {
+  "name": "Spalding University",
+  "dom": "spalding.edu",
+  "lat": "38.2427675",
+  "lng": "-85.7572672"
+}, {
+  "name": "Sullivan University",
+  "dom": "sullivan.edu",
+  "lat": "38.2120015",
+  "lng": "-85.6721561"
+}, {
+  "name": "The Southern Baptist Theological Seminary",
+  "dom": "sbts.edu",
+  "lat": "38.246075",
+  "lng": "-85.68653119999999"
+}, {
+  "name": "Thomas More College",
+  "dom": "thomasmore.edu",
+  "lat": "39.0240386",
+  "lng": "-84.5680005"
+}, {
+  "name": "Transylvania University",
+  "dom": "transy.edu",
+  "lat": "38.052177",
+  "lng": "-84.4936835"
+}, {
+  "name": "Union College",
+  "dom": "unionky.edu",
+  "lat": "36.8700701",
+  "lng": "-83.8892817"
+}, {
+  "name": "University of Kentucky",
+  "dom": "uky.edu",
+  "lat": "38.046593",
+  "lng": "-84.496939"
+}, {
+  "name": "University of Louisville",
+  "dom": "louisville.edu",
+  "lat": "38.2157221",
+  "lng": "-85.7620216"
+}, {
+  "name": "University of the Cumberlands",
+  "dom": "ucumberlands.edu",
+  "lat": "36.7434169",
+  "lng": "-84.15965609999999"
+}, {
+  "name": "Western Kentucky University",
+  "dom": "wku.edu",
+  "lat": "36.9867184",
+  "lng": "-86.4556285"
+}, {
+  "name": "Centenary College of Louisiana",
+  "dom": "centenary.edu",
+  "lat": "32.4830533",
+  "lng": "-93.73341459999999"
+}, {
+  "name": "Dillard University",
+  "dom": "dillard.edu",
+  "lat": "29.9933852",
+  "lng": "-90.0665307"
+}, {
+  "name": "Grambling State University",
+  "dom": "gram.edu",
+  "lat": "32.5220143",
+  "lng": "-92.71447429999999"
+}, {
+  "name": "Louisiana College",
+  "dom": "lacollege.edu",
+  "lat": "31.32528",
+  "lng": "-92.42666"
+}, {
+  "name": "Louisiana State University - Shreveport",
+  "dom": "lsus.edu",
+  "lat": "32.4287671",
+  "lng": "-93.7037659"
+}, {
+  "name": "Louisiana State University Health Sciences Center at New Orleans",
+  "dom": "lsuhsc.edu",
+  "lat": "29.9572364",
+  "lng": "-90.0831489"
+}, {
+  "name": "Louisiana State University and Agricultural & Mechanical College",
+  "dom": "lsu.edu",
+  "lat": "30.41",
+  "lng": "-91.17999999999999"
+}, {
+  "name": "Louisiana State University at Alexandria",
+  "dom": "lsua.edu",
+  "lat": "39.1068676",
+  "lng": "-94.56993899999999"
+}, {
+  "name": "Louisiana Tech University",
+  "dom": "latech.edu",
+  "lat": "32.527036",
+  "lng": "-92.6491996"
+}, {
+  "name": "Loyola University New Orleans",
+  "dom": "loyno.edu",
+  "lat": "29.93477949999999",
+  "lng": "-90.12088179999999"
+}, {
+  "name": "McNeese State University",
+  "dom": "mcneese.edu",
+  "lat": "30.18036249999999",
+  "lng": "-93.21795139999999"
+}, {
+  "name": "New Orleans Baptist Theological Seminary",
+  "dom": "nobts.edu",
+  "lat": "30.0030973",
+  "lng": "-90.042614"
+}, {
+  "name": "Nicholls State University",
+  "dom": "nicholls.edu",
+  "lat": "29.7944676",
+  "lng": "-90.8014336"
+}, {
+  "name": "Northwestern State University of Louisiana",
+  "dom": "nsula.edu",
+  "lat": "31.748851",
+  "lng": "-93.0942549"
+}, {
+  "name": "Notre Dame Seminary",
+  "dom": "nds.edu",
+  "lat": "29.9594974",
+  "lng": "-90.1165029"
+}, {
+  "name": "Our Lady of Holy Cross College",
+  "dom": "olhcc.edu",
+  "lat": "29.912589",
+  "lng": "-89.9947455"
+}, {
+  "name": "Our Lady of the Lake College",
+  "dom": "ololcollege.edu",
+  "lat": "30.4001673",
+  "lng": "-91.1100271"
+}, {
+  "name": "Saint Joseph Seminary College",
+  "dom": "sjasc.edu",
+  "lat": "30.526817",
+  "lng": "-90.11335799999999"
+}, {
+  "name": "Southeastern Louisiana University",
+  "dom": "selu.edu",
+  "lat": "30.5119284",
+  "lng": "-90.4745068"
+}, {
+  "name": "Southern University and A & M College",
+  "dom": "subr.edu",
+  "lat": "30.52244559999999",
+  "lng": "-91.19719599999999"
+}, {
+  "name": "Southern University at New Orleans",
+  "dom": "suno.edu",
+  "lat": "30.0232056",
+  "lng": "-90.0439457"
+}, {
+  "name": "Southern University at Shreveport",
+  "dom": "susla.edu",
+  "lat": "32.5435848",
+  "lng": "-93.8335492"
+}, {
+  "name": "Tulane University",
+  "dom": "tulane.edu",
+  "lat": "29.9343027",
+  "lng": "-90.122605"
+}, {
+  "name": "University of Louisiana at Lafayette",
+  "dom": "louisiana.edu",
+  "lat": "30.2146029",
+  "lng": "-92.01823350000001"
+}, {
+  "name": "University of Louisiana at Monroe",
+  "dom": "ulm.edu",
+  "lat": "32.5287009",
+  "lng": "-92.0724303"
+}, {
+  "name": "University of New Orleans",
+  "dom": "uno.edu",
+  "lat": "30.0279536",
+  "lng": "-90.0696402"
+}, {
+  "name": "Xavier University of Louisiana",
+  "dom": "xula.edu",
+  "lat": "29.962623",
+  "lng": "-90.1054023"
+}, {
+  "name": "American International College",
+  "dom": "aic.edu",
+  "lat": "42.1128526",
+  "lng": "-72.55714420000001"
+}, {
+  "name": "Amherst College",
+  "dom": "amherst.edu",
+  "lat": "42.3731798",
+  "lng": "-72.5188848"
+}, {
+  "name": "Andover Newton Theological School",
+  "dom": "ants.edu",
+  "lat": "42.3248522",
+  "lng": "-71.1889839"
+}, {
+  "name": "Anna Maria College",
+  "dom": "annamaria.edu",
+  "lat": "42.331241",
+  "lng": "-71.919691"
+}, {
+  "name": "Assumption College",
+  "dom": "assumption.edu",
+  "lat": "42.2922003",
+  "lng": "-71.8281791"
+}, {
+  "name": "Babson College",
+  "dom": "babson.edu",
+  "lat": "42.3015529",
+  "lng": "-71.266966"
+}, {
+  "name": "Bay Path College",
+  "dom": "baypath.edu",
+  "lat": "42.0549369",
+  "lng": "-72.5818353"
+}, {
+  "name": "Bay State College - Boston",
+  "dom": "baystate.edu",
+  "lat": "42.35175",
+  "lng": "-71.07692999999999"
+}, {
+  "name": "Benjamin Franklin Institute of Technology",
+  "dom": "bfit.edu",
+  "lat": "42.3457228",
+  "lng": "-71.0701749"
+}, {
+  "name": "Bentley University",
+  "dom": "bentley.edu",
+  "lat": "request",
+  "lng": "error"
+}, {
+  "name": "Berklee College of Music",
+  "dom": "berklee.edu",
+  "lat": "42.3466121",
+  "lng": "-71.0894325"
+}, {
+  "name": "Boston Architectural Center",
+  "dom": "the-bac.edu",
+  "lat": "42.348475",
+  "lng": "-71.08576699999999"
+}, {
+  "name": "Boston College",
+  "dom": "bc.edu",
+  "lat": "42.3400645",
+  "lng": "-71.1668761"
+}, {
+  "name": "Boston Graduate School of Psychoanalysis Inc",
+  "dom": "bgsp.edu",
+  "lat": "42.3393924",
+  "lng": "-71.1330196"
+}, {
+  "name": "Boston University",
+  "dom": "bu.edu",
+  "lat": "42.349583",
+  "lng": "-71.099535"
+}, {
+  "name": "Brandeis University",
+  "dom": "brandeis.edu",
+  "lat": "42.3662483",
+  "lng": "-71.2588463"
+}, {
+  "name": "Bridgewater State University",
+  "dom": "bridgew.edu",
+  "lat": "42.4072107",
+  "lng": "-71.3824374"
+}, {
+  "name": "Cambridge College",
+  "dom": "cambridgecollege.edu",
+  "lat": "42.3688069",
+  "lng": "-71.110861"
+}, {
+  "name": "Caritas Laboure College",
+  "dom": "laboure.edu",
+  "lat": "42.2784127",
+  "lng": "-71.06633939999999"
+}, {
+  "name": "Clark University",
+  "dom": "clarku.edu",
+  "lat": "42.2510828",
+  "lng": "-71.8235112"
+}, {
+  "name": "College of Our Lady of the Elms",
+  "dom": "elms.edu",
+  "lat": "42.1480107",
+  "lng": "-72.6067709"
+}, {
+  "name": "College of the Holy Cross",
+  "dom": "holycross.edu",
+  "lat": "42.237141",
+  "lng": "-71.806218"
+}, {
+  "name": "Conway School of Landscape Design",
+  "dom": "csld.edu",
+  "lat": "42.5055869",
+  "lng": "-72.694789"
+}, {
+  "name": "Curry College",
+  "dom": "curry.edu",
+  "lat": "42.2406763",
+  "lng": "-71.11481119999999"
+}, {
+  "name": "Dean College",
+  "dom": "dean.edu",
+  "lat": "42.084841",
+  "lng": "-71.3980428"
+}, {
+  "name": "Eastern Nazarene College",
+  "dom": "enc.edu",
+  "lat": "42.2713374",
+  "lng": "-71.0123086"
+}, {
+  "name": "Emerson College",
+  "dom": "emerson.edu",
+  "lat": "42.3523411",
+  "lng": "-71.0657872"
+}, {
+  "name": "Emmanuel College",
+  "dom": "emmanuel.edu",
+  "lat": "42.3415836",
+  "lng": "-71.10358"
+}, {
+  "name": "Endicott College",
+  "dom": "endicott.edu",
+  "lat": "42.5515429",
+  "lng": "-70.8397717"
+}, {
+  "name": "Fisher College",
+  "dom": "fisher.edu",
+  "lat": "42.35531",
+  "lng": "-71.07417"
+}, {
+  "name": "Framingham State University",
+  "dom": "framingham.edu",
+  "lat": "42.297949",
+  "lng": "-71.4360651"
+}, {
+  "name": "Franklin W. Olin College of Engineering",
+  "dom": "olin.edu",
+  "lat": "42.291317",
+  "lng": "-71.2646285"
+}, {
+  "name": "Gordon College",
+  "dom": "gordon.edu",
+  "lat": "42.592111",
+  "lng": "-70.815969"
+}, {
+  "name": "Gordon-Conwell Theological Seminary",
+  "dom": "gordonconwell.edu",
+  "lat": "42.6134892",
+  "lng": "-70.84647079999999"
+}, {
+  "name": "Hampshire College",
+  "dom": "hampshire.edu",
+  "lat": "42.3262388",
+  "lng": "-72.5245461"
+}, {
+  "name": "Harvard University",
+  "dom": "harvard.edu",
+  "lat": "42.3744368",
+  "lng": "-71.118281"
+}, {
+  "name": "Hebrew College",
+  "dom": "hebrewcollege.edu",
+  "lat": "42.325622",
+  "lng": "-71.189206"
+}, {
+  "name": "Hellenic College",
+  "dom": "hchc.edu",
+  "lat": "42.3167226",
+  "lng": "-71.1269339"
+}, {
+  "name": "Hult International Business School",
+  "dom": "hult.edu",
+  "lat": "42.369876",
+  "lng": "-71.070723"
+}, {
+  "name": "Lasell College",
+  "dom": "lasell.edu",
+  "lat": "42.3437023",
+  "lng": "-71.2414605"
+}, {
+  "name": "Lesley University",
+  "dom": "lesley.edu",
+  "lat": "42.3799418",
+  "lng": "-71.1174485"
+}, {
+  "name": "Longy School of Music",
+  "dom": "longy.edu",
+  "lat": "42.378543",
+  "lng": "-71.123435"
+}, {
+  "name": "MGH Institute of Health Professions",
+  "dom": "mghihp.edu",
+  "lat": "42.3748826",
+  "lng": "-71.0540302"
+}, {
+  "name": "Massachusetts College of Art and Design",
+  "dom": "massart.edu",
+  "lat": "42.3374359",
+  "lng": "-71.09915480000001"
+}, {
+  "name": "Massachusetts College of Liberal Arts",
+  "dom": "mcla.edu",
+  "lat": "42.6919171",
+  "lng": "-73.1028951"
+}, {
+  "name": "Massachusetts College of Pharmacy & Health Sciences",
+  "dom": "mcphs.edu",
+  "lat": "42.336788",
+  "lng": "-71.101209"
+}, {
+  "name": "Massachusetts Maritime Academy",
+  "dom": "maritime.edu",
+  "lat": "41.7407756",
+  "lng": "-70.62115349999999"
+}, {
+  "name": "Massachusetts School of Law",
+  "dom": "mslaw.edu",
+  "lat": "40.9147506",
+  "lng": "-74.17027449999999"
+}, {
+  "name": "Massachusetts School of Professional Psychology",
+  "dom": "mspp.edu",
+  "lat": "42.2951038",
+  "lng": "-71.2032938"
+}, {
+  "name": "Montserrat College of Art",
+  "dom": "montserrat.edu",
+  "lat": "42.5501402",
+  "lng": "-70.8760643"
+}, {
+  "name": "Mount Holyoke College",
+  "dom": "mtholyoke.edu",
+  "lat": "42.2540057",
+  "lng": "-72.5762415"
+}, {
+  "name": "Mount Ida College",
+  "dom": "mountida.edu",
+  "lat": "42.2954214",
+  "lng": "-71.19357389999999"
+}, {
+  "name": "National Graduate School of Quality Management",
+  "dom": "ngs.edu",
+  "lat": "41.562298",
+  "lng": "-70.61192799999999"
+}, {
+  "name": "Newbury College-Brookline",
+  "dom": "newbury.edu",
+  "lat": "42.3312841",
+  "lng": "-71.1428026"
+}, {
+  "name": "Nichols College",
+  "dom": "nichols.edu",
+  "lat": "42.0463752",
+  "lng": "-71.9296363"
+}, {
+  "name": "Northeastern University",
+  "dom": "northeastern.edu",
+  "lat": "42.3395225",
+  "lng": "-71.0878997"
+}, {
+  "name": "Pine Manor College",
+  "dom": "pmc.edu",
+  "lat": "42.32249520000001",
+  "lng": "-71.15845860000002"
+}, {
+  "name": "Regis College",
+  "dom": "regiscollege.edu",
+  "lat": "42.351166",
+  "lng": "-71.30641600000001"
+}, {
+  "name": "Saint John's Seminary",
+  "dom": "sjs.edu",
+  "lat": "42.3440332",
+  "lng": "-71.1640078"
+}, {
+  "name": "Salem State University",
+  "dom": "salemstate.edu",
+  "lat": "42.5050878",
+  "lng": "-70.8908273"
+}, {
+  "name": "Simmons College",
+  "dom": "simmons.edu",
+  "lat": "42.338939",
+  "lng": "-71.100441"
+}, {
+  "name": "Simons Rock College of Bard",
+  "dom": "simons-rock.edu",
+  "lat": "42.2097331",
+  "lng": "-73.386331"
+}, {
+  "name": "Smith College",
+  "dom": "smith.edu",
+  "lat": "42.3284576",
+  "lng": "-72.65969000000001"
+}, {
+  "name": "Stonehill College",
+  "dom": "stonehill.edu",
+  "lat": "42.0656195",
+  "lng": "-71.0871511"
+}, {
+  "name": "Suffolk University",
+  "dom": "suffolk.edu",
+  "lat": "42.3590296",
+  "lng": "-71.0628077"
+}, {
+  "name": "The Boston Conservatory",
+  "dom": "bostonconservatory.edu",
+  "lat": "42.3462021",
+  "lng": "-71.0900107"
+}, {
+  "name": "The New England Conservatory of Music",
+  "dom": "necmusic.edu",
+  "lat": "42.3411646",
+  "lng": "-71.08656359999999"
+}, {
+  "name": "Tufts University",
+  "dom": "tufts.edu",
+  "lat": "42.4074211",
+  "lng": "-71.1201222"
+}, {
+  "name": "University of Massachusetts - Boston",
+  "dom": "umb.edu",
+  "lat": "42.3146046",
+  "lng": "-71.04047489999999"
+}, {
+  "name": "University of Massachusetts - Dartmouth",
+  "dom": "umassd.edu",
+  "lat": "41.6286276",
+  "lng": "-71.0043812"
+}, {
+  "name": "University of Massachusetts - Lowell",
+  "dom": "uml.edu",
+  "lat": "42.6530618",
+  "lng": "-71.3257477"
+}, {
+  "name": "University of Massachusetts - Worcester",
+  "dom": "umassmed.edu",
+  "lat": "42.2772131",
+  "lng": "-71.7607623"
+}, {
+  "name": "University of Massachusetts Amherst",
+  "dom": "umass.edu",
+  "lat": "42.3862802",
+  "lng": "-72.5253978"
+}, {
+  "name": "Wellesley College",
+  "dom": "wellesley.edu",
+  "lat": "42.2936696",
+  "lng": "-71.30738459999999"
+}, {
+  "name": "Wentworth Institute of Technology",
+  "dom": "wit.edu",
+  "lat": "42.3366516",
+  "lng": "-71.0957071"
+}, {
+  "name": "Wheaton College",
+  "dom": "wheatoncollege.edu",
+  "lat": "41.9672923",
+  "lng": "-71.18494749999999"
+}, {
+  "name": "Wheelock College",
+  "dom": "wheelock.edu",
+  "lat": "42.341718",
+  "lng": "-71.106381"
+}, {
+  "name": "Williams College",
+  "dom": "williams.edu",
+  "lat": "42.7127097",
+  "lng": "-73.20306160000001"
+}, {
+  "name": "Worcester Polytechnic Institute",
+  "dom": "wpi.edu",
+  "lat": "42.2743398",
+  "lng": "-71.8097734"
+}, {
+  "name": "Worcester State University",
+  "dom": "worcester.edu",
+  "lat": "42.2686714",
+  "lng": "-71.8413715"
+}, {
+  "name": "Bowie State University",
+  "dom": "bowiestate.edu",
+  "lat": "39.019649",
+  "lng": "-76.757861"
+}, {
+  "name": "Capitol College",
+  "dom": "capitol-college.edu",
+  "lat": "39.046924",
+  "lng": "-76.85071099999999"
+}, {
+  "name": "Coppin State University",
+  "dom": "coppin.edu",
+  "lat": "39.3100039",
+  "lng": "-76.65878889999999"
+}, {
+  "name": "Frostburg State University",
+  "dom": "frostburg.edu",
+  "lat": "39.648311",
+  "lng": "-78.932755"
+}, {
+  "name": "Goucher College",
+  "dom": "goucher.edu",
+  "lat": "39.4089304",
+  "lng": "-76.6007509"
+}, {
+  "name": "Hood College",
+  "dom": "hood.edu",
+  "lat": "39.4213829",
+  "lng": "-77.4202024"
+}, {
+  "name": "Johns Hopkins University",
+  "dom": "jhu.edu",
+  "lat": "39.3274427",
+  "lng": "-76.6207767"
+}, {
+  "name": "Loyola University Maryland",
+  "dom": "loyola.edu",
+  "lat": "39.3456808",
+  "lng": "-76.6186427"
+}, {
+  "name": "Maryland Institute College of Art",
+  "dom": "mica.edu",
+  "lat": "39.307555",
+  "lng": "-76.621634"
+}, {
+  "name": "McDaniel College",
+  "dom": "mcdaniel.edu",
+  "lat": "39.5829905",
+  "lng": "-77.00371919999999"
+}, {
+  "name": "Morgan State University",
+  "dom": "morgan.edu",
+  "lat": "39.3469377",
+  "lng": "-76.5820293"
+}, {
+  "name": "Mount St Mary's University",
+  "dom": "msmary.edu",
+  "lat": "39.6789443",
+  "lng": "-77.34726909999999"
+}, {
+  "name": "National Labor College",
+  "dom": "nlc.edu",
+  "lat": "38.995523",
+  "lng": "-77.02982999999999"
+}, {
+  "name": "Notre Dame of Maryland University",
+  "dom": "ndm.edu",
+  "lat": "39.351329",
+  "lng": "-76.620005"
+}, {
+  "name": "Salisbury University",
+  "dom": "salisbury.edu",
+  "lat": "38.3448893",
+  "lng": "-75.60588369999999"
+}, {
+  "name": "Sojourner-Douglass College",
+  "dom": "sdc.edu",
+  "lat": "39.296372",
+  "lng": "-76.59808799999999"
+}, {
+  "name": "St. Mary's College of Maryland",
+  "dom": "smcm.edu",
+  "lat": "38.1874875",
+  "lng": "-76.42531629999999"
+}, {
+  "name": "St. Mary's Seminary & University",
+  "dom": "stmarys.edu",
+  "lat": "39.3603949",
+  "lng": "-76.63932199999999"
+}, {
+  "name": "Stevenson University",
+  "dom": "stevenson.edu",
+  "lat": "39.421492",
+  "lng": "-76.70316799999999"
+}, {
+  "name": "Towson University",
+  "dom": "towson.edu",
+  "lat": "39.3925527",
+  "lng": "-76.6061512"
+}, {
+  "name": "Uniformed Services University of the Health Sciences",
+  "dom": "usuhs.mil",
+  "lat": "39.002458",
+  "lng": "-77.085047"
+}, {
+  "name": "United States Naval Academy",
+  "dom": "usna.edu",
+  "lat": "38.9818524",
+  "lng": "-76.4859689"
+}, {
+  "name": "University of Baltimore",
+  "dom": "ubalt.edu",
+  "lat": "39.3061515",
+  "lng": "-76.6168857"
+}, {
+  "name": "University of Maryland - Baltimore",
+  "dom": "umaryland.edu",
+  "lat": "39.2874026",
+  "lng": "-76.6231243"
+}, {
+  "name": "University of Maryland - Baltimore County",
+  "dom": "umbc.edu",
+  "lat": "39.2546498",
+  "lng": "-76.7139888"
+}, {
+  "name": "University of Maryland - College Park",
+  "dom": "umd.edu",
+  "lat": "38.9859963",
+  "lng": "-76.9398645"
+}, {
+  "name": "University of Maryland - Eastern Shore",
+  "dom": "umes.edu",
+  "lat": "38.211478",
+  "lng": "-75.68763799999999"
+}, {
+  "name": "University of Maryland - University College",
+  "dom": "umuc.edu",
+  "lat": "38.98663790000001",
+  "lng": "-76.95535679999999"
+}, {
+  "name": "Washington Adventist University",
+  "dom": "wau.edu",
+  "lat": "38.987531",
+  "lng": "-77.00116500000001"
+}, {
+  "name": "Washington Bible College and Capital Bible Seminary",
+  "dom": "bible.edu",
+  "lat": "38.9997499",
+  "lng": "-76.8957456"
+}, {
+  "name": "Washington College",
+  "dom": "washcoll.edu",
+  "lat": "39.219591",
+  "lng": "-76.06756"
+}, {
+  "name": "Bangor Theological Seminary",
+  "dom": "bts.edu",
+  "lat": "44.82550819999999",
+  "lng": "-68.7920335"
+}, {
+  "name": "Bowdoin College",
+  "dom": "bowdoin.edu",
+  "lat": "43.9140162",
+  "lng": "-69.9669961"
+}, {
+  "name": "Colby College",
+  "dom": "colby.edu",
+  "lat": "44.55605130000001",
+  "lng": "-69.6532139"
+}, {
+  "name": "College of the Atlantic",
+  "dom": "coa.edu",
+  "lat": "44.395359",
+  "lng": "-68.221822"
+}, {
+  "name": "Husson University",
+  "dom": "husson.edu",
+  "lat": "44.82550819999999",
+  "lng": "-68.7920335"
+}, {
+  "name": "Maine College of Art",
+  "dom": "meca.edu",
+  "lat": "43.653631",
+  "lng": "-70.261577"
+}, {
+  "name": "Maine Maritime Academy",
+  "dom": "mainemaritime.edu",
+  "lat": "43.6976995",
+  "lng": "-70.3164612"
+}, {
+  "name": "Saint Joseph's College of Maine",
+  "dom": "sjcme.edu",
+  "lat": "43.8264422",
+  "lng": "-70.4819588"
+}, {
+  "name": "Thomas College",
+  "dom": "thomas.edu",
+  "lat": "44.5264308",
+  "lng": "-69.66615949999999"
+}, {
+  "name": "Unity College",
+  "dom": "unity.edu",
+  "lat": "44.6045515",
+  "lng": "-69.33119239999999"
+}, {
+  "name": "University of Maine",
+  "dom": "umaine.edu",
+  "lat": "44.8998981",
+  "lng": "-68.6704074"
+}, {
+  "name": "University of Maine at Augusta",
+  "dom": "maine.edu",
+  "lat": "44.3420075",
+  "lng": "-69.79513109999999"
+}, {
+  "name": "University of Maine at Farmington",
+  "dom": "maine.edu",
+  "lat": "44.6683975",
+  "lng": "-70.1496758"
+}, {
+  "name": "University of Maine at Fort Kent",
+  "dom": "maine.edu",
+  "lat": "47.2506858",
+  "lng": "-68.5897477"
+}, {
+  "name": "University of Maine at Machias",
+  "dom": "maine.edu",
+  "lat": "44.7108395",
+  "lng": "-67.4578401"
+}, {
+  "name": "University of Maine at Presque Isle",
+  "dom": "maine.edu",
+  "lat": "46.6702495",
+  "lng": "-68.013963"
+}, {
+  "name": "University of New England",
+  "dom": "une.edu",
+  "lat": "43.4587256",
+  "lng": "-70.3889654"
+}, {
+  "name": "University of Southern Maine",
+  "dom": "maine.edu",
+  "lat": "43.662524",
+  "lng": "-70.27629499999999"
+}, {
+  "name": "Adrian College",
+  "dom": "adrian.edu",
+  "lat": "41.8959524",
+  "lng": "-84.0648937"
+}, {
+  "name": "Albion College",
+  "dom": "albion.edu",
+  "lat": "42.2440118",
+  "lng": "-84.74409419999999"
+}, {
+  "name": "Alma College",
+  "dom": "alma.edu",
+  "lat": "43.379011",
+  "lng": "-84.6699398"
+}, {
+  "name": "Andrews University",
+  "dom": "andrews.edu",
+  "lat": "41.8955409",
+  "lng": "-86.3181434"
+}, {
+  "name": "Aquinas College",
+  "dom": "aquinas.edu",
+  "lat": "42.958166",
+  "lng": "-85.62586399999999"
+}, {
+  "name": "Baker College",
+  "dom": "baker.edu",
+  "lat": "42.975321",
+  "lng": "-83.6961123"
+}, {
+  "name": "Calvin College",
+  "dom": "calvin.edu",
+  "lat": "42.9269993",
+  "lng": "-85.58899710000001"
+}, {
+  "name": "Central Michigan University",
+  "dom": "cmich.edu",
+  "lat": "43.5911786",
+  "lng": "-84.77533079999999"
+}, {
+  "name": "Cleary University",
+  "dom": "cleary.edu",
+  "lat": "42.306047",
+  "lng": "-83.69094299999999"
+}, {
+  "name": "College for Creative Studies",
+  "dom": "collegeforcreativestudies.edu",
+  "lat": "42.3607001",
+  "lng": "-83.06497159999999"
+}, {
+  "name": "Concordia University",
+  "dom": "cuaa.edu",
+  "lat": "42.27457640000001",
+  "lng": "-83.6821002"
+}, {
+  "name": "Cornerstone University",
+  "dom": "cornerstone.edu",
+  "lat": "42.980735",
+  "lng": "-85.591106"
+}, {
+  "name": "Davenport University",
+  "dom": "davenport.edu",
+  "lat": "42.8500442",
+  "lng": "-85.5306458"
+}, {
+  "name": "Eastern Michigan University",
+  "dom": "emich.edu",
+  "lat": "42.245993",
+  "lng": "-83.6244504"
+}, {
+  "name": "Allen University",
+  "dom": "allenuniversity.edu",
+  "lat": 34.010694,
+  "lng": -81.020246
+}, {
+  "name": "Anderson University",
+  "dom": "andersonuniversity.edu",
+  "lat": 34.514112,
+  "lng": -82.638025
+}, {
+  "name": "Benedict College",
+  "dom": "benedict.edu",
+  "lat": 34.012867,
+  "lng": -81.020461
+}, {
+  "name": "Charleston Southern University",
+  "dom": "csuniv.edu",
+  "lat": 32.97714,
+  "lng": -80.069693
+}, {
+  "name": "Claflin University",
+  "dom": "claflin.edu",
+  "lat": 33.4990214,
+  "lng": -80.85421099999999
+}, {
+  "name": "Clemson University",
+  "dom": "clemson.edu",
+  "lat": 34.6812543,
+  "lng": -82.7837423
+}, {
+  "name": "Coastal Carolina University",
+  "dom": "coastal.edu",
+  "lat": 33.7938953,
+  "lng": -79.01123609999999
+}, {
+  "name": "Coker College",
+  "dom": "coker.edu",
+  "lat": 34.3765879,
+  "lng": -80.0704914
+}, {
+  "name": "College of Charleston",
+  "dom": "cofc.edu",
+  "lat": 32.7832238,
+  "lng": -79.93760259999999
+}, {
+  "name": "Columbia College",
+  "dom": "columbiasc.edu",
+  "lat": 34.0460714,
+  "lng": -81.0329929
+}, {
+  "name": "Columbia International University",
+  "dom": "ciu.edu",
+  "lat": 34.0773853,
+  "lng": -81.0715377
+}, {
+  "name": "Converse College",
+  "dom": "converse.edu",
+  "lat": 34.956048,
+  "lng": -81.918904
+}, {
+  "name": "ECPI University School of Health Sciences Medical Careers Institute",
+  "dom": "ecpi.edu",
+  "lat": 34.034595,
+  "lng": -81.118541
+}, {
+  "name": "Erskine College",
+  "dom": "erskine.edu",
+  "lat": 34.330293,
+  "lng": -82.3907298
+}, {
+  "name": "Francis Marion University",
+  "dom": "fmarion.edu",
+  "lat": 34.1959695,
+  "lng": -79.6496086
+}, {
+  "name": "Furman University",
+  "dom": "furman.edu",
+  "lat": 34.9253713,
+  "lng": -82.4349247
+}, {
+  "name": "Lander University",
+  "dom": "lander.edu",
+  "lat": 34.1973342,
+  "lng": -82.1652592
+}, {
+  "name": "Limestone College",
+  "dom": "limestone.edu",
+  "lat": 35.0566311,
+  "lng": -81.6485123
+}, {
+  "name": "Medical University of South Carolina",
+  "dom": "musc.edu",
+  "lat": 32.7843661,
+  "lng": -79.9462534
+}, {
+  "name": "Morris College",
+  "dom": "morris.edu",
+  "lat": 33.938031,
+  "lng": -80.347003
+}, {
+  "name": "Newberry College",
+  "dom": "newberry.edu",
+  "lat": 34.2856943,
+  "lng": -81.6223454
+}, {
+  "name": "North Greenville University",
+  "dom": "ngu.edu",
+  "lat": 35.0688434,
+  "lng": -82.3697997
+}, {
+  "name": "Presbyterian College",
+  "dom": "presby.edu",
+  "lat": 34.4669671,
+  "lng": -81.87990599999999
+}, {
+  "name": "Sherman College of Chiropractic",
+  "dom": "sherman.edu",
+  "lat": 35.012863,
+  "lng": -81.990008
+}, {
+  "name": "South Carolina State University",
+  "dom": "scsu.edu",
+  "lat": 33.5057986,
+  "lng": -80.85184249999999
+}, {
+  "name": "Southern Wesleyan University",
+  "dom": "swu.edu",
+  "lat": 34.7275586,
+  "lng": -82.7633556
+}, {
+  "name": "The Citadel",
+  "dom": "citadel.edu",
+  "lat": 32.7970693,
+  "lng": -79.9610174
+}, {
+  "name": "University of South Carolina - Aiken",
+  "dom": "usca.edu",
+  "lat": 33.5726447,
+  "lng": -81.7675156
+}, {
+  "name": "University of South Carolina - Beaufort",
+  "dom": "uscb.edu",
+  "lat": 32.303891,
+  "lng": -80.9731
+}, {
+  "name": "University of South Carolina - Columbia",
+  "dom": "sc.edu",
+  "lat": 33.9993027,
+  "lng": -81.0275152
+}, {
+  "name": "University of South Carolina - Upstate",
+  "dom": "uscupstate.edu",
+  "lat": 34.996858,
+  "lng": -81.969568
+}, {
+  "name": "Voorhees College",
+  "dom": "voorhees.edu",
+  "lat": 33.30693,
+  "lng": -81.1287751
+}, {
+  "name": "Winthrop University",
+  "dom": "winthrop.edu",
+  "lat": 34.9385133,
+  "lng": -81.0286339
+}, {
+  "name": "Wofford College",
+  "dom": "wofford.edu",
+  "lat": 34.9588759,
+  "lng": -81.934516
+}, {
+  "name": "Augustana College",
+  "dom": "augie.edu",
+  "lat": 43.5272492,
+  "lng": -96.7362727
+}, {
+  "name": "Black Hills State University",
+  "dom": "bhsu.edu",
+  "lat": 44.4965054,
+  "lng": -103.8712643
+}, {
+  "name": "Dakota State University",
+  "dom": "dsu.edu",
+  "lat": 44.0135747,
+  "lng": -97.1102277
+}, {
+  "name": "Dakota Wesleyan University",
+  "dom": "dwu.edu",
+  "lat": 43.69698289999999,
+  "lng": -98.03109169999999
+}, {
+  "name": "Mount Marty College",
+  "dom": "mtmc.edu",
+  "lat": 42.8741668,
+  "lng": -97.4078814
+}, {
+  "name": "National American University - Rapid City",
+  "dom": "national.edu",
+  "lat": 44.0778553,
+  "lng": -103.2218688
+}, {
+  "name": "Northern State University",
+  "dom": "northern.edu",
+  "lat": 45.4527523,
+  "lng": -98.4836222
+}, {
+  "name": "Oglala Lakota College",
+  "dom": "olc.edu",
+  "lat": 43.4249934,
+  "lng": -102.1765463
+}, {
+  "name": "Presentation College",
+  "dom": "presentation.edu",
+  "lat": 45.4810495,
+  "lng": -98.48800639999999
+}, {
+  "name": "Sinte Gleska University",
+  "dom": "sintegleska.edu",
+  "lat": 43.1999944,
+  "lng": -96.43040930000001
+}, {
+  "name": "Sioux Falls Seminary",
+  "dom": "sfseminary.edu",
+  "lat": 43.5255272,
+  "lng": -96.7358684
+}, {
+  "name": "South Dakota School of Mines and Technology",
+  "dom": "sdsmt.edu",
+  "lat": 44.0736727,
+  "lng": -103.2062792
+}, {
+  "name": "South Dakota State University",
+  "dom": "sdstate.edu",
+  "lat": 44.31,
+  "lng": -96.78999999999999
+}, {
+  "name": "University of Sioux Falls",
+  "dom": "usiouxfalls.edu",
+  "lat": 43.5322036,
+  "lng": -96.73860040000001
+}, {
+  "name": "University of South Dakota",
+  "dom": "usd.edu",
+  "lat": 42.7840001,
+  "lng": -96.9259876
+}, {
+  "name": "Aquinas College",
+  "dom": "aquinascollege.edu",
+  "lat": 36.0214019,
+  "lng": -87.0299342
+}, {
+  "name": "Austin Peay State University",
+  "dom": "apsu.edu",
+  "lat": 36.535039,
+  "lng": -87.3540979
+}, {
+  "name": "Baptist Memorial College of Health Sciences",
+  "dom": "bchs.edu",
+  "lat": 35.1390157,
+  "lng": -90.02828480000001
+}, {
+  "name": "Bethel University",
+  "dom": "bethelu.edu",
+  "lat": 36.1367513,
+  "lng": -88.51708269999999
+}, {
+  "name": "Bryan College",
+  "dom": "bryan.edu",
+  "lat": 35.4976178,
+  "lng": -84.9986887
+}, {
+  "name": "Carson-Newman University",
+  "dom": "cn.edu",
+  "lat": 36.122207,
+  "lng": -83.4908729
+}, {
+  "name": "Christian Brothers University",
+  "dom": "cbu.edu",
+  "lat": 35.1402854,
+  "lng": -90.0067033
+}, {
+  "name": "Cumberland University",
+  "dom": "cumberland.edu",
+  "lat": 36.2023268,
+  "lng": -86.29568599999999
+}, {
+  "name": "East Tennessee State University",
+  "dom": "etsu.edu",
+  "lat": 36.304277,
+  "lng": -82.3640843
+}, {
+  "name": "Fisk University",
+  "dom": "fisk.edu",
+  "lat": 36.167574,
+  "lng": -86.8041028
+}, {
+  "name": "Freed-Hardeman University",
+  "dom": "fhu.edu",
+  "lat": 35.4409595,
+  "lng": -88.63702649999999
+}, {
+  "name": "King University",
+  "dom": "king.edu",
+  "lat": 36.5859965,
+  "lng": -82.1564784
+}, {
+  "name": "Lane College",
+  "dom": "lanecollege.edu",
+  "lat": 35.62769040000001,
+  "lng": -88.8061202
+}, {
+  "name": "LeMoyne-Owen College",
+  "dom": "loc.edu",
+  "lat": 35.118061,
+  "lng": -90.034511
+}, {
+  "name": "Lee University",
+  "dom": "leeuniversity.edu",
+  "lat": 35.1659752,
+  "lng": -84.87144099999999
+}, {
+  "name": "Lincoln Memorial University",
+  "dom": "lmunet.edu",
+  "lat": 36.5810737,
+  "lng": -83.65951539999999
+}, {
+  "name": "Lipscomb University",
+  "dom": "lipscomb.edu",
+  "lat": 36.1058519,
+  "lng": -86.7954331
+}, {
+  "name": "Martin Methodist College",
+  "dom": "martinmethodist.edu",
+  "lat": 35.200228,
+  "lng": -87.03625
+}, {
+  "name": "Maryville College",
+  "dom": "maryvillecollege.edu",
+  "lat": 35.7548566,
+  "lng": -83.9598113
+}, {
+  "name": "Meharry Medical College",
+  "dom": "mmc.edu",
+  "lat": 36.1669104,
+  "lng": -86.80556709999999
+}, {
+  "name": "Memphis College of Art",
+  "dom": "mca.edu",
+  "lat": 35.142289,
+  "lng": -89.995965
+}, {
+  "name": "Memphis Theological Seminary",
+  "dom": "memphisseminary.edu",
+  "lat": 35.13227740000001,
+  "lng": -89.9836237
+}, {
+  "name": "Mid-America Baptist Theological Seminary, Germantown",
+  "dom": "mabts.edu",
+  "lat": 35.0885047,
+  "lng": -89.8107161
+}, {
+  "name": "Middle Tennessee School of Anesthesia Inc",
+  "dom": "mtsa.edu",
+  "lat": 36.25324800000001,
+  "lng": -86.683691
+}, {
+  "name": "Middle Tennessee State University",
+  "dom": "mtsu.edu",
+  "lat": 35.85483,
+  "lng": -86.37017399999999
+}, {
+  "name": "Milligan College",
+  "dom": "milligan.edu",
+  "lat": 36.2996452,
+  "lng": -82.2927582
+}, {
+  "name": "Pentecostal Theological Seminary",
+  "dom": "ptseminary.edu",
+  "lat": 35.1626269,
+  "lng": -84.8688652
+}, {
+  "name": "Rhodes College",
+  "dom": "rhodes.edu",
+  "lat": 35.1529053,
+  "lng": -89.9926139
+}, {
+  "name": "South College",
+  "dom": "southcollegetn.edu",
+  "lat": 35.9577825,
+  "lng": -84.0266133
+}, {
+  "name": "Southern Adventist University",
+  "dom": "southern.edu",
+  "lat": 35.0482015,
+  "lng": -85.0519508
+}, {
+  "name": "Southern College of Optometry",
+  "dom": "sco.edu",
+  "lat": 35.1386424,
+  "lng": -90.02039549999999
+}, {
+  "name": "Tennessee State University",
+  "dom": "tnstate.edu",
+  "lat": 36.1661921,
+  "lng": -86.82948119999999
+}, {
+  "name": "Tennessee Technological University",
+  "dom": "tntech.edu",
+  "lat": 36.1742661,
+  "lng": -85.50379679999999
+}, {
+  "name": "Tennessee Wesleyan College",
+  "dom": "twcnet.edu",
+  "lat": 35.44492779999999,
+  "lng": -84.5926915
+}, {
+  "name": "The University of Tennessee - Chattanooga",
+  "dom": "utc.edu",
+  "lat": 35.045677,
+  "lng": -85.29945
+}, {
+  "name": "The University of Tennessee - Martin",
+  "dom": "utm.edu",
+  "lat": 36.3520346,
+  "lng": -88.8834846
+}, {
+  "name": "The University of the South",
+  "dom": "sewanee.edu",
+  "lat": 35.2027953,
+  "lng": -85.9208317
+}, {
+  "name": "Trevecca Nazarene University",
+  "dom": "trevecca.edu",
+  "lat": 36.1419091,
+  "lng": -86.7416978
+}, {
+  "name": "Tusculum College",
+  "dom": "tusculum.edu",
+  "lat": 36.17371139999999,
+  "lng": -82.7597589
+}, {
+  "name": "Union University",
+  "dom": "uu.edu",
+  "lat": 35.6813076,
+  "lng": -88.85742169999999
+}, {
+  "name": "University of Memphis",
+  "dom": "memphis.edu",
+  "lat": 35.1186964,
+  "lng": -89.93794980000001
+}, {
+  "name": "University of Tennessee",
+  "dom": "tennessee.edu",
+  "lat": 35.9520507,
+  "lng": -83.92584389999999
+}, {
+  "name": "Vanderbilt University",
+  "dom": "vanderbilt.edu",
+  "lat": 36.1504379,
+  "lng": -86.8012013
+}, {
+  "name": "Vanderbilt University Medical Center",
+  "dom": "vanderbilt.edu",
+  "lat": 36.144932,
+  "lng": -86.80146099999999
+}, {
+  "name": "Victory University",
+  "dom": "victory.edu",
+  "lat": 35.138789,
+  "lng": -89.9458609
+}, {
+  "name": "Watkins College of Art, Design & Film",
+  "dom": "watkins.edu",
+  "lat": 36.193612,
+  "lng": -86.804953
+}, {
+  "name": "AOMA Graduate School of Integrative Medicine",
+  "dom": "aoma.edu",
+  "lat": 30.3586379,
+  "lng": -97.73492220000001
+}, {
+  "name": "Abilene Christian University",
+  "dom": "acu.edu",
+  "lat": 32.4697786,
+  "lng": -99.70909759999999
+}, {
+  "name": "Amberton University",
+  "dom": "amberton.edu",
+  "lat": 32.859847,
+  "lng": -96.6529249
+}, {
+  "name": "American College of Acupuncture and Oriental Medicine",
+  "dom": "acaom.edu",
+  "lat": 29.735785,
+  "lng": -95.52474699999999
+}, {
+  "name": "Angelo State University",
+  "dom": "angelo.edu",
+  "lat": 31.4551895,
+  "lng": -100.4393856
+}, {
+  "name": "Austin College",
+  "dom": "austincollege.edu",
+  "lat": 33.6476716,
+  "lng": -96.59540179999999
+}, {
+  "name": "Austin Graduate School of Theology",
+  "dom": "austingrad.edu",
+  "lat": 30.2820842,
+  "lng": -97.7391901
+}, {
+  "name": "Austin Presbyterian Theological Seminary",
+  "dom": "austinseminary.edu",
+  "lat": 30.29251,
+  "lng": -97.737837
+}, {
+  "name": "Baptist Missionary Association Theological Seminary",
+  "dom": "bmats.edu",
+  "lat": 31.9775828,
+  "lng": -95.2567359
+}, {
+  "name": "Baylor College of Medicine",
+  "dom": "bcm.edu",
+  "lat": 29.7050857,
+  "lng": -95.40180869999999
+}, {
+  "name": "Baylor University",
+  "dom": "baylor.edu",
+  "lat": 31.5447389,
+  "lng": -97.1183626
+}, {
+  "name": "Brite Divinity School of Texas Christian University",
+  "dom": "tcu.edu",
+  "lat": 32.7107827,
+  "lng": -97.3611813
+}, {
+  "name": "College of Biblical Studies-Houston",
+  "dom": "cbshouston.edu",
+  "lat": 29.716589,
+  "lng": -95.50655
+}, {
+  "name": "Concordia University at Austin",
+  "dom": "concordia.edu",
+  "lat": 30.291654,
+  "lng": -97.72227300000002
+}, {
+  "name": "Dallas Baptist University",
+  "dom": "dbu.edu",
+  "lat": 32.7102214,
+  "lng": -96.9510794
+}, {
+  "name": "Dallas Christian College",
+  "dom": "dallas.edu",
+  "lat": 32.9144508,
+  "lng": -96.8885758
+}, {
+  "name": "Dallas Theological Seminary",
+  "dom": "dts.edu",
+  "lat": 32.7944969,
+  "lng": -96.77971439999999
+}, {
+  "name": "East Texas Baptist University",
+  "dom": "etbu.edu",
+  "lat": 32.5567216,
+  "lng": -94.37243889999999
+}, {
+  "name": "Graduate Institute of Applied Linguistics",
+  "dom": "gial.edu",
+  "lat": 32.6639527,
+  "lng": -96.9527344
+}, {
+  "name": "Hardin-Simmons University",
+  "dom": "hsutx.edu",
+  "lat": 32.475068,
+  "lng": -99.73254999999999
+}, {
+  "name": "Houston Baptist University",
+  "dom": "hbu.edu",
+  "lat": 29.69517179999999,
+  "lng": -95.51211669999999
+}, {
+  "name": "Howard Payne University",
+  "dom": "hputx.edu",
+  "lat": 31.7161938,
+  "lng": -98.9859366
+}, {
+  "name": "Huston-Tillotson University",
+  "dom": "htu.edu",
+  "lat": 30.264681,
+  "lng": -97.722331
+}, {
+  "name": "Jarvis Christian College",
+  "dom": "jarvis.edu",
+  "lat": 32.3507042,
+  "lng": -88.7431986
+}, {
+  "name": "Lamar State College - Port Arthur",
+  "dom": "lamar.edu",
+  "lat": 29.879946,
+  "lng": -93.92631399999999
+}, {
+  "name": "Lamar University",
+  "dom": "lamar.edu",
+  "lat": 29.9882293,
+  "lng": -94.2443677
+}, {
+  "name": "LeTourneau University",
+  "dom": "letu.edu",
+  "lat": 32.4675447,
+  "lng": -94.72916649999999
+}, {
+  "name": "Lubbock Christian University",
+  "dom": "lcu.edu",
+  "lat": 33.5776867,
+  "lng": -101.9347203
+}, {
+  "name": "McMurry University",
+  "dom": "mcm.edu",
+  "lat": 32.432158,
+  "lng": -99.7479604
+}, {
+  "name": "Midwestern State University",
+  "dom": "mwsu.edu",
+  "lat": 33.8764591,
+  "lng": -98.5193496
+}, {
+  "name": "Oblate School of Theology",
+  "dom": "ost.edu",
+  "lat": 29.505996,
+  "lng": -98.50312799999999
+}, {
+  "name": "Our Lady of the Lake University",
+  "dom": "ollusa.edu",
+  "lat": 29.4260471,
+  "lng": -98.54359029999999
+}, {
+  "name": "Paul Quinn College",
+  "dom": "pqc.edu",
+  "lat": 32.6792987,
+  "lng": -96.7508948
+}, {
+  "name": "Prairie View A & M University",
+  "dom": "pvamu.edu",
+  "lat": 30.088373,
+  "lng": -95.99243799999999
+}, {
+  "name": "Sam Houston State University",
+  "dom": "shsu.edu",
+  "lat": 30.715275,
+  "lng": -95.5477738
+}, {
+  "name": "Schreiner University",
+  "dom": "schreiner.edu",
+  "lat": 30.0336376,
+  "lng": -99.1295099
+}, {
+  "name": "Seminary of the Southwest",
+  "dom": "ssw.edu",
+  "lat": 30.2931675,
+  "lng": -97.7325381
+}, {
+  "name": "South Texas College of Law",
+  "dom": "stcl.edu",
+  "lat": 29.751828,
+  "lng": -95.36607099999999
+}, {
+  "name": "Southern Methodist University",
+  "dom": "smu.edu",
+  "lat": 32.8449511,
+  "lng": -96.78593339999999
+}, {
+  "name": "Southwestern Adventist University",
+  "dom": "swau.edu",
+  "lat": 32.3962578,
+  "lng": -97.3264832
+}, {
+  "name": "Southwestern Assemblies of God University",
+  "dom": "sagu.edu",
+  "lat": 32.4048477,
+  "lng": -96.8543
+}, {
+  "name": "Southwestern Baptist Theological Seminary",
+  "dom": "swbts.edu",
+  "lat": 32.6819874,
+  "lng": -97.348359
+}, {
+  "name": "Southwestern Christian College",
+  "dom": "swcc.edu",
+  "lat": 32.7360079,
+  "lng": -96.28498800000001
+}, {
+  "name": "Southwestern University",
+  "dom": "southwestern.edu",
+  "lat": 30.6336345,
+  "lng": -97.66515410000001
+}, {
+  "name": "St. Edward's University",
+  "dom": "stedwards.edu",
+  "lat": 30.2317321,
+  "lng": -97.75783849999999
+}, {
+  "name": "St. Mary's University",
+  "dom": "stmarytx.edu",
+  "lat": 29.4530656,
+  "lng": -98.56130879999999
+}, {
+  "name": "Stephen F Austin State University",
+  "dom": "sfasu.edu",
+  "lat": 31.6205797,
+  "lng": -94.6465302
+}, {
+  "name": "Sul Ross State University",
+  "dom": "sulross.edu",
+  "lat": 30.3628596,
+  "lng": -103.6537591
+}, {
+  "name": "Tarleton State University",
+  "dom": "tarleton.edu",
+  "lat": 32.2150068,
+  "lng": -98.21477519999999
+}, {
+  "name": "Texas A & M International University",
+  "dom": "tamiu.edu",
+  "lat": 27.5737945,
+  "lng": -99.4350355
+}, {
+  "name": "Texas A & M University",
+  "dom": "tamu.edu",
+  "lat": 30.61,
+  "lng": -96.33999999999999
+}, {
+  "name": "Texas A & M University - Corpus Christi",
+  "dom": "tamucc.edu",
+  "lat": 27.7135097,
+  "lng": -97.3246818
+}, {
+  "name": "Texas A & M University - Kingsville",
+  "dom": "tamuk.edu",
+  "lat": 27.5257326,
+  "lng": -97.8824631
+}, {
+  "name": "Texas A & M University - Texarkana",
+  "dom": "tamut.edu",
+  "lat": 33.4439999,
+  "lng": -94.0802896
+}, {
+  "name": "Texas A & M University System Health Science Center",
+  "dom": "tamhsc.edu",
+  "lat": 30.6371882,
+  "lng": -96.3275992
+}, {
+  "name": "Texas Chiropractic College",
+  "dom": "txchiro.edu",
+  "lat": 29.6640368,
+  "lng": -95.1497461
+}, {
+  "name": "Texas Christian University",
+  "dom": "tcu.edu",
+  "lat": 32.7107827,
+  "lng": -97.3611813
+}, {
+  "name": "Texas College",
+  "dom": "texascollege.edu",
+  "lat": 32.374895,
+  "lng": -95.312516
+}, {
+  "name": "Texas Lutheran University",
+  "dom": "tlu.edu",
+  "lat": 29.5704025,
+  "lng": -97.9844081
+}, {
+  "name": "Texas Southern University",
+  "dom": "tsu.edu",
+  "lat": 29.7241705,
+  "lng": -95.3624425
+}, {
+  "name": "Texas State University",
+  "dom": "txstate.edu",
+  "lat": 29.8858209,
+  "lng": -97.93796030000001
+}, {
+  "name": "Texas Tech University",
+  "dom": "ttu.edu",
+  "lat": 33.5834015,
+  "lng": -101.8747372
+}, {
+  "name": "Texas Tech University Health Sciences Center",
+  "dom": "ttuhsc.edu",
+  "lat": 33.5869836,
+  "lng": -101.899153
+}, {
+  "name": "Texas Wesleyan University",
+  "dom": "txwes.edu",
+  "lat": 32.732559,
+  "lng": -97.279607
+}, {
+  "name": "Texas Woman's University",
+  "dom": "twu.edu",
+  "lat": 33.2263678,
+  "lng": -97.1278323
+}, {
+  "name": "The Criswell College",
+  "dom": "criswell.edu",
+  "lat": 32.7937233,
+  "lng": -96.77687639999999
+}, {
+  "name": "The University of Texas - Pan American",
+  "dom": "utpa.edu",
+  "lat": 26.3051924,
+  "lng": -98.1762936
+}, {
+  "name": "The University of Texas Health Science - San Antonio",
+  "dom": "uthscsa.edu",
+  "lat": 29.5075622,
+  "lng": -98.575414
+}, {
+  "name": "The University of Texas Medical Branch",
+  "dom": "utmb.edu",
+  "lat": 29.3123253,
+  "lng": -94.77317330000001
+}, {
+  "name": "The University of Texas School of Health Professions",
+  "dom": "mdanderson.org",
+  "lat": 29.7070648,
+  "lng": -95.3971624
+}, {
+  "name": "The University of Texas at Arlington",
+  "dom": "uta.edu",
+  "lat": 32.7297304,
+  "lng": -97.11639199999999
+}, {
+  "name": "The University of Texas at Brownsville and Texas Southmost College",
+  "dom": "utb.edu",
+  "lat": 25.8995869,
+  "lng": -97.4921858
+}, {
+  "name": "The University of Texas at Dallas",
+  "dom": "utdallas.edu",
+  "lat": 32.9867619,
+  "lng": -96.7488992
+}, {
+  "name": "The University of Texas at El Paso",
+  "dom": "utep.edu",
+  "lat": 31.7694885,
+  "lng": -106.5063553
+}, {
+  "name": "The University of Texas at San Antonio",
+  "dom": "utsa.edu",
+  "lat": 29.585426,
+  "lng": -98.61724090000001
+}, {
+  "name": "The University of Texas at Tyler",
+  "dom": "uttyler.edu",
+  "lat": 32.315394,
+  "lng": -95.253434
+}, {
+  "name": "The University of Texas of the Permian Basin",
+  "dom": "utpb.edu",
+  "lat": 31.8814693,
+  "lng": -102.3214952
+}, {
+  "name": "Trinity University",
+  "dom": "trinity.edu",
+  "lat": 29.4634291,
+  "lng": -98.4865832
+}, {
+  "name": "University of Dallas",
+  "dom": "udallas.edu",
+  "lat": 32.8463287,
+  "lng": -96.9196364
+}, {
+  "name": "University of Houston",
+  "dom": "uh.edu",
+  "lat": 29.7181474,
+  "lng": -95.33699209999999
+}, {
+  "name": "University of Houston-Clear Lake",
+  "dom": "uhcl.edu",
+  "lat": 29.58419439999999,
+  "lng": -95.0989967
+}, {
+  "name": "University of Houston-Downtown",
+  "dom": "uhd.edu",
+  "lat": 29.7657637,
+  "lng": -95.359601
+}, {
+  "name": "University of Houston-Victoria",
+  "dom": "uhv.edu",
+  "lat": 28.816247,
+  "lng": -96.97632879999999
+}, {
+  "name": "University of Mary Hardin-Baylor",
+  "dom": "umhb.edu",
+  "lat": 31.0666889,
+  "lng": -97.46345339999999
+}, {
+  "name": "University of North Texas",
+  "dom": "unt.edu",
+  "lat": 33.2109538,
+  "lng": -97.1469233
+}, {
+  "name": "University of North Texas Health Science Center at Fort Worth",
+  "dom": "unt.edu",
+  "lat": 32.749542,
+  "lng": -97.36903
+}, {
+  "name": "University of St. Thomas",
+  "dom": "stthom.edu",
+  "lat": 29.73829,
+  "lng": -95.39187299999999
+}, {
+  "name": "University of Texas Southwestern Medical Center",
+  "dom": "utsouthwestern.edu",
+  "lat": 32.8120296,
+  "lng": -96.8391365
+}, {
+  "name": "University of Texas at Austin",
+  "dom": "utexas.edu",
+  "lat": 30.2850357,
+  "lng": -97.7288552
+}, {
+  "name": "University of the Incarnate Word",
+  "dom": "uiw.edu",
+  "lat": 29.467138,
+  "lng": -98.469515
+}, {
+  "name": "Wade College",
+  "dom": "wadecollege.edu",
+  "lat": 32.7891591,
+  "lng": -96.82170169999999
+}, {
+  "name": "Wayland Baptist University",
+  "dom": "wbu.edu",
+  "lat": 34.186713,
+  "lng": -101.726967
+}, {
+  "name": "West Texas A & M University",
+  "dom": "wtamu.edu",
+  "lat": 34.9798283,
+  "lng": -101.9158257
+}, {
+  "name": "Wiley College",
+  "dom": "wileyc.edu",
+  "lat": 32.5385397,
+  "lng": -94.3754862
+}, {
+  "name": "Brigham Young  University Independent Study",
+  "dom": "byu.edu",
+  "lat": 40.25365439999999,
+  "lng": -111.6446723
+}, {
+  "name": "Brigham Young University",
+  "dom": "byu.edu",
+  "lat": 37.3592088,
+  "lng": -96.3028502
+}, {
+  "name": "Dixie State College of Utah",
+  "dom": "dixie.edu",
+  "lat": 37.1027767,
+  "lng": -113.5658777
+}, {
+  "name": "Southern Utah University",
+  "dom": "suu.edu",
+  "lat": 37.6773498,
+  "lng": -113.0684641
+}, {
+  "name": "University of Utah",
+  "dom": "utah.edu",
+  "lat": 40.765023,
+  "lng": -111.848931
+}, {
+  "name": "University of Utah Health Sciences Center",
+  "dom": "utah.edu",
+  "lat": 40.7704811,
+  "lng": -111.8367368
+}, {
+  "name": "Utah State University",
+  "dom": "usu.edu",
+  "lat": 41.7420988,
+  "lng": -111.8083982
+}, {
+  "name": "Utah Valley University",
+  "dom": "uvu.edu",
+  "lat": 40.2773322,
+  "lng": -111.712954
+}, {
+  "name": "Weber State University",
+  "dom": "weber.edu",
+  "lat": 41.1950253,
+  "lng": -111.9485326
+}, {
+  "name": "Western Governors University",
+  "dom": "wgu.edu",
+  "lat": 40.6319925,
+  "lng": -111.8721484
+}, {
+  "name": "Westminster College",
+  "dom": "westminstercollege.edu",
+  "lat": 40.731482,
+  "lng": -111.855494
+}, {
+  "name": "Averett University",
+  "dom": "averett.edu",
+  "lat": 36.5767937,
+  "lng": -79.4132249
+}, {
+  "name": "Bluefield College",
+  "dom": "bluefield.edu",
+  "lat": 37.2408092,
+  "lng": -81.25421759999999
+}, {
+  "name": "Bridgewater College",
+  "dom": "bridgewater.edu",
+  "lat": 38.378756,
+  "lng": -78.971553
+}, {
+  "name": "Christendom College",
+  "dom": "christendom.edu",
+  "lat": 38.949664,
+  "lng": -78.146138
+}, {
+  "name": "Christopher Newport University",
+  "dom": "cnu.edu",
+  "lat": 37.063821,
+  "lng": -76.495419
+}, {
+  "name": "College of William and Mary",
+  "dom": "wm.edu",
+  "lat": 37.27,
+  "lng": -76.7099999
+}, {
+  "name": "ECPI University",
+  "dom": "ecpi.edu",
+  "lat": 36.842688,
+  "lng": -76.1789919
+}, {
+  "name": "Eastern Mennonite University",
+  "dom": "emu.edu",
+  "lat": 38.4700518,
+  "lng": -78.8776293
+}, {
+  "name": "Eastern Virginia Medical School",
+  "dom": "evms.edu",
+  "lat": 36.86024,
+  "lng": -76.304448
+}, {
+  "name": "Edward Via Virginia College of Osteopathic Medicine",
+  "dom": "vt.edu",
+  "lat": 37.1999,
+  "lng": -80.4067
+}, {
+  "name": "Emory and Henry College",
+  "dom": "ehc.edu",
+  "lat": 36.7724166,
+  "lng": -81.8328433
+}, {
+  "name": "Ferrum College",
+  "dom": "ferrum.edu",
+  "lat": 36.9446438,
+  "lng": -80.0384079
+}, {
+  "name": "George Mason University",
+  "dom": "gmu.edu",
+  "lat": 38.8329383,
+  "lng": -77.308377
+}, {
+  "name": "Hampden-Sydney College",
+  "dom": "hsc.edu",
+  "lat": 37.2426032,
+  "lng": -78.4605072
+}, {
+  "name": "Hampton University",
+  "dom": "hamptonu.edu",
+  "lat": 37.0255569,
+  "lng": -76.3426673
+}, {
+  "name": "Hollins University",
+  "dom": "hollins.edu",
+  "lat": 37.3516886,
+  "lng": -79.94069069999999
+}, {
+  "name": "James Madison University",
+  "dom": "jmu.edu",
+  "lat": 38.435428,
+  "lng": -78.8732362
+}, {
+  "name": "Jefferson College of Health Sciences",
+  "dom": "jchs.edu",
+  "lat": 37.2655956,
+  "lng": -79.94104639999999
+}, {
+  "name": "Liberty University",
+  "dom": "liberty.edu",
+  "lat": 37.352613,
+  "lng": -79.17906099999999
+}, {
+  "name": "Longwood University",
+  "dom": "longwood.edu",
+  "lat": 37.2991689,
+  "lng": -78.3960429
+}, {
+  "name": "Lynchburg College",
+  "dom": "lynchburg.edu",
+  "lat": 37.40071,
+  "lng": -79.18293000000001
+}, {
+  "name": "Mary Baldwin College",
+  "dom": "mbc.edu",
+  "lat": 38.1506408,
+  "lng": -79.071699
+}, {
+  "name": "Marymount University",
+  "dom": "marymount.edu",
+  "lat": 38.9052975,
+  "lng": -77.1284699
+}, {
+  "name": "Norfolk State University",
+  "dom": "nsu.edu",
+  "lat": 36.8466428,
+  "lng": -76.26973749999999
+}, {
+  "name": "Old Dominion University",
+  "dom": "odu.edu",
+  "lat": 36.888932,
+  "lng": -76.3035271
+}, {
+  "name": "Radford University",
+  "dom": "radford.edu",
+  "lat": 37.13761849999999,
+  "lng": -80.5454954
+}, {
+  "name": "Randolph-Macon College",
+  "dom": "rmc.edu",
+  "lat": 37.7607167,
+  "lng": -77.4771379
+}, {
+  "name": "Randolph-Macon Woman's College",
+  "dom": "randolphcollege.edu",
+  "lat": 37.438882,
+  "lng": -79.17147
+}, {
+  "name": "Regent University",
+  "dom": "regent.edu",
+  "lat": 36.803357,
+  "lng": -76.192267
+}, {
+  "name": "Roanoke College",
+  "dom": "roanoke.edu",
+  "lat": 37.29605859999999,
+  "lng": -80.0541422
+}, {
+  "name": "Shenandoah University",
+  "dom": "su.edu",
+  "lat": 39.169111,
+  "lng": -78.1579129
+}, {
+  "name": "Sweet Briar College",
+  "dom": "sbc.edu",
+  "lat": 37.55,
+  "lng": -79.0699999
+}, {
+  "name": "The Institute for the Psychological Sciences",
+  "dom": "ipsciences.edu",
+  "lat": 38.855833,
+  "lng": -77.0515719
+}, {
+  "name": "Union Presbyterian Seminary",
+  "dom": "upsem.edu",
+  "lat": 37.5789056,
+  "lng": -77.44939780000001
+}, {
+  "name": "University of Mary Washington",
+  "dom": "umw.edu",
+  "lat": 38.3013039,
+  "lng": -77.47447009999999
+}, {
+  "name": "University of Richmond",
+  "dom": "richmond.edu",
+  "lat": 37.5739212,
+  "lng": -77.5428644
+}, {
+  "name": "University of Virginia",
+  "dom": "virginia.edu",
+  "lat": 38.0421289,
+  "lng": -78.5024253
+}, {
+  "name": "Virginia Commonwealth University",
+  "dom": "vcu.edu",
+  "lat": 37.549691,
+  "lng": -77.452578
+}, {
+  "name": "Virginia Intermont College",
+  "dom": "vic.edu",
+  "lat": 36.6055723,
+  "lng": -82.1772246
+}, {
+  "name": "Virginia Military Institute",
+  "dom": "vmi.edu",
+  "lat": 37.78402080000001,
+  "lng": -79.4428157
+}, {
+  "name": "Virginia Polytechnic Institute and State University",
+  "dom": "vt.edu",
+  "lat": 37.4315734,
+  "lng": -78.6568942
+}, {
+  "name": "Virginia State University",
+  "dom": "vsu.edu",
+  "lat": 37.2364516,
+  "lng": -77.41990349999999
+}, {
+  "name": "Virginia Tech University Falls Church",
+  "dom": "vt.edu",
+  "lat": 38.89747699999999,
+  "lng": -77.19014899999999
+}, {
+  "name": "Virginia Union University",
+  "dom": "vuu.edu",
+  "lat": 37.561849,
+  "lng": -77.450971
+}, {
+  "name": "Virginia Wesleyan College",
+  "dom": "vwc.edu",
+  "lat": 36.872941,
+  "lng": -76.185109
+}, {
+  "name": "Washington and Lee University",
+  "dom": "wlu.edu",
+  "lat": 37.7862262,
+  "lng": -79.44360940000001
+}, {
+  "name": "University of the Virgin Islands",
+  "dom": "uvi.edu",
+  "lat": 18.3400981,
+  "lng": -64.9704048
+}, {
+  "name": "Bennington College",
+  "dom": "bennington.edu",
+  "lat": 42.9203744,
+  "lng": -73.2358303
+}, {
+  "name": "Castleton State College",
+  "dom": "castleton.edu",
+  "lat": 43.609245,
+  "lng": -73.1779789
+}, {
+  "name": "Champlain College",
+  "dom": "champlain.edu",
+  "lat": 44.475517,
+  "lng": -73.2057109
+}, {
+  "name": "College of St Joseph",
+  "dom": "csj.edu",
+  "lat": 43.601185,
+  "lng": -73.000288
+}, {
+  "name": "Goddard College",
+  "dom": "goddard.edu",
+  "lat": 44.2786076,
+  "lng": -72.4390121
+}, {
+  "name": "Green Mountain College",
+  "dom": "greenmtn.edu",
+  "lat": 43.5171505,
+  "lng": -73.2400735
+}, {
+  "name": "Landmark College",
+  "dom": "landmark.edu",
+  "lat": 42.9937366,
+  "lng": -72.4655186
+}, {
+  "name": "Lyndon State College",
+  "dom": "lyndonstate.edu",
+  "lat": 44.5355567,
+  "lng": -72.025198
+}, {
+  "name": "Marlboro College",
+  "dom": "marlboro.edu",
+  "lat": 42.8390545,
+  "lng": -72.7347545
+}, {
+  "name": "Middlebury College",
+  "dom": "middlebury.edu",
+  "lat": 44.0090601,
+  "lng": -73.176071
+}, {
+  "name": "Norwich University",
+  "dom": "norwich.edu",
+  "lat": 44.14167740000001,
+  "lng": -72.6586123
+}, {
+  "name": "Saint Michaels College",
+  "dom": "smcvt.edu",
+  "lat": 44.4944757,
+  "lng": -73.16701479999999
+}, {
+  "name": "School for International Training",
+  "dom": "sit.edu",
+  "lat": 42.9032703,
+  "lng": -72.5660165
+}, {
+  "name": "Southern Vermont College",
+  "dom": "svc.edu",
+  "lat": 42.867672,
+  "lng": -73.218582
+}, {
+  "name": "Sterling College",
+  "dom": "sterlingcollege.edu",
+  "lat": 44.6522263,
+  "lng": -72.3827567
+}, {
+  "name": "University of Vermont",
+  "dom": "uvm.edu",
+  "lat": 44.4782848,
+  "lng": -73.2010717
+}, {
+  "name": "Vermont Law School",
+  "dom": "vermontlaw.edu",
+  "lat": 43.821682,
+  "lng": -72.520905
+}, {
+  "name": "Vermont Technical College",
+  "dom": "vtc.edu",
+  "lat": 43.940042,
+  "lng": -72.6069583
+}, {
+  "name": "Bastyr University",
+  "dom": "bastyr.edu",
+  "lat": 47.7299505,
+  "lng": -122.2519215
+}, {
+  "name": "Bellevue College",
+  "dom": "bellevuecollege.edu",
+  "lat": 47.58535149999999,
+  "lng": -122.1482834
+}, {
+  "name": "Central Washington University",
+  "dom": "cwu.edu",
+  "lat": 47.000023,
+  "lng": -120.544309
+}, {
+  "name": "City University of Seattle",
+  "dom": "cityu.edu",
+  "lat": 47.6115118,
+  "lng": -122.182496
+}, {
+  "name": "Cornish College of the Arts",
+  "dom": "cornish.edu",
+  "lat": 47.6181654,
+  "lng": -122.3360955
+}, {
+  "name": "Eastern Washington University",
+  "dom": "ewu.edu",
+  "lat": 47.4908212,
+  "lng": -117.5779793
+}, {
+  "name": "Gonzaga University",
+  "dom": "gonzaga.edu",
+  "lat": 47.665927,
+  "lng": -117.3972
+}, {
+  "name": "Heritage University",
+  "dom": "heritage.edu",
+  "lat": 46.373631,
+  "lng": -120.394378
+}, {
+  "name": "Northwest Indian College",
+  "dom": "nwic.edu",
+  "lat": 48.79461,
+  "lng": -122.614492
+}, {
+  "name": "Northwest University",
+  "dom": "northwestu.edu",
+  "lat": 47.6575292,
+  "lng": -122.1957776
+}, {
+  "name": "Olympic College",
+  "dom": "olympic.edu",
+  "lat": 47.575258,
+  "lng": -122.6352127
+}, {
+  "name": "Pacific Lutheran University",
+  "dom": "plu.edu",
+  "lat": 47.14569220000001,
+  "lng": -122.4466981
+}, {
+  "name": "Saint Martin's University",
+  "dom": "stmartin.edu",
+  "lat": 47.0382423,
+  "lng": -122.8174291
+}, {
+  "name": "Seattle Pacific University",
+  "dom": "spu.edu",
+  "lat": 47.6489199,
+  "lng": -122.3617839
+}, {
+  "name": "Seattle University",
+  "dom": "seattleu.edu",
+  "lat": 47.610585,
+  "lng": -122.3205781
+}, {
+  "name": "The Evergreen State College",
+  "dom": "evergreen.edu",
+  "lat": 47.073705,
+  "lng": -122.974597
+}, {
+  "name": "Trinity Lutheran College",
+  "dom": "tlc.edu",
+  "lat": 47.5717841,
+  "lng": -122.0381022
+}, {
+  "name": "University of Washington-Seattle Campus",
+  "dom": "washington.edu",
+  "lat": 47.6508882,
+  "lng": -122.3084023
+}, {
+  "name": "Walla Walla University",
+  "dom": "wallawalla.edu",
+  "lat": 46.0475193,
+  "lng": -118.3895856
+}, {
+  "name": "Washington State University",
+  "dom": "wsu.edu",
+  "lat": 46.7304108,
+  "lng": -117.1583072
+}, {
+  "name": "Washington State University - Spokane",
+  "dom": "wsu.edu",
+  "lat": 47.6612821,
+  "lng": -117.4080093
+}, {
+  "name": "Western Washington University",
+  "dom": "wwu.edu",
+  "lat": 48.7377644,
+  "lng": -122.4867951
+}, {
+  "name": "Whitman College",
+  "dom": "whitman.edu",
+  "lat": 46.070899,
+  "lng": -118.3295838
+}, {
+  "name": "Whitworth University",
+  "dom": "whitworth.edu",
+  "lat": 47.753685,
+  "lng": -117.417754
+}, {
+  "name": "Alverno College",
+  "dom": "alverno.edu",
+  "lat": 42.9849936,
+  "lng": -87.96783049999999
+}, {
+  "name": "Bellin College",
+  "dom": "bellincollege.edu",
+  "lat": 44.5015667,
+  "lng": -88.0107915
+}, {
+  "name": "Beloit College",
+  "dom": "beloit.edu",
+  "lat": 42.5030333,
+  "lng": -89.0309048
+}, {
+  "name": "Cardinal Stritch University",
+  "dom": "stritch.edu",
+  "lat": 43.140054,
+  "lng": -87.9071529
+}, {
+  "name": "Carroll University",
+  "dom": "carrollu.edu",
+  "lat": 43.004574,
+  "lng": -88.228027
+}, {
+  "name": "Carthage College",
+  "dom": "carthage.edu",
+  "lat": 42.622783,
+  "lng": -87.82187499999999
+}, {
+  "name": "College of Menominee Nation",
+  "dom": "menominee.edu",
+  "lat": 33.5731089,
+  "lng": -82.78910189999999
+}, {
+  "name": "Concordia University Wisconsin",
+  "dom": "cuw.edu",
+  "lat": 43.2504251,
+  "lng": -87.91548089999999
+}, {
+  "name": "Edgewood College",
+  "dom": "edgewood.edu",
+  "lat": 43.0583207,
+  "lng": -89.4216926
+}, {
+  "name": "Franciscan Skemp Healthcare School of Anesthesia",
+  "dom": "uwlax.edu",
+  "lat": 43.804074,
+  "lng": -91.241659
+}, {
+  "name": "Herzing University",
+  "dom": "herzing.edu",
+  "lat": 43.036461,
+  "lng": -87.91956599999999
+}, {
+  "name": "Lakeland College",
+  "dom": "lakeland.edu",
+  "lat": 43.7720773,
+  "lng": -90.2922418
+}, {
+  "name": "Lawrence University",
+  "dom": "lawrence.edu",
+  "lat": 44.26,
+  "lng": -88.42000000000002
+}, {
+  "name": "Maranatha Baptist Bible College",
+  "dom": "mbbc.edu",
+  "lat": 43.1975377,
+  "lng": -88.7422155
+}, {
+  "name": "Medical College of Wisconsin",
+  "dom": "mcw.edu",
+  "lat": 43.04446910000001,
+  "lng": -88.0224784
+}, {
+  "name": "Milwaukee Institute of Art Design",
+  "dom": "miad.edu",
+  "lat": 43.0311782,
+  "lng": -87.90754559999999
+}, {
+  "name": "Milwaukee School of Engineering",
+  "dom": "msoe.edu",
+  "lat": 43.0442405,
+  "lng": -87.90870439999999
+}, {
+  "name": "Mount Mary University",
+  "dom": "mtmary.edu",
+  "lat": 43.0721506,
+  "lng": -88.03043339999999
+}, {
+  "name": "Northland College",
+  "dom": "northland.edu",
+  "lat": 46.5812915,
+  "lng": -90.8738547
+}, {
+  "name": "Ripon College",
+  "dom": "ripon.edu",
+  "lat": 43.8432217,
+  "lng": -88.8409595
+}, {
+  "name": "Sacred Heart School of Theology",
+  "dom": "shst.edu",
+  "lat": 42.9411992,
+  "lng": -88.04852919999999
+}, {
+  "name": "Saint Norbert College",
+  "dom": "snc.edu",
+  "lat": 44.4451589,
+  "lng": -88.071983
+}, {
+  "name": "Silver Lake College",
+  "dom": "sl.edu",
+  "lat": 44.071439,
+  "lng": -87.74106100000002
+}, {
+  "name": "University of Wisconsin - Eau Claire",
+  "dom": "uwec.edu",
+  "lat": 44.797292,
+  "lng": -91.49765959999999
+}, {
+  "name": "University of Wisconsin - Green Bay",
+  "dom": "uwgb.edu",
+  "lat": 44.5323636,
+  "lng": -87.92106969999999
+}, {
+  "name": "University of Wisconsin - La Crosse",
+  "dom": "uwlax.edu",
+  "lat": 43.8128342,
+  "lng": -91.22902239999999
+}, {
+  "name": "University of Wisconsin - Madison",
+  "dom": "wisc.edu",
+  "lat": 43.074648,
+  "lng": -89.4037032
+}, {
+  "name": "University of Wisconsin - Milwaukee",
+  "dom": "uwm.edu",
+  "lat": 43.0824328,
+  "lng": -87.87952299999999
+}, {
+  "name": "University of Wisconsin - Oshkosh",
+  "dom": "uwosh.edu",
+  "lat": 44.0213038,
+  "lng": -88.5507903
+}, {
+  "name": "University of Wisconsin - Parkside",
+  "dom": "uwp.edu",
+  "lat": 42.5844134,
+  "lng": -87.8220898
+}, {
+  "name": "University of Wisconsin - Platteville",
+  "dom": "uwplatt.edu",
+  "lat": 42.73381089999999,
+  "lng": -90.48496689999999
+}, {
+  "name": "University of Wisconsin - River Falls",
+  "dom": "uwrf.edu",
+  "lat": 44.85312450000001,
+  "lng": -92.62274239999999
+}, {
+  "name": "University of Wisconsin - Stevens Point",
+  "dom": "uwsp.edu",
+  "lat": 44.5256122,
+  "lng": -89.56915819999999
+}, {
+  "name": "University of Wisconsin - Stout",
+  "dom": "uwstout.edu",
+  "lat": 44.88861,
+  "lng": -91.929457
+}, {
+  "name": "University of Wisconsin - Superior",
+  "dom": "uwsuper.edu",
+  "lat": 37.3250522,
+  "lng": -88.9389556
+}, {
+  "name": "University of Wisconsin - Whitewater",
+  "dom": "uww.edu",
+  "lat": 42.836551,
+  "lng": -88.743893
+}, {
+  "name": "Viterbo University",
+  "dom": "viterbo.edu",
+  "lat": 43.802044,
+  "lng": -91.245296
+}, {
+  "name": "Wisconsin Lutheran College",
+  "dom": "wlc.edu",
+  "lat": 43.037206,
+  "lng": -88.02269
+}, {
+  "name": "Wisconsin School of Professional Psychology",
+  "dom": "wspp.edu",
+  "lat": 43.10527400000001,
+  "lng": -88.02655399999999
+}, {
+  "name": "Alderson Broaddus University",
+  "dom": "ab.edu",
+  "lat": 39.1579338,
+  "lng": -80.05308529999999
+}, {
+  "name": "Appalachian Bible College",
+  "dom": "abc.edu",
+  "lat": 37.852625,
+  "lng": -81.20006300000001
+}, {
+  "name": "Bethany College",
+  "dom": "bethanywv.edu",
+  "lat": 40.205627,
+  "lng": -80.55673840000001
+}, {
+  "name": "Bluefield State College",
+  "dom": "bluefieldstate.edu",
+  "lat": 37.267436,
+  "lng": -81.235764
+}, {
+  "name": "Concord University",
+  "dom": "concord.edu",
+  "lat": 37.4232283,
+  "lng": -81.0114308
+}, {
+  "name": "Davis & Elkins College",
+  "dom": "dewv.edu",
+  "lat": 38.9304225,
+  "lng": -79.8455382
+}, {
+  "name": "Fairmont State University",
+  "dom": "fairmontstate.edu",
+  "lat": 39.48157,
+  "lng": -80.163202
+}, {
+  "name": "Glenville State College",
+  "dom": "glenville.edu",
+  "lat": 38.9347293,
+  "lng": -80.83381849999999
+}, {
+  "name": "Marshall University",
+  "dom": "marshall.edu",
+  "lat": 38.42314289999999,
+  "lng": -82.4292749
+}, {
+  "name": "Mountain State University",
+  "dom": "mountainstate.edu",
+  "lat": 37.7759524,
+  "lng": -81.1908928
+}, {
+  "name": "Salem International University",
+  "dom": "salemu.edu",
+  "lat": 39.2831792,
+  "lng": -80.56741099999999
+}, {
+  "name": "Shepherd University",
+  "dom": "shepherd.edu",
+  "lat": 39.433645,
+  "lng": -77.804153
+}, {
+  "name": "University of Charleston",
+  "dom": "ucwv.edu",
+  "lat": 38.3326193,
+  "lng": -81.6188184
+}, {
+  "name": "West Liberty University",
+  "dom": "westliberty.edu",
+  "lat": 40.1689394,
+  "lng": -80.59340929999999
+}, {
+  "name": "West Virginia State University",
+  "dom": "wvstateu.edu",
+  "lat": 38.3854237,
+  "lng": -81.7684708
+}, {
+  "name": "West Virginia University",
+  "dom": "wvu.edu",
+  "lat": 39.654181,
+  "lng": -79.9594886
+}, {
+  "name": "West Virginia University at Parkersburg",
+  "dom": "wvup.edu",
+  "lat": 39.2167554,
+  "lng": -81.5057279
+}, {
+  "name": "West Virginia Wesleyan College",
+  "dom": "wvwc.edu",
+  "lat": 38.9894241,
+  "lng": -80.22160339999999
+}, {
+  "name": "Wheeling Jesuit University",
+  "dom": "wju.edu",
+  "lat": 40.067915,
+  "lng": -80.691216
+}, {
+  "name": "University of Wyoming",
+  "dom": "uwyo.edu",
+  "lat": 41.3139319,
+  "lng": -105.5846063
+}]
